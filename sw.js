@@ -1,5 +1,5 @@
-const CACHE='eth-sentinel-v2';
-const CORE=['./','./index.html','./sw.js','./news-translate.js'];
+const CACHE='eth-sentinel-v3';const CORE=['./','./index.html','./sw.js','./news-translate.js'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));
-self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
-self.addEventListener('fetch',e=>{const r=e.request;if(r.method!=='GET')return;if(r.mode==='navigate'){e.respondWith(caches.match('./index.html').then(cached=>{const net=fetch(r).then(res=>{if(res.ok)caches.open(CACHE).then(c=>c.put('./index.html',res.clone()));return res}).catch(()=>cached);return cached||net}))}else if(new URL(r.url).origin===location.origin)e.respondWith(caches.match(r).then(c=>c||fetch(r))) });
+self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==CACHE).map(x=>caches.delete(x)))).then(()=>self.clients.claim())));
+const inject=r=>r.text().then(t=>new Response(t.replace('</body>','<script src="./news-translate.js" defer></script></body>'),{status:r.status,statusText:r.statusText,headers:r.headers}));
+self.addEventListener('fetch',e=>{const r=e.request;if(r.method!=='GET')return;if(r.mode==='navigate'){e.respondWith(caches.match('./index.html').then(cached=>{const net=fetch(r).then(res=>{if(!res.ok)return res;return inject(res).then(x=>{caches.open(CACHE).then(c=>c.put('./index.html',x.clone()));return x})}).catch(()=>cached);return cached?inject(cached):net}))}else if(new URL(r.url).origin===location.origin)e.respondWith(caches.match(r).then(c=>c||fetch(r)))});
