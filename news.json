@@ -1,12 +1,21 @@
 [
   {
+    "title": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
+    "original_title": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/07/oil-up-bitcoin-down-as-u-s-strikes-iranian-crude-carriers",
+    "published": "Mon, 07 Sep 2026 04:44:16 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
     "original_title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
     "published": "Mon, 07 Sep 2026 03:43:12 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
     "published": "Sun, 06 Sep 2026 18:30:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
     "published": "Sun, 06 Sep 2026 16:00:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
     "published": "Sun, 06 Sep 2026 14:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
     "published": "Sat, 05 Sep 2026 18:05:11 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
     "published": "Sat, 05 Sep 2026 16:43:13 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
     "published": "Sat, 05 Sep 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
     "published": "Sat, 05 Sep 2026 05:00:00 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
     "published": "Fri, 04 Sep 2026 14:23:11 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
     "published": "Fri, 04 Sep 2026 12:31:47 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
     "published": "Fri, 04 Sep 2026 11:29:05 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
     "published": "Fri, 04 Sep 2026 09:57:01 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money",
@@ -114,7 +123,7 @@
     "link": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money",
     "published": "Fri, 04 Sep 2026 09:47:15 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "South Korea targets February 2027 rollout for full tokenized securities market",
@@ -123,7 +132,7 @@
     "link": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
     "published": "Fri, 04 Sep 2026 09:41:31 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "Live updates: Bitcoin tumbles after blowout August jobs print",
@@ -132,7 +141,7 @@
     "link": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
     "published": "Fri, 04 Sep 2026 07:34:07 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 07 Sep 2026 00:05:02 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sun, 06 Sep 2026 13:24:43 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sun, 06 Sep 2026 13:03:00 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sun, 06 Sep 2026 09:07:08 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 05 Sep 2026 10:46:00 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 05 Sep 2026 08:03:06 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
@@ -195,7 +204,7 @@
     "link": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 04 Sep 2026 20:30:47 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "FinCEN ties $13B in crypto scams to non-US operations",
@@ -204,7 +213,7 @@
     "link": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 04 Sep 2026 19:22:26 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
     "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
@@ -213,7 +222,7 @@
     "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 04 Sep 2026 17:22:58 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 24
   },
   {
     "title": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
@@ -222,7 +231,7 @@
     "link": "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 04 Sep 2026 17:09:25 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 25
   },
   {
     "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
@@ -231,7 +240,7 @@
     "link": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 04 Sep 2026 13:34:30 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 26
   },
   {
     "title": "Token buybacks are booming. But are they good for crypto projects?",
@@ -240,7 +249,7 @@
     "link": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 04 Sep 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 26
+    "score": 27
   },
   {
     "title": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K",
@@ -249,7 +258,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 04 Sep 2026 07:37:13 +0000",
     "sentiment": "市场",
-    "score": 27
+    "score": 28
   },
   {
     "title": "El Salvador’s post-review Bitcoin accumulation used no public funds: IMF",
@@ -258,6 +267,6 @@
     "link": "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 04 Sep 2026 06:16:35 +0000",
     "sentiment": "市场",
-    "score": 28
+    "score": 29
   }
 ]
