@@ -10,30 +10,44 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch RSS
+      - name: Fetch and translate RSS
         shell: python
         run: |
-          import urllib.request, xml.etree.ElementTree as ET, json, re
+          import urllib.request, urllib.parse, xml.etree.ElementTree as ET, json, re, time
           feeds=[('CoinDesk','https://www.coindesk.com/arc/outboundfeeds/rss/'),('Cointelegraph','https://cointelegraph.com/rss')]
           out=[]
+          def translate(text):
+            text=(text or '').strip()
+            if not text or not re.search(r'[A-Za-z]',text): return text
+            try:
+              q=urllib.parse.quote(text)
+              u='https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q='+q
+              req=urllib.request.Request(u,headers={'User-Agent':'Mozilla/5.0'})
+              d=json.loads(urllib.request.urlopen(req,timeout=12).read().decode('utf-8'))
+              zh=''.join(x[0] for x in d[0] if x and x[0]).strip()
+              return zh or text
+            except Exception as e:
+              print('translation error:',e); return text
           for source,url in feeds:
             try:
-              data=urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0'}),timeout=15).read()
-              root=ET.fromstring(data)
-              for item in root.findall('.//item')[:15]:
+              req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0'})
+              root=ET.fromstring(urllib.request.urlopen(req,timeout=15).read())
+              for item in root.findall('.//item')[:20]:
                 title=(item.findtext('title') or '').strip(); link=(item.findtext('link') or '').strip(); pub=(item.findtext('pubDate') or '').strip()
                 if not title or not link: continue
-                if not re.search(r'ethereum|eth|crypto|bitcoin|fed|inflation|gold|market',title,re.I): continue
-                out.append({'title':title,'source':source,'link':link,'published':pub[:25],'sentiment':'市场','score':len(out)})
+                if not re.search(r'ethereum|eth|crypto|bitcoin|fed|inflation|gold|market|solana|defi|stablecoin|etf',title,re.I): continue
+                out.append({'title':translate(title),'original_title':title,'source':source,'link':link,'published':pub[:32],'sentiment':'市场','score':0})
+                time.sleep(.15)
             except Exception as e: print(source,e)
-          if not out: out=[{'title':'News feed temporarily unavailable','source':'SYSTEM','link':'https://www.okx.com/markets','published':'刚刚','sentiment':'市场','score':0}]
+          for i,x in enumerate(out): x['score']=i
+          if not out: out=[{'title':'实时新闻源暂时不可用','source':'SYSTEM','link':'https://www.okx.com/markets','published':'刚刚','sentiment':'市场','score':0}]
           open('news.json','w',encoding='utf-8').write(json.dumps(out[:40],ensure_ascii=False,indent=2))
       - name: Commit news
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add news.json
-          git diff --cached --quiet || git commit -m 'chore: refresh market news'
+          git diff --cached --quiet || git commit -m 'chore: refresh and translate market news'
           git push
   price-alert:
     runs-on: ubuntu-latest
@@ -54,42 +68,24 @@ jobs:
         run: |
           import urllib.request, json, os, smtplib
           from email.message import EmailMessage
-          symbol=os.getenv('ALERT_SYMBOL','').strip().upper()
-          target=float(os.getenv('ALERT_PRICE','0') or 0)
-          direction=os.getenv('ALERT_DIRECTION','above').strip().lower()
-          if not symbol or target<=0 or direction not in ('above','below'):
-            print('Email alert not configured; set ALERT_SYMBOL, ALERT_PRICE and ALERT_DIRECTION repository variables.')
-            raise SystemExit(0)
-          try:
-            j=json.load(urllib.request.urlopen('https://www.okx.com/api/v5/market/ticker?instId='+symbol,timeout=15))
-            price=float(j['data'][0]['last'])
-          except Exception as e:
-            print('OKX error:',e); raise SystemExit(0)
+          symbol=os.getenv('ALERT_SYMBOL','').strip().upper(); target=float(os.getenv('ALERT_PRICE','0') or 0); direction=os.getenv('ALERT_DIRECTION','above').strip().lower()
+          if not symbol or target<=0 or direction not in ('above','below'): raise SystemExit(0)
+          j=json.load(urllib.request.urlopen('https://www.okx.com/api/v5/market/ticker?instId='+symbol,timeout=15)); price=float(j['data'][0]['last'])
           state_file='.price-alert-state.json'
           try: state=json.load(open(state_file))
           except: state={'triggered':False}
           hit=price>=target if direction=='above' else price<=target
           if not hit:
-            if state.get('triggered'):
-              state={'triggered':False}
-              open(state_file,'w').write(json.dumps(state))
-              print('Alert reset; waiting for next crossing.')
+            if state.get('triggered'): open(state_file,'w').write(json.dumps({'triggered':False}))
             raise SystemExit(0)
-          if state.get('triggered'):
-            print('Already notified; waiting for price to reset.')
-            raise SystemExit(0)
+          if state.get('triggered'): raise SystemExit(0)
           host=os.getenv('SMTP_HOST'); user=os.getenv('SMTP_USER'); password=os.getenv('SMTP_PASS'); to=os.getenv('ALERT_TO'); sender=os.getenv('ALERT_FROM') or user
-          if not all((host,user,password,to)):
-            print('Missing SMTP secrets. Configure SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS, ALERT_TO and optional ALERT_FROM.')
-            raise SystemExit(1)
+          if not all((host,user,password,to)): raise SystemExit(1)
           msg=EmailMessage(); msg['Subject']=f'GLOBAL SENTINEL 价格预警 · {symbol}'; msg['From']=sender; msg['To']=to
           msg.set_content(f'GLOBAL SENTINEL 价格预警\n\n交易对：{symbol}\n当前价格：${price:,.8f}\n触发条件：价格{">=" if direction=="above" else "<="} ${target:,.8f}\n数据源：OKX\n\n网站：https://2903739379-droid.github.io/eth-sentinel/')
-          port=int(os.getenv('SMTP_PORT','587') or 587)
-          with smtplib.SMTP(host,port,timeout=20) as s:
+          with smtplib.SMTP(host,int(os.getenv('SMTP_PORT','587') or 587),timeout=20) as s:
             s.starttls(); s.login(user,password); s.send_message(msg)
-          state={'triggered':True,'price':price}
-          open(state_file,'w').write(json.dumps(state))
-          print('Alert email sent.')
+          open(state_file,'w').write(json.dumps({'triggered':True,'price':price}))
       - name: Save alert state
         run: |
           git config user.name 'github-actions[bot]'
