@@ -1,12 +1,39 @@
 [
   {
+    "title": "Live updates: Bitcoin holds $79,000 as hike odds climb, zcash runs 45% in a week",
+    "original_title": "Live updates: Bitcoin holds $79,000 as hike odds climb, zcash runs 45% in a week",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/09/07/live-updates-bitcoin-holds-usd79-000-as-hike-odds-climb-zcash-runs-45-in-a-week",
+    "published": "Mon, 07 Sep 2026 08:17:12 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "U.S. inflation, Coinbase’s Deribit switch: Crypto Week Ahead",
+    "original_title": "U.S. inflation, Coinbase’s Deribit switch: Crypto Week Ahead",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/07/u-s-inflation-coinbase-s-deribit-switch-crypto-week-ahead",
+    "published": "Mon, 07 Sep 2026 08:07:05 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats",
+    "original_title": "Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats",
+    "published": "Mon, 07 Sep 2026 08:02:18 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
     "title": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
     "original_title": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/07/oil-up-bitcoin-down-as-u-s-strikes-iranian-crude-carriers",
     "published": "Mon, 07 Sep 2026 04:44:16 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 3
   },
   {
     "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
@@ -15,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
     "published": "Mon, 07 Sep 2026 03:43:12 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 4
   },
   {
     "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
@@ -24,7 +51,7 @@
     "link": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
     "published": "Sun, 06 Sep 2026 18:30:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 5
   },
   {
     "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
@@ -33,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
     "published": "Sun, 06 Sep 2026 16:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 6
   },
   {
     "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
@@ -42,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
     "published": "Sun, 06 Sep 2026 14:00:00 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 7
   },
   {
     "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
@@ -51,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
     "published": "Sat, 05 Sep 2026 18:05:11 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 8
   },
   {
     "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
@@ -60,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
     "published": "Sat, 05 Sep 2026 16:43:13 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 9
   },
   {
     "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
@@ -69,7 +96,7 @@
     "link": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
     "published": "Sat, 05 Sep 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 10
   },
   {
     "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
@@ -78,7 +105,7 @@
     "link": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
     "published": "Sat, 05 Sep 2026 05:00:00 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 11
   },
   {
     "title": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
@@ -87,7 +114,7 @@
     "link": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
     "published": "Fri, 04 Sep 2026 14:23:11 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 12
   },
   {
     "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
@@ -96,7 +123,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
     "published": "Fri, 04 Sep 2026 12:31:47 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 13
   },
   {
     "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
@@ -104,33 +131,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
     "published": "Fri, 04 Sep 2026 11:29:05 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
-    "original_title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
-    "published": "Fri, 04 Sep 2026 09:57:01 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money",
-    "original_title": "IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money",
-    "published": "Fri, 04 Sep 2026 09:47:15 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "South Korea targets February 2027 rollout for full tokenized securities market",
-    "original_title": "South Korea targets February 2027 rollout for full tokenized securities market",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
-    "published": "Fri, 04 Sep 2026 09:41:31 +0000",
     "sentiment": "市场",
     "score": 14
   },
