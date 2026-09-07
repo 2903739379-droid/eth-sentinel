@@ -1,7 +1,7 @@
-name: Refresh market news
+name: Refresh market news + price email alerts
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -13,7 +13,7 @@ jobs:
       - name: Fetch RSS
         shell: python
         run: |
-          import urllib.request, xml.etree.ElementTree as ET, json, re, datetime
+          import urllib.request, xml.etree.ElementTree as ET, json, re
           feeds=[('CoinDesk','https://www.coindesk.com/arc/outboundfeeds/rss/'),('Cointelegraph','https://cointelegraph.com/rss')]
           out=[]
           for source,url in feeds:
@@ -27,12 +27,73 @@ jobs:
                 out.append({'title':title,'source':source,'link':link,'published':pub[:25],'sentiment':'市场','score':len(out)})
             except Exception as e: print(source,e)
           if not out: out=[{'title':'News feed temporarily unavailable','source':'SYSTEM','link':'https://www.okx.com/markets','published':'刚刚','sentiment':'市场','score':0}]
-          out=out[:40]
-          open('news.json','w',encoding='utf-8').write(json.dumps(out,ensure_ascii=False,indent=2))
+          open('news.json','w',encoding='utf-8').write(json.dumps(out[:40],ensure_ascii=False,indent=2))
       - name: Commit news
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add news.json
           git diff --cached --quiet || git commit -m 'chore: refresh market news'
+          git push
+  price-alert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check OKX price and send email
+        env:
+          ALERT_SYMBOL: ${{ vars.ALERT_SYMBOL }}
+          ALERT_PRICE: ${{ vars.ALERT_PRICE }}
+          ALERT_DIRECTION: ${{ vars.ALERT_DIRECTION }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          ALERT_TO: ${{ secrets.ALERT_TO }}
+          ALERT_FROM: ${{ secrets.ALERT_FROM }}
+        shell: python
+        run: |
+          import urllib.request, json, os, smtplib
+          from email.message import EmailMessage
+          symbol=os.getenv('ALERT_SYMBOL','').strip().upper()
+          target=float(os.getenv('ALERT_PRICE','0') or 0)
+          direction=os.getenv('ALERT_DIRECTION','above').strip().lower()
+          if not symbol or target<=0 or direction not in ('above','below'):
+            print('Email alert not configured; set ALERT_SYMBOL, ALERT_PRICE and ALERT_DIRECTION repository variables.')
+            raise SystemExit(0)
+          try:
+            j=json.load(urllib.request.urlopen('https://www.okx.com/api/v5/market/ticker?instId='+symbol,timeout=15))
+            price=float(j['data'][0]['last'])
+          except Exception as e:
+            print('OKX error:',e); raise SystemExit(0)
+          state_file='.price-alert-state.json'
+          try: state=json.load(open(state_file))
+          except: state={'triggered':False}
+          hit=price>=target if direction=='above' else price<=target
+          if not hit:
+            if state.get('triggered'):
+              state={'triggered':False}
+              open(state_file,'w').write(json.dumps(state))
+              print('Alert reset; waiting for next crossing.')
+            raise SystemExit(0)
+          if state.get('triggered'):
+            print('Already notified; waiting for price to reset.')
+            raise SystemExit(0)
+          host=os.getenv('SMTP_HOST'); user=os.getenv('SMTP_USER'); password=os.getenv('SMTP_PASS'); to=os.getenv('ALERT_TO'); sender=os.getenv('ALERT_FROM') or user
+          if not all((host,user,password,to)):
+            print('Missing SMTP secrets. Configure SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS, ALERT_TO and optional ALERT_FROM.')
+            raise SystemExit(1)
+          msg=EmailMessage(); msg['Subject']=f'GLOBAL SENTINEL 价格预警 · {symbol}'; msg['From']=sender; msg['To']=to
+          msg.set_content(f'GLOBAL SENTINEL 价格预警\n\n交易对：{symbol}\n当前价格：${price:,.8f}\n触发条件：价格{">=" if direction=="above" else "<="} ${target:,.8f}\n数据源：OKX\n\n网站：https://2903739379-droid.github.io/eth-sentinel/')
+          port=int(os.getenv('SMTP_PORT','587') or 587)
+          with smtplib.SMTP(host,port,timeout=20) as s:
+            s.starttls(); s.login(user,password); s.send_message(msg)
+          state={'triggered':True,'price':price}
+          open(state_file,'w').write(json.dumps(state))
+          print('Alert email sent.')
+      - name: Save alert state
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .price-alert-state.json
+          git diff --cached --quiet || git commit -m 'chore: update price alert state'
           git push
