@@ -1,0 +1,38 @@
+name: Refresh market news
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch RSS
+        shell: python
+        run: |
+          import urllib.request, xml.etree.ElementTree as ET, json, re, datetime
+          feeds=[('CoinDesk','https://www.coindesk.com/arc/outboundfeeds/rss/'),('Cointelegraph','https://cointelegraph.com/rss')]
+          out=[]
+          for source,url in feeds:
+            try:
+              data=urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0'}),timeout=15).read()
+              root=ET.fromstring(data)
+              for item in root.findall('.//item')[:15]:
+                title=(item.findtext('title') or '').strip(); link=(item.findtext('link') or '').strip(); pub=(item.findtext('pubDate') or '').strip()
+                if not title or not link: continue
+                if not re.search(r'ethereum|eth|crypto|bitcoin|fed|inflation|gold|market',title,re.I): continue
+                out.append({'title':title,'source':source,'link':link,'published':pub[:25],'sentiment':'市场','score':len(out)})
+            except Exception as e: print(source,e)
+          if not out: out=[{'title':'News feed temporarily unavailable','source':'SYSTEM','link':'https://www.okx.com/markets','published':'刚刚','sentiment':'市场','score':0}]
+          out=out[:40]
+          open('news.json','w',encoding='utf-8').write(json.dumps(out,ensure_ascii=False,indent=2))
+      - name: Commit news
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add news.json
+          git diff --cached --quiet || git commit -m 'chore: refresh market news'
+          git push
