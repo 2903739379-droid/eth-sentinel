@@ -1,12 +1,39 @@
 [
   {
+    "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
+    "original_title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-rally-has-more-room-as-volatility-shorts-unwind-two-prime-ceo-says",
+    "published": "Tue, 08 Sep 2026 13:18:21 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume",
+    "original_title": "Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume",
+    "published": "Tue, 08 Sep 2026 13:06:34 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
+    "original_title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
+    "published": "Tue, 08 Sep 2026 12:27:02 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
     "title": "Bitcoin ETFs are still $1 billion shy of breaking even in 2026",
     "original_title": "Bitcoin ETFs are still $1 billion shy of breaking even in 2026",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/daybook-us/2026/09/08/bitcoin-etfs-are-still-usd1-billion-shy-of-breaking-even-in-2026",
     "published": "Tue, 08 Sep 2026 11:26:27 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 3
   },
   {
     "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
@@ -15,7 +42,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
     "published": "Tue, 08 Sep 2026 11:06:31 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 4
   },
   {
     "title": "Cronos executes controversial blockchain rollback to recover crypto worth $111 million",
@@ -24,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/cronos-executes-controversial-blockchain-rollback-to-recover-crypto-worth-usd111-million",
     "published": "Tue, 08 Sep 2026 10:39:33 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 5
   },
   {
     "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
@@ -33,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
     "published": "Tue, 08 Sep 2026 10:33:17 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 6
   },
   {
     "title": "Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says",
@@ -42,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/stablecoins-could-save-south-korean-merchants-up-to-usd3-8-billion-a-year-budget-office-says",
     "published": "Tue, 08 Sep 2026 09:51:01 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 7
   },
   {
     "title": "Live updates: Bitcoin below Friday's post-jobs report low as oil and copper surge higher",
@@ -51,7 +78,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/08/live-updates",
     "published": "Tue, 08 Sep 2026 08:30:30 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 8
   },
   {
     "title": "Bit2Me sets up specialized unit to help law enforcement track down crypto assets",
@@ -60,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/09/02/bit2me-sets-up-specialized-unit-to-help-law-enforcement-track-down-crypto-assets",
     "published": "Tue, 08 Sep 2026 07:00:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 9
   },
   {
     "title": "Hunter Biden wants to launch a LAPTOP memecoin. Crypto traders hate it already",
@@ -69,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/08/crypto-traders-turn-on-hunter-biden-s-laptop-memecoin-before-it-even-launches",
     "published": "Tue, 08 Sep 2026 06:23:53 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 10
   },
   {
     "title": "Bitcoin’s golden cross is here",
@@ -78,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-s-golden-cross-is-here",
     "published": "Tue, 08 Sep 2026 05:56:23 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 11
   },
   {
     "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
@@ -87,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
     "published": "Tue, 08 Sep 2026 04:41:17 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 12
   },
   {
     "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
@@ -96,7 +123,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60",
     "published": "Tue, 08 Sep 2026 04:40:57 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 13
   },
   {
     "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
@@ -105,7 +132,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
     "published": "Mon, 07 Sep 2026 15:28:43 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 14
   },
   {
     "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
@@ -114,7 +141,7 @@
     "link": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
     "published": "Mon, 07 Sep 2026 14:12:15 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 15
   },
   {
     "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
@@ -123,25 +150,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
     "published": "Mon, 07 Sep 2026 13:54:07 +0000",
     "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "Solana to triple transaction size as apps get room for more complex trades",
-    "original_title": "Solana to triple transaction size as apps get room for more complex trades",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades",
-    "published": "Mon, 07 Sep 2026 12:08:11 +0000",
-    "sentiment": "市场",
-    "score": 14
-  },
-  {
-    "title": "Bitcoin blinks less than gold when Treasury yields move",
-    "original_title": "Bitcoin blinks less than gold when Treasury yields move",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/07/bitcoin-blinks-less-than-gold-when-treasury-yields-move",
-    "published": "Mon, 07 Sep 2026 11:15:00 +0000",
-    "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 08 Sep 2026 12:49:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "Mexico quadruple homicide tied to alleged Bitcoin robbery attempt",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 08 Sep 2026 12:41:14 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "Uzbekistan begins government bond-backed stablecoin payment pilot",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 08 Sep 2026 10:07:10 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "New Bitcoin whales spark sell-side risk as unrealized gains hit $9B",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 08 Sep 2026 09:40:26 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "Swiss stablecoin sandbox enters testing phase, adds two new partners",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 08 Sep 2026 07:18:32 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -195,7 +204,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 08 Sep 2026 05:52:38 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "Australia says it removed 45 crypto, remittance registrations over the past year",
@@ -204,7 +213,7 @@
     "link": "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 08 Sep 2026 05:10:33 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
     "title": "Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart",
@@ -213,7 +222,7 @@
     "link": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 08 Sep 2026 03:46:17 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 24
   },
   {
     "title": "UK financial watchdog weighs lifting prediction markets ban: Report",
@@ -222,7 +231,7 @@
     "link": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 07 Sep 2026 20:40:17 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 25
   },
   {
     "title": "Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade",
@@ -231,7 +240,7 @@
     "link": "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 07 Sep 2026 20:21:31 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 26
   },
   {
     "title": "Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention",
@@ -240,7 +249,7 @@
     "link": "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 07 Sep 2026 17:58:00 +0000",
     "sentiment": "市场",
-    "score": 26
+    "score": 27
   },
   {
     "title": "Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares",
@@ -249,7 +258,7 @@
     "link": "https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 07 Sep 2026 17:29:27 +0000",
     "sentiment": "市场",
-    "score": 27
+    "score": 28
   },
   {
     "title": "Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC",
@@ -258,7 +267,7 @@
     "link": "https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 07 Sep 2026 16:42:49 +0000",
     "sentiment": "市场",
-    "score": 28
+    "score": 29
   },
   {
     "title": "Bitcoin chips away at weekend upside as $80K hangs in the balance",
@@ -267,7 +276,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 07 Sep 2026 15:57:47 +0000",
     "sentiment": "市场",
-    "score": 29
+    "score": 30
   },
   {
     "title": "Zcash hits highest price since 2016 as market cap tops $20B",
@@ -276,6 +285,6 @@
     "link": "https://cointelegraph.com/markets/zcash-highest-price-market-cap-20-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 07 Sep 2026 12:31:23 +0000",
     "sentiment": "市场",
-    "score": 30
+    "score": 31
   }
 ]
