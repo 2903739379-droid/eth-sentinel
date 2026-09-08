@@ -1,12 +1,21 @@
 [
   {
+    "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
+    "original_title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
+    "published": "Tue, 08 Sep 2026 13:18:24 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
     "original_title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-rally-has-more-room-as-volatility-shorts-unwind-two-prime-ceo-says",
     "published": "Tue, 08 Sep 2026 13:18:21 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume",
@@ -14,15 +23,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume",
     "published": "Tue, 08 Sep 2026 13:06:34 +0000",
-    "sentiment": "市场",
-    "score": 1
-  },
-  {
-    "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
-    "original_title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
-    "published": "Tue, 08 Sep 2026 12:27:02 +0000",
     "sentiment": "市场",
     "score": 2
   },
@@ -153,13 +153,22 @@
     "score": 16
   },
   {
+    "title": "Here’s what happened in crypto today",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 08 Sep 2026 13:24:08 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
     "title": "Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares",
     "original_title": "Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 08 Sep 2026 12:49:00 +0000",
+    "published": "Tue, 08 Sep 2026 12:51:00 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "Mexico quadruple homicide tied to alleged Bitcoin robbery attempt",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 08 Sep 2026 12:41:14 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "Uzbekistan begins government bond-backed stablecoin payment pilot",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 08 Sep 2026 10:07:10 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "New Bitcoin whales spark sell-side risk as unrealized gains hit $9B",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 08 Sep 2026 09:40:26 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "Swiss stablecoin sandbox enters testing phase, adds two new partners",
@@ -194,15 +203,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 08 Sep 2026 07:18:32 +0000",
-    "sentiment": "市场",
-    "score": 21
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 08 Sep 2026 05:52:38 +0000",
     "sentiment": "市场",
     "score": 22
   },
