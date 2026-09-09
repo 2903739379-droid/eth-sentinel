@@ -1,12 +1,30 @@
 [
   {
+    "title": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
+    "original_title": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains",
+    "published": "Wed, 09 Sep 2026 12:13:59 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
+    "original_title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
+    "published": "Wed, 09 Sep 2026 12:00:00 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
     "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
     "original_title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
     "published": "Wed, 09 Sep 2026 11:40:44 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 2
   },
   {
     "title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
@@ -15,7 +33,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns",
     "published": "Wed, 09 Sep 2026 11:23:36 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 3
   },
   {
     "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
@@ -24,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes",
     "published": "Wed, 09 Sep 2026 10:47:23 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 4
   },
   {
     "title": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
@@ -33,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
     "published": "Wed, 09 Sep 2026 09:59:39 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 5
   },
   {
     "title": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
@@ -42,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case",
     "published": "Wed, 09 Sep 2026 09:54:42 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 6
   },
   {
     "title": "India’s financial intelligence unit flags 15 crypto platforms for AML lapses",
@@ -51,16 +69,16 @@
     "link": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses",
     "published": "Wed, 09 Sep 2026 08:17:54 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 7
   },
   {
-    "title": "Live updates: Brent crude hits $100 for first time since July as bitcoin trades around $79,000",
-    "original_title": "Live updates: Brent crude hits $100 for first time since July as bitcoin trades around $79,000",
+    "title": "Live updates: Bitcoin climbs past $79,000 as Brent Crude tops $100 for first time since July",
+    "original_title": "Live updates: Bitcoin climbs past $79,000 as Brent Crude tops $100 for first time since July",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
     "published": "Wed, 09 Sep 2026 07:20:51 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 8
   },
   {
     "title": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
@@ -69,7 +87,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
     "published": "Wed, 09 Sep 2026 04:40:54 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 9
   },
   {
     "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
@@ -78,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
     "published": "Wed, 09 Sep 2026 04:35:55 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 10
   },
   {
     "title": "Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform",
@@ -87,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
     "published": "Tue, 08 Sep 2026 14:33:32 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 11
   },
   {
     "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
@@ -96,7 +114,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
     "published": "Tue, 08 Sep 2026 14:29:14 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 12
   },
   {
     "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
@@ -105,7 +123,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
     "published": "Tue, 08 Sep 2026 13:18:24 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 13
   },
   {
     "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
@@ -113,24 +131,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-rally-has-more-room-as-volatility-shorts-unwind-two-prime-ceo-says",
     "published": "Tue, 08 Sep 2026 13:18:21 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume",
-    "original_title": "Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume",
-    "published": "Tue, 08 Sep 2026 13:06:34 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "Bitcoin’s complexity paradox: How layer-2 scalers became AI's main target",
-    "original_title": "Bitcoin’s complexity paradox: How layer-2 scalers became AI's main target",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-security-risks-grow-as-ai-uncovers-hidden-vulnerabilities",
-    "published": "Tue, 08 Sep 2026 12:09:26 +0000",
     "sentiment": "市场",
     "score": 14
   },
@@ -268,14 +268,5 @@
     "published": "Tue, 08 Sep 2026 12:41:14 +0000",
     "sentiment": "市场",
     "score": 29
-  },
-  {
-    "title": "Uzbekistan begins government bond-backed stablecoin payment pilot",
-    "original_title": "Uzbekistan begins government bond-backed stablecoin payment pilot",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 08 Sep 2026 10:07:10 +0000",
-    "sentiment": "市场",
-    "score": 30
   }
 ]
