@@ -1,12 +1,21 @@
 [
   {
+    "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+    "original_title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
+    "published": "Wed, 09 Sep 2026 15:30:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
     "original_title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
     "published": "Wed, 09 Sep 2026 14:58:07 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "PayPal expands stablecoin rails with custom token issuance platform",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
     "published": "Wed, 09 Sep 2026 14:00:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains",
     "published": "Wed, 09 Sep 2026 12:13:59 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
     "published": "Wed, 09 Sep 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
     "published": "Wed, 09 Sep 2026 11:40:44 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns",
     "published": "Wed, 09 Sep 2026 11:23:36 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes",
     "published": "Wed, 09 Sep 2026 10:47:23 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
     "published": "Wed, 09 Sep 2026 09:59:39 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case",
     "published": "Wed, 09 Sep 2026 09:54:42 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "India’s financial intelligence unit flags 15 crypto platforms for AML lapses",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses",
     "published": "Wed, 09 Sep 2026 08:17:54 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Live updates: Bitcoin gives up gains as yields head higher following Treasury buyback announcement",
@@ -96,23 +105,14 @@
     "link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
     "published": "Wed, 09 Sep 2026 07:20:51 +0000",
     "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
-    "original_title": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
-    "published": "Wed, 09 Sep 2026 04:40:54 +0000",
-    "sentiment": "市场",
     "score": 11
   },
   {
-    "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
-    "original_title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
-    "published": "Wed, 09 Sep 2026 04:35:55 +0000",
+    "title": "Tether, Fasanara launch $400M private credit fund targeting $3B",
+    "original_title": "Tether, Fasanara launch $400M private credit fund targeting $3B",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 09 Sep 2026 15:21:44 +0000",
     "sentiment": "市场",
     "score": 12
   },
@@ -232,14 +232,5 @@
     "published": "Tue, 08 Sep 2026 16:11:53 +0000",
     "sentiment": "市场",
     "score": 25
-  },
-  {
-    "title": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
-    "original_title": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 08 Sep 2026 15:41:11 +0000",
-    "sentiment": "市场",
-    "score": 26
   }
 ]
