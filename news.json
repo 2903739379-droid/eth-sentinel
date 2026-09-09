@@ -1,12 +1,21 @@
 [
   {
+    "title": "Live updates: XRP funds stand out among U.S. ETFs as bitcoin, ether, solana funds see outflows",
+    "original_title": "Live updates: XRP funds stand out among U.S. ETFs as bitcoin, ether, solana funds see outflows",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
+    "published": "Wed, 09 Sep 2026 07:20:51 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
     "original_title": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
     "published": "Wed, 09 Sep 2026 04:40:54 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
     "published": "Wed, 09 Sep 2026 04:35:55 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
     "published": "Tue, 08 Sep 2026 14:33:32 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
     "published": "Tue, 08 Sep 2026 14:29:14 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
     "published": "Tue, 08 Sep 2026 13:18:24 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-rally-has-more-room-as-volatility-shorts-unwind-two-prime-ceo-says",
     "published": "Tue, 08 Sep 2026 13:18:21 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume",
     "published": "Tue, 08 Sep 2026 13:06:34 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Bitcoin’s complexity paradox: How layer-2 scalers became AI's main target",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-security-risks-grow-as-ai-uncovers-hidden-vulnerabilities",
     "published": "Tue, 08 Sep 2026 12:09:26 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "Bitcoin ETFs are still $1 billion shy of breaking even in 2026",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/08/bitcoin-etfs-are-still-usd1-billion-shy-of-breaking-even-in-2026",
     "published": "Tue, 08 Sep 2026 11:26:27 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
     "published": "Tue, 08 Sep 2026 11:06:31 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Cronos executes controversial blockchain rollback to recover crypto worth $111 million",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/cronos-executes-controversial-blockchain-rollback-to-recover-crypto-worth-usd111-million",
     "published": "Tue, 08 Sep 2026 10:39:33 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
     "published": "Tue, 08 Sep 2026 10:33:17 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says",
@@ -114,7 +123,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/stablecoins-could-save-south-korean-merchants-up-to-usd3-8-billion-a-year-budget-office-says",
     "published": "Tue, 08 Sep 2026 09:51:01 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "Live updates: Bitcoin slips below $78,500 as stocks close lower",
@@ -122,15 +131,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/09/08/live-updates",
     "published": "Tue, 08 Sep 2026 08:30:30 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "Bit2Me sets up specialized unit to help law enforcement track down crypto assets",
-    "original_title": "Bit2Me sets up specialized unit to help law enforcement track down crypto assets",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/09/02/bit2me-sets-up-specialized-unit-to-help-law-enforcement-track-down-crypto-assets",
-    "published": "Tue, 08 Sep 2026 07:00:00 +0000",
     "sentiment": "市场",
     "score": 14
   },
