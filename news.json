@@ -1,12 +1,21 @@
 [
   {
+    "title": "油价突破 100 美元，比特币攀升，伊朗袭击后股市下跌",
+    "original_title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes",
+    "published": "Wed, 09 Sep 2026 10:47:23 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "伊朗放松货币管制，允许交易者通过加密货币将收入带回家：FT",
     "original_title": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
     "published": "Wed, 09 Sep 2026 09:59:39 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "22 岁新加坡人承认自己是 2.45 亿美元加密货币欺诈案的头目",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case",
     "published": "Wed, 09 Sep 2026 09:54:42 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "印度金融情报部门标记 15 个存在反洗钱漏洞的加密货币平台",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses",
     "published": "Wed, 09 Sep 2026 08:17:54 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "实时更新：布伦特原油自 7 月以来首次触及 100 美元，比特币交易价格约为 79,000 美元",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
     "published": "Wed, 09 Sep 2026 07:20:51 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Moonshot 的 Kimi 震惊了市场。美国机构现在称其接受了美国模特的培训",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
     "published": "Wed, 09 Sep 2026 04:40:54 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "随着 Zcash ETF 交易额达到 5 亿美元，比特币价格回升至 79,000 美元",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
     "published": "Wed, 09 Sep 2026 04:35:55 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "由于Strategy的STRC继续表现不佳，Strive的SATA市值接近10亿美元",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
     "published": "Tue, 08 Sep 2026 14:33:32 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Visa 将 VisaNet 数据与链上借贷相结合，为稳定币卡营运资金提供动力",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
     "published": "Tue, 08 Sep 2026 14:29:14 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "以太坊将量子抗性作为重中之重，截止日期为 2029 年",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
     "published": "Tue, 08 Sep 2026 13:18:24 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "Two Prime 首席执行官表示，随着波动性空头的平仓，比特币上涨空间更大",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-rally-has-more-room-as-volatility-shorts-unwind-two-prime-ceo-says",
     "published": "Tue, 08 Sep 2026 13:18:21 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Bitmine 又购买了 6900 万美元的 ETH，Tom DeMark 预计价格很快会恢复上涨趋势",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume",
     "published": "Tue, 08 Sep 2026 13:06:34 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "比特币的复杂性悖论：第 2 层缩放器如何成为人工智能的主要目标",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-security-risks-grow-as-ai-uncovers-hidden-vulnerabilities",
     "published": "Tue, 08 Sep 2026 12:09:26 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "比特币 ETF 到 2026 年仍需 10 亿美元才能实现收支平衡",
@@ -114,7 +123,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/08/bitcoin-etfs-are-still-usd1-billion-shy-of-breaking-even-in-2026",
     "published": "Tue, 08 Sep 2026 11:26:27 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "Curve 的软清算模式如何让借款人在市场下跌中生存下来",
@@ -123,7 +132,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
     "published": "Tue, 08 Sep 2026 11:06:31 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "Cronos 执行有争议的区块链回滚以恢复价值 1.11 亿美元的加密货币",
@@ -131,15 +140,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/08/cronos-executes-controversial-blockchain-rollback-to-recover-crypto-worth-usd111-million",
     "published": "Tue, 08 Sep 2026 10:39:33 +0000",
-    "sentiment": "市场",
-    "score": 14
-  },
-  {
-    "title": "BNB 和 DeFi 代币逆势下跌，比特币跌至 78,800 美元",
-    "original_title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
-    "published": "Tue, 08 Sep 2026 10:33:17 +0000",
     "sentiment": "市场",
     "score": 15
   },
@@ -234,7 +234,7 @@
     "score": 25
   },
   {
-    "title": "随着美国原油触及三个月高位，比特币面临 78.3 万美元的关键支撑测试",
+    "title": "随着美国原油触及三个月高点，比特币面临 78.3 万美元的关键支撑位测试",
     "original_title": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
