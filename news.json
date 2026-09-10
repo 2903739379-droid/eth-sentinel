@@ -1,12 +1,21 @@
 [
   {
+    "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
+    "original_title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
+    "published": "Thu, 10 Sep 2026 16:10:03 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
     "original_title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
     "published": "Thu, 10 Sep 2026 15:14:49 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Crypto for Advisors: Hyperliquid and the future of finance",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
     "published": "Thu, 10 Sep 2026 15:00:16 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
     "published": "Thu, 10 Sep 2026 14:30:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
     "published": "Thu, 10 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/09/10/crypto-exchange-giant-bybit-to-offer-european-super-app-with-stocks-derivatives",
     "published": "Thu, 10 Sep 2026 11:36:01 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Bitcoin traders dial down bullish plays ahead of U.S. inflation data",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/10/bitcoin-traders-dial-down-bullish-plays-ahead-of-u-s-inflation-data",
     "published": "Thu, 10 Sep 2026 11:15:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/10/bitcoin-trades-near-usd78-000-as-memecoins-small-caps-lead-a-broad-crypto-retreat",
     "published": "Thu, 10 Sep 2026 10:24:14 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Live updates: Bitcoin slumps as oil and bond yields surge to new highs",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
     "published": "Thu, 10 Sep 2026 07:45:46 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
     "published": "Thu, 10 Sep 2026 07:01:44 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
     "published": "Thu, 10 Sep 2026 05:30:15 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
@@ -96,7 +105,16 @@
     "link": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
     "published": "Thu, 10 Sep 2026 05:05:41 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
+  },
+  {
+    "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+    "original_title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 10 Sep 2026 15:59:37 +0000",
+    "sentiment": "市场",
+    "score": 12
   },
   {
     "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
@@ -105,7 +123,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 14:52:15 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 13
   },
   {
     "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
@@ -114,7 +132,7 @@
     "link": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 13:35:23 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 14
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -123,7 +141,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 13:20:26 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 15
   },
   {
     "title": "Solana sees record 263K tokens issued in a single day",
@@ -132,7 +150,7 @@
     "link": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 16
   },
   {
     "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
@@ -141,7 +159,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 09:59:32 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 17
   },
   {
     "title": "Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view",
@@ -150,7 +168,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 09:36:42 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 18
   },
   {
     "title": "US sanctions Xinbi scam marketplace, restrains $52M in crypto",
@@ -159,7 +177,7 @@
     "link": "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 04:05:03 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 19
   },
   {
     "title": "DoubleZero adds Kalshi election market data ahead of US midterms",
@@ -168,7 +186,7 @@
     "link": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 09 Sep 2026 20:08:09 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 20
   },
   {
     "title": "US Bank tests proprietary stablecoin in cross-border Stellar transaction",
@@ -177,15 +195,6 @@
     "link": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 09 Sep 2026 16:37:08 +0000",
     "sentiment": "市场",
-    "score": 19
-  },
-  {
-    "title": "Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar",
-    "original_title": "Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 09 Sep 2026 16:28:19 +0000",
-    "sentiment": "市场",
-    "score": 20
+    "score": 21
   }
 ]
