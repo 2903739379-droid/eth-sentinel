@@ -1,12 +1,21 @@
 [
   {
+    "title": "Bitcoin traders dial down bullish plays ahead of U.S. inflation data",
+    "original_title": "Bitcoin traders dial down bullish plays ahead of U.S. inflation data",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/daybook-us/2026/09/10/bitcoin-traders-dial-down-bullish-plays-ahead-of-u-s-inflation-data",
+    "published": "Thu, 10 Sep 2026 11:15:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat",
     "original_title": "Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/10/bitcoin-trades-near-usd78-000-as-memecoins-small-caps-lead-a-broad-crypto-retreat",
     "published": "Thu, 10 Sep 2026 10:24:14 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
     "published": "Thu, 10 Sep 2026 07:01:44 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
     "published": "Thu, 10 Sep 2026 05:30:15 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
     "published": "Thu, 10 Sep 2026 05:05:41 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Tether pushes into private credit with $400 million fund with Fasanara",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
     "published": "Wed, 09 Sep 2026 15:51:25 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
     "published": "Wed, 09 Sep 2026 15:30:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
     "published": "Wed, 09 Sep 2026 14:58:07 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "PayPal expands stablecoin rails with custom token issuance platform",
@@ -69,25 +78,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
     "published": "Wed, 09 Sep 2026 14:00:00 +0000",
     "sentiment": "市场",
-    "score": 7
-  },
-  {
-    "title": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
-    "original_title": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains",
-    "published": "Wed, 09 Sep 2026 12:13:59 +0000",
-    "sentiment": "市场",
     "score": 8
-  },
-  {
-    "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
-    "original_title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
-    "published": "Wed, 09 Sep 2026 12:00:00 +0000",
-    "sentiment": "市场",
-    "score": 9
   },
   {
     "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
@@ -96,7 +87,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 09:59:32 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 9
   },
   {
     "title": "Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view",
@@ -105,7 +96,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 09:36:42 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 10
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -114,7 +105,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 05:59:21 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 11
   },
   {
     "title": "US sanctions Xinbi scam marketplace, restrains $52M in crypto",
@@ -123,7 +114,7 @@
     "link": "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 04:05:03 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 12
   },
   {
     "title": "DoubleZero adds Kalshi election market data ahead of US midterms",
@@ -132,7 +123,7 @@
     "link": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 09 Sep 2026 20:08:09 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 13
   },
   {
     "title": "US Bank tests proprietary stablecoin in cross-border Stellar transaction",
@@ -141,7 +132,7 @@
     "link": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 09 Sep 2026 16:37:08 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 14
   },
   {
     "title": "Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar",
@@ -150,7 +141,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 09 Sep 2026 16:28:19 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 15
   },
   {
     "title": "Trade groups seek to block Illinois crypto tax before January effective date",
@@ -159,7 +150,7 @@
     "link": "https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 09 Sep 2026 15:57:07 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 16
   },
   {
     "title": "Tether, Fasanara launch $400M private credit fund targeting $3B",
@@ -168,7 +159,7 @@
     "link": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 09 Sep 2026 15:21:44 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 17
   },
   {
     "title": "German finance ministry proposes 25% crypto tax starting 2028: Report",
@@ -177,7 +168,7 @@
     "link": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 09 Sep 2026 13:49:55 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 18
   },
   {
     "title": "10 of the greatest unsolved crypto mysteries",
@@ -186,6 +177,6 @@
     "link": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 09 Sep 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 19
   }
 ]
