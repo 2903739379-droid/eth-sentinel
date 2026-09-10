@@ -1,12 +1,21 @@
 [
   {
+    "title": "Dogecoin sinks 5% to lead majors losses, with bitcoin holding $78,000 level",
+    "original_title": "Dogecoin sinks 5% to lead majors losses, with bitcoin holding $78,000 level",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
+    "published": "Thu, 10 Sep 2026 05:30:15 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
     "original_title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
     "published": "Thu, 10 Sep 2026 05:05:41 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Tether pushes into private credit with $400 million fund with Fasanara",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
     "published": "Wed, 09 Sep 2026 15:51:25 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
     "published": "Wed, 09 Sep 2026 15:30:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
     "published": "Wed, 09 Sep 2026 14:58:07 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "PayPal expands stablecoin rails with custom token issuance platform",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
     "published": "Wed, 09 Sep 2026 14:00:00 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains",
     "published": "Wed, 09 Sep 2026 12:13:59 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
     "published": "Wed, 09 Sep 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
     "published": "Wed, 09 Sep 2026 11:40:44 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns",
     "published": "Wed, 09 Sep 2026 11:23:36 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes",
     "published": "Wed, 09 Sep 2026 10:47:23 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
@@ -95,15 +104,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
     "published": "Wed, 09 Sep 2026 09:59:39 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
-    "original_title": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case",
-    "published": "Wed, 09 Sep 2026 09:54:42 +0000",
     "sentiment": "市场",
     "score": 11
   },
@@ -214,14 +214,5 @@
     "published": "Wed, 09 Sep 2026 07:36:39 +0000",
     "sentiment": "市场",
     "score": 23
-  },
-  {
-    "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
-    "original_title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 09 Sep 2026 07:36:21 +0000",
-    "sentiment": "市场",
-    "score": 24
   }
 ]
