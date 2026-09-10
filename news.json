@@ -1,12 +1,21 @@
 [
   {
+    "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
+    "original_title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
+    "published": "Thu, 10 Sep 2026 17:03:34 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
     "original_title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
     "published": "Thu, 10 Sep 2026 16:10:03 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
     "published": "Thu, 10 Sep 2026 15:14:49 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Crypto for Advisors: Hyperliquid and the future of finance",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
     "published": "Thu, 10 Sep 2026 15:00:16 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
     "published": "Thu, 10 Sep 2026 14:30:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
     "published": "Thu, 10 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/09/10/crypto-exchange-giant-bybit-to-offer-european-super-app-with-stocks-derivatives",
     "published": "Thu, 10 Sep 2026 11:36:01 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Bitcoin traders dial down bullish plays ahead of U.S. inflation data",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/10/bitcoin-traders-dial-down-bullish-plays-ahead-of-u-s-inflation-data",
     "published": "Thu, 10 Sep 2026 11:15:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/10/bitcoin-trades-near-usd78-000-as-memecoins-small-caps-lead-a-broad-crypto-retreat",
     "published": "Thu, 10 Sep 2026 10:24:14 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "Live updates: Bitcoin slumps as oil and bond yields surge to new highs",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
     "published": "Thu, 10 Sep 2026 07:45:46 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
     "published": "Thu, 10 Sep 2026 07:01:44 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
@@ -95,15 +104,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
     "published": "Thu, 10 Sep 2026 05:30:15 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
-    "original_title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
-    "published": "Thu, 10 Sep 2026 05:05:41 +0000",
     "sentiment": "市场",
     "score": 11
   },
