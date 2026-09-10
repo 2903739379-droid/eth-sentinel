@@ -1,21 +1,30 @@
 [
   {
+    "title": "Live updates: Bitcoin ETFs post a second straight outflow while every other fund turns green",
+    "original_title": "Live updates: Bitcoin ETFs post a second straight outflow while every other fund turns green",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
+    "published": "Thu, 10 Sep 2026 07:45:46 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
     "original_title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
     "published": "Thu, 10 Sep 2026 07:01:44 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
-    "title": "Dogecoin sinks 5% to lead majors losses, with bitcoin holding $78,000 level",
-    "original_title": "Dogecoin sinks 5% to lead majors losses, with bitcoin holding $78,000 level",
+    "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
+    "original_title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
     "published": "Thu, 10 Sep 2026 05:30:15 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
     "published": "Thu, 10 Sep 2026 05:05:41 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Tether pushes into private credit with $400 million fund with Fasanara",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
     "published": "Wed, 09 Sep 2026 15:51:25 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
     "published": "Wed, 09 Sep 2026 15:30:00 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
     "published": "Wed, 09 Sep 2026 14:58:07 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "PayPal expands stablecoin rails with custom token issuance platform",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
     "published": "Wed, 09 Sep 2026 14:00:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains",
     "published": "Wed, 09 Sep 2026 12:13:59 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
     "published": "Wed, 09 Sep 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
@@ -86,15 +95,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
     "published": "Wed, 09 Sep 2026 11:40:44 +0000",
-    "sentiment": "市场",
-    "score": 9
-  },
-  {
-    "title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
-    "original_title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns",
-    "published": "Wed, 09 Sep 2026 11:23:36 +0000",
     "sentiment": "市场",
     "score": 10
   },
