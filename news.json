@@ -1,12 +1,21 @@
 [
   {
+    "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
+    "original_title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
+    "published": "Fri, 11 Sep 2026 04:46:15 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
     "original_title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
     "published": "Thu, 10 Sep 2026 20:21:57 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
     "published": "Thu, 10 Sep 2026 17:03:34 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
     "published": "Thu, 10 Sep 2026 16:10:03 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
     "published": "Thu, 10 Sep 2026 15:14:49 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Crypto for Advisors: Hyperliquid and the future of finance",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
     "published": "Thu, 10 Sep 2026 15:00:16 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
     "published": "Thu, 10 Sep 2026 14:30:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
     "published": "Thu, 10 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/business/2026/09/10/crypto-exchange-giant-bybit-to-offer-european-super-app-with-stocks-derivatives",
     "published": "Thu, 10 Sep 2026 11:36:01 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "Bitcoin traders dial down bullish plays ahead of U.S. inflation data",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/10/bitcoin-traders-dial-down-bullish-plays-ahead-of-u-s-inflation-data",
     "published": "Thu, 10 Sep 2026 11:15:00 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/10/bitcoin-trades-near-usd78-000-as-memecoins-small-caps-lead-a-broad-crypto-retreat",
     "published": "Thu, 10 Sep 2026 10:24:14 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
@@ -96,7 +105,7 @@
     "link": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 23:21:26 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -105,7 +114,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 21:30:00 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
@@ -114,7 +123,7 @@
     "link": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 20:10:29 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
@@ -123,7 +132,7 @@
     "link": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 15:59:37 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
@@ -132,7 +141,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 14:52:15 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 13:35:23 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "Solana sees record 263K tokens issued in a single day",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 09:59:32 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view",
@@ -168,6 +177,6 @@
     "link": "https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 10 Sep 2026 09:36:42 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   }
 ]
