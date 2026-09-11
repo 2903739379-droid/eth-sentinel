@@ -1,12 +1,21 @@
 [
   {
+    "title": "Bitcoin recovers toward $77,300 as zcash leverage unwinds",
+    "original_title": "Bitcoin recovers toward $77,300 as zcash leverage unwinds",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-recovers-toward-usd77-300-as-zcash-leverage-unwinds",
+    "published": "Fri, 11 Sep 2026 10:50:47 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Bitcoin pulls back as another golden cross fails to deliver",
     "original_title": "Bitcoin pulls back as another golden cross fails to deliver",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-pulls-back-as-another-golden-cross-fails-to-deliver",
     "published": "Fri, 11 Sep 2026 10:13:44 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
     "published": "Fri, 11 Sep 2026 05:13:15 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
     "published": "Fri, 11 Sep 2026 04:46:15 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
     "published": "Thu, 10 Sep 2026 20:21:57 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
     "published": "Thu, 10 Sep 2026 17:03:34 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
     "published": "Thu, 10 Sep 2026 16:10:03 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
     "published": "Thu, 10 Sep 2026 15:14:49 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Crypto for Advisors: Hyperliquid and the future of finance",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
     "published": "Thu, 10 Sep 2026 15:00:16 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
     "published": "Thu, 10 Sep 2026 14:30:00 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
@@ -86,15 +95,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
     "published": "Thu, 10 Sep 2026 13:00:00 +0000",
-    "sentiment": "市场",
-    "score": 9
-  },
-  {
-    "title": "Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives",
-    "original_title": "Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/09/10/crypto-exchange-giant-bybit-to-offer-european-super-app-with-stocks-derivatives",
-    "published": "Thu, 10 Sep 2026 11:36:01 +0000",
     "sentiment": "市场",
     "score": 10
   },
