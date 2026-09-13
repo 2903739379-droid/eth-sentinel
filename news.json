@@ -1,12 +1,30 @@
 [
   {
+    "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+    "original_title": "Fed rate hike is about Wall Street, not inflation, says economist",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+    "published": "Sun, 13 Sep 2026 13:00:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+    "original_title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+    "published": "Sun, 13 Sep 2026 13:00:00 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
     "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
     "original_title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
     "published": "Sun, 13 Sep 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 2
   },
   {
     "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
@@ -15,7 +33,7 @@
     "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
     "published": "Sat, 12 Sep 2026 21:09:06 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 3
   },
   {
     "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
@@ -24,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
     "published": "Sat, 12 Sep 2026 18:51:04 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 4
   },
   {
     "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
@@ -33,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
     "published": "Sat, 12 Sep 2026 16:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 5
   },
   {
     "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
@@ -42,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
     "published": "Sat, 12 Sep 2026 16:00:00 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 6
   },
   {
     "title": "Staked ether should be seen as the benchmark of the decentralized economy",
@@ -51,7 +69,7 @@
     "link": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
     "published": "Sat, 12 Sep 2026 14:00:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 7
   },
   {
     "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
@@ -60,7 +78,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
     "published": "Sat, 12 Sep 2026 10:11:01 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 8
   },
   {
     "title": "With Fed rate hike all but assured, here's how markets might react",
@@ -69,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story",
     "published": "Fri, 11 Sep 2026 15:45:56 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 9
   },
   {
     "title": "Core CPI rose a faster-than-forecast 0.3% in August, setting up possible Fed rate hike",
@@ -78,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/11/core-cpi-rose-a-faster-than-forecast-0-3-in-august-setting-up-fed-rate-hike",
     "published": "Fri, 11 Sep 2026 12:32:25 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 10
   },
   {
     "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
@@ -87,7 +105,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/11/rising-yields-oil-prices-leave-bitcoin-vulnerable-ahead-of-u-s-inflation-report",
     "published": "Fri, 11 Sep 2026 11:20:26 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 11
   },
   {
     "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
@@ -95,24 +113,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
     "published": "Fri, 11 Sep 2026 11:04:12 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "Bitcoin recovers toward $77,300 as zcash leverage unwinds",
-    "original_title": "Bitcoin recovers toward $77,300 as zcash leverage unwinds",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-recovers-toward-usd77-300-as-zcash-leverage-unwinds",
-    "published": "Fri, 11 Sep 2026 10:50:47 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "Bitcoin pulls back as another golden cross fails to deliver",
-    "original_title": "Bitcoin pulls back as another golden cross fails to deliver",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-pulls-back-as-another-golden-cross-fails-to-deliver",
-    "published": "Fri, 11 Sep 2026 10:13:44 +0000",
     "sentiment": "市场",
     "score": 12
   },
