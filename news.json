@@ -1,12 +1,21 @@
 [
   {
+    "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
+    "original_title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
+    "published": "Mon, 14 Sep 2026 17:51:20 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
     "original_title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
     "published": "Mon, 14 Sep 2026 15:10:29 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
     "published": "Mon, 14 Sep 2026 14:27:48 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
     "published": "Mon, 14 Sep 2026 12:58:42 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
     "published": "Mon, 14 Sep 2026 12:08:35 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
     "published": "Mon, 14 Sep 2026 12:07:19 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "FCA considers exempting tokenized gold from fund rules to defend London market",
@@ -51,16 +60,16 @@
     "link": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market",
     "published": "Mon, 14 Sep 2026 11:58:28 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
-    "title": "Live updates: Bitcoin climbs as stocks drop, U.S. 10-year yield rises to 5%",
-    "original_title": "Live updates: Bitcoin climbs as stocks drop, U.S. 10-year yield rises to 5%",
+    "title": "Live updates: Bitcoin climbs near $79,000 as stocks narrow declines",
+    "original_title": "Live updates: Bitcoin climbs near $79,000 as stocks narrow declines",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
     "published": "Mon, 14 Sep 2026 11:44:21 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
     "published": "Mon, 14 Sep 2026 11:15:00 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
     "published": "Mon, 14 Sep 2026 10:09:41 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
     "published": "Mon, 14 Sep 2026 09:29:57 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-bucks-tech-selloff-as-ai-safety-concerns-weigh-on-stocks",
     "published": "Mon, 14 Sep 2026 08:07:16 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
@@ -105,22 +114,13 @@
     "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
     "published": "Sun, 13 Sep 2026 18:45:08 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "Fed rate hike is about Wall Street, not inflation, says economist",
     "original_title": "Fed rate hike is about Wall Street, not inflation, says economist",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
-    "published": "Sun, 13 Sep 2026 13:00:00 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
-    "original_title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
     "published": "Sun, 13 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
     "score": 13
@@ -196,14 +196,5 @@
     "published": "Mon, 14 Sep 2026 00:15:37 +0000",
     "sentiment": "市场",
     "score": 21
-  },
-  {
-    "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
-    "original_title": "Farage’s Reform UK gets $97M from two crypto billionaires",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sat, 12 Sep 2026 15:50:14 +0000",
-    "sentiment": "市场",
-    "score": 22
   }
 ]
