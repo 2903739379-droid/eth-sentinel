@@ -1,12 +1,21 @@
 [
   {
+    "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+    "original_title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
+    "published": "Mon, 14 Sep 2026 23:30:40 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
     "original_title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
     "published": "Mon, 14 Sep 2026 22:34:18 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "White House crypto adviser says Trump gave up 'historic' ethics powers in compromise",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
     "published": "Mon, 14 Sep 2026 18:34:09 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
     "published": "Mon, 14 Sep 2026 17:51:20 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
     "published": "Mon, 14 Sep 2026 15:10:29 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
     "published": "Mon, 14 Sep 2026 14:27:48 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
     "published": "Mon, 14 Sep 2026 12:58:42 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
     "published": "Mon, 14 Sep 2026 12:08:35 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
     "published": "Mon, 14 Sep 2026 12:07:19 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "FCA considers exempting tokenized gold from fund rules to defend London market",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market",
     "published": "Mon, 14 Sep 2026 11:58:28 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "Live updates: Bitcoin climbs near $79,000 as stocks narrow declines",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
     "published": "Mon, 14 Sep 2026 11:44:21 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
     "published": "Mon, 14 Sep 2026 11:15:00 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
@@ -104,15 +113,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
     "published": "Mon, 14 Sep 2026 10:09:41 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
-    "original_title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
-    "published": "Mon, 14 Sep 2026 09:29:57 +0000",
     "sentiment": "市场",
     "score": 12
   },
