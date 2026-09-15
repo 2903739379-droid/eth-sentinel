@@ -63,8 +63,8 @@
     "score": 6
   },
   {
-    "title": "Live updates: Bitcoin slides below $76,000 as Clarity Act passage odds fade",
-    "original_title": "Live updates: Bitcoin slides below $76,000 as Clarity Act passage odds fade",
+    "title": "Live updates: Bitcoin slumps as Clarity Act passage odds fade",
+    "original_title": "Live updates: Bitcoin slumps as Clarity Act passage odds fade",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
     "published": "Tue, 15 Sep 2026 06:37:24 +0000",
@@ -108,13 +108,31 @@
     "score": 11
   },
   {
+    "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
+    "original_title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 15 Sep 2026 16:02:01 +0000",
+    "sentiment": "市场",
+    "score": 12
+  },
+  {
+    "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
+    "original_title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 15 Sep 2026 15:50:49 +0000",
+    "sentiment": "市场",
+    "score": 13
+  },
+  {
     "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
     "original_title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 15:21:26 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 14
   },
   {
     "title": "US House crypto tax package omits mining, staking reward deferral",
@@ -123,7 +141,7 @@
     "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 10:04:21 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 15
   },
   {
     "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
@@ -132,7 +150,7 @@
     "link": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 09:40:27 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 16
   },
   {
     "title": "Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant",
@@ -141,7 +159,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 09:30:31 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 17
   },
   {
     "title": "Solana more than triples transaction size limit with mainnet upgrade",
@@ -150,7 +168,7 @@
     "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 08:18:53 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 18
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -159,7 +177,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 05:50:00 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 19
   },
   {
     "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
@@ -168,7 +186,7 @@
     "link": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 04:19:16 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 20
   },
   {
     "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -177,7 +195,7 @@
     "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 14 Sep 2026 20:54:10 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 21
   },
   {
     "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
@@ -186,7 +204,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 14 Sep 2026 18:56:28 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 22
   },
   {
     "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
@@ -195,7 +213,7 @@
     "link": "https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 14 Sep 2026 17:50:12 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 23
   },
   {
     "title": "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
@@ -204,15 +222,6 @@
     "link": "https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 14 Sep 2026 15:55:59 +0000",
     "sentiment": "市场",
-    "score": 22
-  },
-  {
-    "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
-    "original_title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 14 Sep 2026 13:30:00 +0000",
-    "sentiment": "市场",
-    "score": 23
+    "score": 24
   }
 ]
