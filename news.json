@@ -1,6 +1,6 @@
 [
   {
-    "title": "美国司法部对伊朗黑市石油销售进行加密货币洗钱追缴 6100 万美元",
+    "title": "美国司法部就其所谓的伊朗加密货币黑市石油销售追缴 6100 万美元",
     "original_title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
@@ -9,8 +9,8 @@
     "score": 0
   },
   {
-    "title": "Solana 交易量增长了 3 倍多，比以太坊更具优势",
-    "original_title": "Solana transactions just got more than 3 times bigger, giving an edge over Ethereum",
+    "title": "Solana 交易量增长了 3 倍多，缩小了与以太坊的差距",
+    "original_title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
     "published": "Tue, 15 Sep 2026 04:34:10 +0000",
@@ -117,13 +117,22 @@
     "score": 12
   },
   {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 15 Sep 2026 05:39:15 +0000",
+    "sentiment": "市场",
+    "score": 13
+  },
+  {
     "title": "CoinEx 因加密货币“大幅收缩”而在 9 年后停止运营",
     "original_title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 04:19:16 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "Kraken 为代币化股票和 ETF 带来 DeFi 收益",
@@ -131,15 +140,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 14 Sep 2026 20:54:10 +0000",
-    "sentiment": "市场",
-    "score": 14
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 14 Sep 2026 20:41:38 +0000",
     "sentiment": "市场",
     "score": 15
   },
@@ -171,7 +171,7 @@
     "score": 18
   },
   {
-    "title": "世贸组织负责人：零散的监管限制了国际金融中稳定币的采用",
+    "title": "世贸组织负责人：分散的监管限制了国际金融中稳定币的采用",
     "original_title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
