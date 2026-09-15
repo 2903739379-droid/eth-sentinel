@@ -1,12 +1,21 @@
 [
   {
+    "title": "美国司法部对伊朗黑市石油销售进行加密货币洗钱追缴 6100 万美元",
+    "original_title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
+    "published": "Tue, 15 Sep 2026 05:12:06 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Solana 交易量增长了 3 倍多，比以太坊更具优势",
     "original_title": "Solana transactions just got more than 3 times bigger, giving an edge over Ethereum",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
     "published": "Tue, 15 Sep 2026 04:34:10 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "美国众议院小组在本周晚些时候举行听证会之前分享加密货币税法案",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
     "published": "Tue, 15 Sep 2026 03:27:38 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "随着参议院澄清法案投票临近和油价攀升，比特币跌至 77,800 美元",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
     "published": "Tue, 15 Sep 2026 03:23:28 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "即使 Clarity 失败，华尔街对加密货币的推动也不太可能停止",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
     "published": "Mon, 14 Sep 2026 23:43:28 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "美国证券交易委员会的阿特金斯支持《清晰法案》，但表示如果没有该法案，该机构将继续推动加密货币规则",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
     "published": "Mon, 14 Sep 2026 23:30:40 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "美国参议员鲁米斯表示，民主党人不会放弃就加密货币清晰度法案提出更多要求",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
     "published": "Mon, 14 Sep 2026 22:34:18 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "白宫加密货币顾问表示，特朗普在妥协中放弃了“历史性”道德权力",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
     "published": "Mon, 14 Sep 2026 18:34:09 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "参议院准备《澄清法案》投票，银行升级稳定币奖励之争",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
     "published": "Mon, 14 Sep 2026 17:51:20 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "《清晰法案》对预测市场的支持率大幅上升，但加密货币法案仍面临漫长的道路",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
     "published": "Mon, 14 Sep 2026 15:10:29 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "这是唐纳德·特朗普同意的修订后的《澄清法案》道德条款",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
     "published": "Mon, 14 Sep 2026 14:27:48 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Tom Lee 认为未来会有更多上行催化剂，Bitmine 增持 6800 万美元以太币",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
     "published": "Mon, 14 Sep 2026 12:58:42 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "狗狗币 ETF 难以吸引买家，而竞争对手 XRP 和 Solana 基金则吸金 30 亿美元",
@@ -104,15 +113,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
     "published": "Mon, 14 Sep 2026 12:08:35 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "特朗普同意采取更严格的道德规则以挽救《清晰法案》加密法案：美联社",
-    "original_title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
-    "published": "Mon, 14 Sep 2026 12:07:19 +0000",
     "sentiment": "市场",
     "score": 12
   },
