@@ -1,227 +1,236 @@
 [
   {
-    "title": "Nigel Farage-backed Stack BTC eyes $16 million gold dealer deal to fund bitcoin buy",
+    "title": "一个简单的编码错误如何让黑客从加密钱包中盗走 780 万美元",
+    "original_title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
+    "published": "Tue, 15 Sep 2026 10:27:55 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "Nigel Farage 支持的 Stack BTC 计划与黄金交易商达成 1600 万美元的交易，为比特币购买提供资金",
     "original_title": "Nigel Farage-backed Stack BTC eyes $16 million gold dealer deal to fund bitcoin buy",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
     "published": "Tue, 15 Sep 2026 10:06:40 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
-    "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
+    "title": "香港加密货币交易所 CoinEx 在运营 9 年后停止运营",
     "original_title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
     "published": "Tue, 15 Sep 2026 09:30:58 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
-    "title": "Live updates: Bitcoin slides to $77,000 as Senate votes on Clarity Act",
+    "title": "实时更新：随着参议院就《澄清法案》进行投票，比特币跌至 77,000 美元",
     "original_title": "Live updates: Bitcoin slides to $77,000 as Senate votes on Clarity Act",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
     "published": "Tue, 15 Sep 2026 06:37:24 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
-    "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
+    "title": "美国司法部就其所谓的伊朗加密货币黑市石油销售追缴 6100 万美元",
     "original_title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
     "published": "Tue, 15 Sep 2026 05:12:06 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
-    "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
+    "title": "Solana 交易量增长了 3 倍多，缩小了与以太坊的差距",
     "original_title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
     "published": "Tue, 15 Sep 2026 04:34:10 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
-    "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
+    "title": "美国众议院小组在本周晚些时候举行听证会之前分享加密货币税法案",
     "original_title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
     "published": "Tue, 15 Sep 2026 03:27:38 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
-    "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
+    "title": "随着参议院澄清法案投票临近和油价攀升，比特币跌至 77,800 美元",
     "original_title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
     "published": "Tue, 15 Sep 2026 03:23:28 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
-    "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
+    "title": "即使 Clarity 失败，华尔街对加密货币的推动也不太可能停止",
     "original_title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
     "published": "Mon, 14 Sep 2026 23:43:28 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
-    "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+    "title": "美国证券交易委员会的阿特金斯支持《清晰法案》，但表示如果没有该法案，该机构将继续推动加密货币规则",
     "original_title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
     "published": "Mon, 14 Sep 2026 23:30:40 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
-    "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+    "title": "美国参议员鲁米斯表示，民主党人不会放弃就加密货币清晰度法案提出更多要求",
     "original_title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
     "published": "Mon, 14 Sep 2026 22:34:18 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
-    "title": "White House crypto adviser says Trump gave up 'historic' ethics powers in compromise",
+    "title": "白宫加密货币顾问表示，特朗普在妥协中放弃了“历史性”道德权力",
     "original_title": "White House crypto adviser says Trump gave up 'historic' ethics powers in compromise",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
     "published": "Mon, 14 Sep 2026 18:34:09 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
-    "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
+    "title": "参议院准备《澄清法案》投票，银行升级稳定币奖励之争",
     "original_title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
     "published": "Mon, 14 Sep 2026 17:51:20 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
-    "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
+    "title": "《清晰法案》对预测市场的支持率大幅上升，但加密货币法案仍面临漫长的道路",
     "original_title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
     "published": "Mon, 14 Sep 2026 15:10:29 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
-    "title": "US House crypto tax package omits mining, staking reward deferral",
+    "title": "美国众议院加密货币税收计划忽略了挖矿、质押奖励延期",
     "original_title": "US House crypto tax package omits mining, staking reward deferral",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 10:04:21 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
-    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+    "title": "Ethlabs 研究人员表示，以太坊、基础钱包标准谈判失败",
     "original_title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 09:40:27 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
-    "title": "Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant",
+    "title": "随着牛市可能性的提高，比特币短期持有者实现了 30 天的连续盈利：CryptoQuant",
     "original_title": "Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 09:30:31 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
-    "title": "Solana more than triples transaction size limit with mainnet upgrade",
+    "title": "Solana 通过主网升级将交易规模限制增加了三倍以上",
     "original_title": "Solana more than triples transaction size limit with mainnet upgrade",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 08:18:53 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
-    "title": "Here’s what happened in crypto today",
+    "title": "这是今天加密货币领域发生的事情",
     "original_title": "Here’s what happened in crypto today",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 05:39:15 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
-    "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
+    "title": "CoinEx 因加密货币“大幅收缩”而在 9 年后停止运营",
     "original_title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 04:19:16 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
-    "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+    "title": "Kraken 为代币化股票和 ETF 带来 DeFi 收益",
     "original_title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 14 Sep 2026 20:54:10 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
-    "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
+    "title": "特朗普表示伊朗战争可能结束，比特币突破 7.9 万美元，油价下跌",
     "original_title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 14 Sep 2026 18:56:28 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
-    "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
+    "title": "Strive 新增 469 个比特币，达到 25,000 个 BTC 金库",
     "original_title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 14 Sep 2026 17:50:12 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
-    "title": "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
+    "title": "Bitmine 预计每年将从 15.8B 美元的加密金库中获得 3.34 亿美元的质押收入",
     "original_title": "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 14 Sep 2026 15:55:59 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
-    "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
+    "title": "世贸组织负责人：分散的监管限制了国际金融中稳定币的采用",
     "original_title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 14 Sep 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 24
   },
   {
-    "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
+    "title": "欧盟网络规则要求加密钱包制造商 24 小时报告",
     "original_title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 14 Sep 2026 11:38:44 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 25
   }
 ]
