@@ -1,12 +1,21 @@
 [
   {
+    "title": "There were many conductors in the derailment of the crypto industry's Clarity Act",
+    "original_title": "There were many conductors in the derailment of the crypto industry's Clarity Act",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
+    "published": "Tue, 15 Sep 2026 21:58:48 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Crypto stocks sink after Senate rejects Clarity Act",
     "original_title": "Crypto stocks sink after Senate rejects Clarity Act",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
     "published": "Tue, 15 Sep 2026 20:03:17 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Crypto industry reacts after Clarity Act fails Senate vote",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
     "published": "Tue, 15 Sep 2026 19:06:31 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
     "published": "Tue, 15 Sep 2026 18:50:58 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
     "published": "Tue, 15 Sep 2026 18:02:05 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
     "published": "Tue, 15 Sep 2026 15:50:23 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
     "published": "Tue, 15 Sep 2026 13:43:50 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
     "published": "Tue, 15 Sep 2026 11:15:44 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
     "published": "Tue, 15 Sep 2026 10:41:35 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
     "published": "Tue, 15 Sep 2026 10:27:55 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "Nigel Farage-backed Stack BTC plans to acquire a gold dealer for $16 million to fund bitcoin buy",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
     "published": "Tue, 15 Sep 2026 10:06:40 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
     "published": "Tue, 15 Sep 2026 09:30:58 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "Live updates: Clarity Act fails in Senate, sending crypto lower",
@@ -104,15 +113,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
     "published": "Tue, 15 Sep 2026 06:37:24 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
-    "original_title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
-    "published": "Tue, 15 Sep 2026 05:12:06 +0000",
     "sentiment": "市场",
     "score": 12
   },
