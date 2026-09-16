@@ -54,8 +54,8 @@
     "score": 5
   },
   {
-    "title": "实时更新：由于《清晰法案》失败导致现货 ETF 流出激增，比特币维持在 76,000 美元附近",
-    "original_title": "Live updates: Bitcoin holds near $76,000 as spot ETFs outflows surged alongside Clarity Act failure",
+    "title": "实时更新：交易员为美联储三年来首次加息做好准备，比特币维持在 76,000 美元附近",
+    "original_title": "Live updates: Bitcoin holds near $76,000 as traders brace for first Fed rate hike in three years",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
     "published": "Wed, 16 Sep 2026 10:37:46 +0000",
@@ -144,7 +144,7 @@
     "score": 15
   },
   {
-    "title": "Solana 贷款机构 Kamino 任命金融科技资深人士 Michael Weisz 为首席执行官，以大规模扩张美国业务",
+    "title": "Solana 贷款机构 Kamino 任命金融科技资深人士 Michael Weisz 为首席执行官，以大规模扩张美国市场",
     "original_title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
@@ -277,14 +277,5 @@
     "published": "Tue, 15 Sep 2026 15:50:49 +0000",
     "sentiment": "市场",
     "score": 30
-  },
-  {
-    "title": "MEV 机器人捕获 770 万美元，Kelp 冻结地址，ETH 钱包漏洞适得其反",
-    "original_title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 15 Sep 2026 15:21:26 +0000",
-    "sentiment": "市场",
-    "score": 31
   }
 ]
