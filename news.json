@@ -1,12 +1,21 @@
 [
   {
+    "title": "Bitcoin Core 32 进入最终测试，验证速度更快，费用调整和安全修复",
+    "original_title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
+    "published": "Wed, 16 Sep 2026 12:00:41 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "比特币与美元指数失去联系，美国股市领先于美联储",
     "original_title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
     "published": "Wed, 16 Sep 2026 11:16:51 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "比特币交易者为美联储加息做好准备，但意外持有可能会带来更大的风险",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
     "published": "Wed, 16 Sep 2026 11:00:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Two Prime 通过 1000 万美元支持的比特币收益金库推动链上金融",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
     "published": "Wed, 16 Sep 2026 11:00:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "由于澄清法案失败，比特币 ETF 损失 4.5 亿美元",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
     "published": "Wed, 16 Sep 2026 10:48:44 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "德意志银行即将推出机构加密货币托管服务",
@@ -42,16 +51,16 @@
     "link": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
     "published": "Wed, 16 Sep 2026 10:46:28 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
-    "title": "实时更新：由于《清晰法案》失败导致现货 ETF 流出激增，比特币维持在 76,000 美元附近",
+    "title": "实时更新：由于现货 ETF 流出激增以及《清晰法案》失败，比特币维持在 76,000 美元附近",
     "original_title": "Live updates: Bitcoin holds near $76,000 as spot ETFs outflows surged alongside Clarity Act failure",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
     "published": "Wed, 16 Sep 2026 10:37:46 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "比特币 Coinbase 溢价跌至一个月低点，原因如下",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
     "published": "Wed, 16 Sep 2026 09:57:12 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "以太坊、Base 经过数月谈判放弃通用钱包标准",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
     "published": "Wed, 16 Sep 2026 08:07:59 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "美联储会议对沃什来说将成为一场噩梦。比特币可能仍然闪耀",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
     "published": "Wed, 16 Sep 2026 06:42:22 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "Zcash 持有者绝大多数支持更快的交易和比特币式的减半",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
     "published": "Wed, 16 Sep 2026 05:54:04 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "由于澄清法案失败，价值 5.7 亿美元的加密货币多头被消灭",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
     "published": "Wed, 16 Sep 2026 04:07:27 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "由于澄清法案失败，XRP 下跌 10%，比特币跌至 76,000 美元",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
     "published": "Wed, 16 Sep 2026 03:37:45 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "参议院否决《澄清法案》后，加密货币股票下跌",
@@ -114,7 +123,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
     "published": "Tue, 15 Sep 2026 20:03:17 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "澄清法案未能通过参议院投票后加密行业做出反应",
@@ -123,7 +132,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
     "published": "Tue, 15 Sep 2026 19:06:31 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "美国参议院投票失败，加密货币清晰度法案被搁置",
@@ -132,23 +141,14 @@
     "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
     "published": "Tue, 15 Sep 2026 18:50:58 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
-    "title": "Solana 贷款机构 Kamino 任命金融科技资深人士 Michael Weisz 为首席执行官，以大规模扩张美国业务",
+    "title": "Solana 贷款机构 Kamino 任命金融科技资深人士 Michael Weisz 为首席执行官，以大规模扩张美国市场",
     "original_title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
     "published": "Tue, 15 Sep 2026 18:02:05 +0000",
-    "sentiment": "市场",
-    "score": 15
-  },
-  {
-    "title": "除非参议院在最后一刻扭转局面，《加密货币清晰度法案》将走向失望",
-    "original_title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
-    "published": "Tue, 15 Sep 2026 15:50:23 +0000",
     "sentiment": "市场",
     "score": 16
   },
