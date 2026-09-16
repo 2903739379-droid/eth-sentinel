@@ -1,12 +1,21 @@
 [
   {
+    "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+    "original_title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+    "published": "Wed, 16 Sep 2026 03:37:45 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Crypto stocks sink after Senate rejects Clarity Act",
     "original_title": "Crypto stocks sink after Senate rejects Clarity Act",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
     "published": "Tue, 15 Sep 2026 20:03:17 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Crypto industry reacts after Clarity Act fails Senate vote",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
     "published": "Tue, 15 Sep 2026 19:06:31 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
     "published": "Tue, 15 Sep 2026 18:50:58 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
     "published": "Tue, 15 Sep 2026 18:02:05 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
     "published": "Tue, 15 Sep 2026 15:50:23 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
     "published": "Tue, 15 Sep 2026 13:43:50 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
     "published": "Tue, 15 Sep 2026 11:15:44 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
     "published": "Tue, 15 Sep 2026 10:41:35 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
     "published": "Tue, 15 Sep 2026 10:27:55 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "Nigel Farage-backed Stack BTC plans to acquire a gold dealer for $16 million to fund bitcoin buy",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
     "published": "Tue, 15 Sep 2026 10:06:40 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
     "published": "Tue, 15 Sep 2026 09:30:58 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "Live updates: Clarity Act fails in Senate, sending crypto lower",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
     "published": "Tue, 15 Sep 2026 06:37:24 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "Crypto industry turns to US regulators after CLARITY setback",
@@ -114,7 +123,7 @@
     "link": "https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 16 Sep 2026 02:24:07 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
@@ -123,7 +132,7 @@
     "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 21:23:00 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -132,7 +141,7 @@
     "link": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 20:37:34 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 19:53:13 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 17:53:04 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "Binance adds 11 US-listed ETFs to wealth management offering",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 17:22:04 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 16:02:01 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 15:50:49 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 15:21:26 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "US House crypto tax package omits mining, staking reward deferral",
@@ -195,7 +204,7 @@
     "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 10:04:21 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
@@ -204,7 +213,7 @@
     "link": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 09:40:27 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
     "title": "Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant",
@@ -213,7 +222,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 09:30:31 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 24
   },
   {
     "title": "Solana more than triples transaction size limit with mainnet upgrade",
@@ -222,7 +231,7 @@
     "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 08:18:53 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 25
   },
   {
     "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
@@ -231,6 +240,6 @@
     "link": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 15 Sep 2026 04:19:16 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 26
   }
 ]
