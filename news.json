@@ -1,12 +1,21 @@
 [
   {
+    "title": "Bitcoin faces 2022 parallels as federal reserve resumes rate hikes",
+    "original_title": "Bitcoin faces 2022 parallels as federal reserve resumes rate hikes",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
+    "published": "Thu, 17 Sep 2026 08:41:48 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
     "original_title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
     "published": "Thu, 17 Sep 2026 07:27:07 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
     "published": "Thu, 17 Sep 2026 04:47:27 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Goldman pivots, now forecasts Fed rate hike in October",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
     "published": "Thu, 17 Sep 2026 04:17:55 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Fed raises rates by 25 basis points in first hike since July 2023",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
     "published": "Wed, 16 Sep 2026 17:54:55 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
     "published": "Wed, 16 Sep 2026 16:21:44 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
     "published": "Wed, 16 Sep 2026 15:25:41 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Crypto Long & Short: Six signs a crypto winter is ending",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
     "published": "Wed, 16 Sep 2026 14:59:34 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
     "published": "Wed, 16 Sep 2026 12:00:41 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
     "published": "Wed, 16 Sep 2026 11:16:51 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
     "published": "Wed, 16 Sep 2026 11:00:00 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
     "published": "Wed, 16 Sep 2026 11:00:00 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
@@ -104,15 +113,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
     "published": "Wed, 16 Sep 2026 10:48:44 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "Deutsche Bank close to debuting crypto custody for institutions",
-    "original_title": "Deutsche Bank close to debuting crypto custody for institutions",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
-    "published": "Wed, 16 Sep 2026 10:46:28 +0000",
     "sentiment": "市场",
     "score": 12
   },
