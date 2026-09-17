@@ -1,12 +1,21 @@
 [
   {
+    "title": "《澄清法案》失败可能会阻碍美国加密货币行业在其他地方寻求法律澄清",
+    "original_title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
+    "published": "Thu, 17 Sep 2026 14:50:58 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "以太坊即将进行的 Glamsterdam 升级为容量大幅跃升做好了准备",
     "original_title": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
     "published": "Thu, 17 Sep 2026 12:37:21 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "乐观情绪重新回到加密货币领域，2022 年的考验尚未到来",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
     "published": "Thu, 17 Sep 2026 11:19:09 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "实时更新：美联储加息后股市飙升，比特币继续接近 76,000 美元",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
     "published": "Thu, 17 Sep 2026 10:41:15 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "美联储自 2023 年以来首次加息，加密货币价格上涨",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
     "published": "Thu, 17 Sep 2026 10:40:01 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "随着美联储恢复加息，比特币面临 2022 年的相似情况",
@@ -42,16 +51,16 @@
     "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
     "published": "Thu, 17 Sep 2026 08:41:48 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
-    "title": "比特币和黄金陷入困境，美国柴油价格创历史新高",
+    "title": "比特币和黄金挣扎，美国柴油价格创历史新高",
     "original_title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
     "published": "Thu, 17 Sep 2026 07:27:07 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "尽管美联储自 2023 年以来首次加息，但随着比特币和主要代币的上涨，Zcash 仍上涨 23%",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
     "published": "Thu, 17 Sep 2026 04:47:27 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "高盛转向现在预测美联储十月加息",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
     "published": "Thu, 17 Sep 2026 04:17:55 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "美联储加息25个基点，这是2023年7月以来的首次加息",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
     "published": "Wed, 16 Sep 2026 17:54:55 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "美国众议院税务委员会在《清晰法案》失败后推进加密货币税法案",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
     "published": "Wed, 16 Sep 2026 16:21:44 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "美国司法部文件显示，哈马斯军事部门告诉捐助者避免直接从币安发送加密货币",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
     "published": "Wed, 16 Sep 2026 15:25:41 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "加密货币多空：加密货币冬天即将结束的六个迹象",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
     "published": "Wed, 16 Sep 2026 14:59:34 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -114,7 +123,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 13:53:14 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "Crypto.com 首席执行官表示 OG.com 已获 SEC 批准提供单一股票期货",
@@ -123,7 +132,7 @@
     "link": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 13:35:57 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "比特币财务公司的表现可以超越比特币……但这个风险值得冒吗？",
@@ -132,7 +141,7 @@
     "link": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "CoinShares 研究员表示，加密货币的采用在德国蓬勃发展，而英国则“落后”",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 12:34:11 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "Polymarket 用户向韩国检察官举报：报告",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 09:37:32 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "由于账面亏损持续存在，比特币国债三个月内仅购买了 5900 枚 BTC",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 09:00:31 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "随着官员们看到更多紧缩政策，比特币吸收了美联储加息的影响",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 02:52:08 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "美国立法者提出将特朗普的比特币储备纳入法律的法案",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 00:23:44 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "英国 FCA 在 9 月申请窗口之前制定加密货币授权指南",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 16 Sep 2026 19:19:23 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "美国众议院税务委员会以 38 比 5 的投票结果推进加密货币税改革",
@@ -195,7 +204,7 @@
     "link": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 16 Sep 2026 18:01:55 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "安克雷奇将机构托管范围扩大到 Etherlink、代币化铀",
@@ -204,6 +213,6 @@
     "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 16 Sep 2026 16:03:35 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   }
 ]
