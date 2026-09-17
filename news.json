@@ -9,7 +9,7 @@
     "score": 0
   },
   {
-    "title": "实时更新：中国干预伊朗的报道导致油价下跌，比特币上涨",
+    "title": "实时更新：由于中国干预伊朗的报道，石油价格下跌，比特币上涨",
     "original_title": "Live updates: Bitcoin rises as oil sinks on report of China intervention on Iran",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
@@ -36,7 +36,7 @@
     "score": 3
   },
   {
-    "title": "比特币和黄金挣扎，美国柴油价格创历史新高",
+    "title": "比特币和黄金陷入困境，美国柴油价格创历史新高",
     "original_title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
@@ -99,13 +99,22 @@
     "score": 10
   },
   {
+    "title": "CoinShares 研究员表示，加密货币的采用在德国蓬勃发展，而英国则“落后”",
+    "original_title": "Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 17 Sep 2026 12:34:11 +0000",
+    "sentiment": "市场",
+    "score": 11
+  },
+  {
     "title": "Polymarket 用户向韩国检察官举报：报告",
     "original_title": "Polymarket users referred to prosecutors in South Korea: Report",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 09:37:32 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "由于账面亏损持续存在，比特币国债三个月内仅购买了 5900 枚 BTC",
@@ -114,7 +123,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 09:00:31 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -123,7 +132,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 06:01:31 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "随着官员们看到更多紧缩政策，比特币吸收了美联储加息的影响",
@@ -132,7 +141,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 02:52:08 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "美国立法者提出将特朗普的比特币储备纳入法律的法案",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 00:23:44 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "英国 FCA 在 9 月申请窗口之前制定加密货币授权指南",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 16 Sep 2026 19:19:23 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "美国众议院税务委员会以 38 比 5 的投票结果推进加密货币税改革",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 16 Sep 2026 18:01:55 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "安克雷奇将机构托管范围扩大到 Etherlink、代币化铀",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 16 Sep 2026 16:03:35 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "比特币等待美联储利率决议低于 7.6 万美元，因为分析低估了“鸽派意外”的可能性",
@@ -177,6 +186,6 @@
     "link": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 16 Sep 2026 15:30:49 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   }
 ]
