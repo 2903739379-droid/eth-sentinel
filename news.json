@@ -1,12 +1,21 @@
 [
   {
+    "title": "Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000",
+    "original_title": "Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
+    "published": "Fri, 18 Sep 2026 09:49:51 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
     "original_title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
     "published": "Fri, 18 Sep 2026 06:52:23 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
     "published": "Fri, 18 Sep 2026 06:16:57 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
     "published": "Fri, 18 Sep 2026 05:43:21 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
     "published": "Fri, 18 Sep 2026 05:23:29 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
     "published": "Fri, 18 Sep 2026 04:49:17 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
     "published": "Fri, 18 Sep 2026 03:03:38 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
     "published": "Thu, 17 Sep 2026 18:40:38 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
     "published": "Thu, 17 Sep 2026 15:08:24 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
     "published": "Thu, 17 Sep 2026 15:03:19 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "Crypto for Advisors: Beyond bitcoin and ether",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
     "published": "Thu, 17 Sep 2026 14:57:11 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
     "published": "Thu, 17 Sep 2026 14:50:58 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
     "published": "Thu, 17 Sep 2026 12:37:21 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
@@ -114,7 +123,7 @@
     "link": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 18 Sep 2026 09:14:03 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
@@ -123,7 +132,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 18 Sep 2026 08:47:20 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -132,7 +141,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 18 Sep 2026 06:00:00 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 18 Sep 2026 01:33:54 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 17:31:12 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 16:22:23 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 13:35:57 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher",
@@ -186,6 +195,6 @@
     "link": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 17 Sep 2026 12:34:11 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   }
 ]
