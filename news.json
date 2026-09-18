@@ -1,12 +1,30 @@
 [
   {
+    "title": "美国商品期货交易委员会 (CFTC) 将加密货币规则发送给白宫进行审查，因为国会在《清晰法案》上陷入停滞",
+    "original_title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+    "published": "Fri, 18 Sep 2026 15:16:37 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "加密技术提供商 Haruko 遭受网络攻击，影响 15 名客户，部分资金损失",
+    "original_title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
+    "published": "Fri, 18 Sep 2026 15:06:31 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
     "title": "随着焦点转向山寨币，XRP 处于黄金十字的边缘",
     "original_title": "XRP on the brink of a golden cross as focus switches to altcoins",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
     "published": "Fri, 18 Sep 2026 11:15:00 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 2
   },
   {
     "title": "随着美联储加息后的紧张情绪消退，Layer-2 和 DeFi 代币引领加密货币的广泛进步",
@@ -15,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
     "published": "Fri, 18 Sep 2026 10:33:05 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 3
   },
   {
     "title": "随着加息和澄清法案的挫折，比特币经受住了九月的风暴考验多头",
@@ -24,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
     "published": "Fri, 18 Sep 2026 10:07:33 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 4
   },
   {
     "title": "实时更新：随着美国市场开盘加速上涨，比特币攀升至 80,000 美元以上",
@@ -33,7 +51,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
     "published": "Fri, 18 Sep 2026 09:49:51 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 5
   },
   {
     "title": "美国称伊朗霍尔木兹海峡收费站经过比特币交易所",
@@ -42,7 +60,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
     "published": "Fri, 18 Sep 2026 06:52:23 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 6
   },
   {
     "title": "Solana 将出块速度提高了 17%，但交易容量保持不变",
@@ -51,7 +69,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
     "published": "Fri, 18 Sep 2026 06:16:57 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 7
   },
   {
     "title": "企业财政部在 3 个月内仅购买了 5,900 个比特币。其他需求信号看起来也很弱。",
@@ -60,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
     "published": "Fri, 18 Sep 2026 05:43:21 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 8
   },
   {
     "title": "以太坊确认 Glamsterdam 日期，但警告“假”建设者可能会阻碍该链",
@@ -69,7 +87,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
     "published": "Fri, 18 Sep 2026 05:23:29 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 9
   },
   {
     "title": "随着加密货币专业股走高，以太坊和 XRP ETF 出现资金流出",
@@ -78,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
     "published": "Fri, 18 Sep 2026 04:49:17 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 10
   },
   {
     "title": "日本央行加息25个基点。比特币突破 77,000 美元",
@@ -87,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
     "published": "Fri, 18 Sep 2026 03:03:38 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 11
   },
   {
     "title": "凯文·奥利里 (Kevin O’Leary) 表示，随着加密货币税法案的进展，国会将在明年初重新审视 Clarity",
@@ -95,24 +113,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
     "published": "Thu, 17 Sep 2026 18:40:38 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "英国通过多机构袭击点对点加密货币中心标志着“轻接触”时代的结束",
-    "original_title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
-    "published": "Thu, 17 Sep 2026 15:08:24 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "美国 SEC 开始为加密货币视为常态的全天候交易做准备",
-    "original_title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
-    "published": "Thu, 17 Sep 2026 15:03:19 +0000",
     "sentiment": "市场",
     "score": 12
   },
