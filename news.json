@@ -1,12 +1,21 @@
 [
   {
+    "title": "为什么 Payward-backed Reap 押注非美元稳定币进行 24/7 跨境外汇结算",
+    "original_title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
+    "published": "Tue, 22 Sep 2026 12:05:55 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "到 10 月底，价值 320 万美元的“比特币蝴蝶”期权交易押注为 95,000 美元",
     "original_title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
     "published": "Tue, 22 Sep 2026 11:35:43 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "油价下跌支撑风险偏好，比特币从亚洲时段低点回升",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
     "published": "Tue, 22 Sep 2026 10:59:03 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "实时更新：伊朗暗示霍尔木兹可能重新开放，油价下跌，比特币维持在 86,000 美元附近",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
     "published": "Tue, 22 Sep 2026 10:20:12 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "币安因违反制裁行为接受美国联邦检察官调查：彭博社",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
     "published": "Tue, 22 Sep 2026 10:07:52 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "现货比特币 ETF 周一吸引了近 10 亿美元，这是有史以来第九大资金流入",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
     "published": "Tue, 22 Sep 2026 07:40:41 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "白帽子将 Coldcard 黑客攻击中的 52 比特币转移至恢复信托",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
     "published": "Tue, 22 Sep 2026 06:27:28 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "埃隆·马斯克的 X 让比特币和股票交易更接近时间表",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
     "published": "Tue, 22 Sep 2026 05:26:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "狗狗币引领市场反弹 15%，比特币稳定在 85,000 美元上方",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
     "published": "Tue, 22 Sep 2026 04:33:11 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "Cardano 加入 Solana、XRP Ledger 的行列，共同推动人工智能代理支付",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
     "published": "Tue, 22 Sep 2026 04:15:45 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "空头受到挤压后，比特币可能会测试 90,000 美元，但交易员警告杠杆正在增加",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
     "published": "Mon, 21 Sep 2026 20:39:39 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "加密货币政治团体计划斥资 3000 万美元反对谢罗德·布朗 (Sherrod Brown) 的参议院竞选",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
     "published": "Mon, 21 Sep 2026 16:01:36 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "Tom Lee 表示机构仍减持加密货币，Bitmine 购买了 7500 万美元的以太币",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
     "published": "Mon, 21 Sep 2026 13:11:15 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "财政部长斯科特·贝森特支持美元在全球市场和稳定币中的主导地位",
@@ -114,7 +123,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
     "published": "Mon, 21 Sep 2026 12:44:33 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "随着大型科技公司关注稳定币和代币化轨道，谷歌和苹果正在寻求加密人才",
@@ -122,15 +131,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
     "published": "Mon, 21 Sep 2026 12:17:48 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "策略回归比特币购买，上周增加了 7500 万美元的 BTC",
-    "original_title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
-    "published": "Mon, 21 Sep 2026 12:08:02 +0000",
     "sentiment": "市场",
     "score": 14
   },
