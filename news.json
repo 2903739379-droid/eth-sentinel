@@ -1,12 +1,21 @@
 [
   {
+    "title": "埃隆·马斯克的 X 让比特币和股票交易更接近时间表",
+    "original_title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
+    "published": "Tue, 22 Sep 2026 05:26:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "狗狗币引领市场反弹 15%，比特币稳定在 85,000 美元上方",
     "original_title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
     "published": "Tue, 22 Sep 2026 04:33:11 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Cardano 加入 Solana、XRP Ledger 的行列，共同推动人工智能代理支付",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
     "published": "Tue, 22 Sep 2026 04:15:45 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "空头受到挤压后，比特币可能会测试 90,000 美元，但交易员警告杠杆正在增加",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
     "published": "Mon, 21 Sep 2026 20:39:39 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "加密货币政治团体计划斥资 3000 万美元反对谢罗德·布朗 (Sherrod Brown) 的参议院竞选",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
     "published": "Mon, 21 Sep 2026 16:01:36 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Tom Lee 表示机构仍减持加密货币，Bitmine 购买了 7500 万美元的以太币",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
     "published": "Mon, 21 Sep 2026 13:11:15 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "财政部长斯科特·贝森特支持美元在全球市场和稳定币中的主导地位",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
     "published": "Mon, 21 Sep 2026 12:44:33 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "随着大型科技公司关注稳定币和代币化轨道，谷歌和苹果正在寻求加密人才",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
     "published": "Mon, 21 Sep 2026 12:17:48 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "策略回归比特币购买，上周增加了 7500 万美元的 BTC",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
     "published": "Mon, 21 Sep 2026 12:08:02 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "比特币第三季度上涨 44%，预示加密货币牛市全面爆发",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
     "published": "Mon, 21 Sep 2026 11:36:11 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "与“比特币 VIX”相关的 Perp 期货在 Hyperliquid 首次亮相",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
     "published": "Mon, 21 Sep 2026 11:30:00 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "空头挤压迫使 6.48 亿美元的看跌押注被淘汰，比特币触及 85,000 美元",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
     "published": "Mon, 21 Sep 2026 10:30:00 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "X 起诉自己的用户运营假比特币新闻机器人农场",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm",
     "published": "Mon, 21 Sep 2026 10:15:44 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "加密货币在美联储加息后享受看涨反弹：未来一周加密货币",
@@ -114,7 +123,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
     "published": "Mon, 21 Sep 2026 09:12:42 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "实时更新：比特币触及 87,000 美元，交易员纷纷投入杠杆押注",
@@ -122,15 +131,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
     "published": "Mon, 21 Sep 2026 08:39:26 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "Kalshi 面临“虚假加密交易量”指控，批评者标记了相同的 5,500 美元交易",
-    "original_title": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
-    "published": "Mon, 21 Sep 2026 06:20:47 +0000",
     "sentiment": "市场",
     "score": 14
   },
