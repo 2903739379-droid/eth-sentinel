@@ -1,12 +1,21 @@
 [
   {
+    "title": "现货比特币 ETF 周一吸引了近 10 亿美元，这是有史以来第九大资金流入",
+    "original_title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
+    "published": "Tue, 22 Sep 2026 07:40:41 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "白帽子将 Coldcard 黑客攻击中的 52 比特币转移至恢复信托",
     "original_title": "Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
     "published": "Tue, 22 Sep 2026 06:27:28 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "埃隆·马斯克的 X 让比特币和股票交易更接近时间表",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
     "published": "Tue, 22 Sep 2026 05:26:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "狗狗币引领市场反弹 15%，比特币稳定在 85,000 美元上方",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
     "published": "Tue, 22 Sep 2026 04:33:11 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Cardano 加入 Solana、XRP Ledger 的行列，共同推动人工智能代理支付",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
     "published": "Tue, 22 Sep 2026 04:15:45 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "空头受到挤压后，比特币可能会测试 90,000 美元，但交易员警告杠杆正在增加",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
     "published": "Mon, 21 Sep 2026 20:39:39 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "加密货币政治团体计划斥资 3000 万美元反对谢罗德·布朗 (Sherrod Brown) 的参议院竞选",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
     "published": "Mon, 21 Sep 2026 16:01:36 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Tom Lee 表示机构仍减持加密货币，Bitmine 购买了 7500 万美元的以太币",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
     "published": "Mon, 21 Sep 2026 13:11:15 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "财政部长斯科特·贝森特支持美元在全球市场和稳定币中的主导地位",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
     "published": "Mon, 21 Sep 2026 12:44:33 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "随着大型科技公司关注稳定币和代币化轨道，谷歌和苹果正在寻求加密人才",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
     "published": "Mon, 21 Sep 2026 12:17:48 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "策略回归比特币购买，上周增加了 7500 万美元的 BTC",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
     "published": "Mon, 21 Sep 2026 12:08:02 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "比特币第三季度上涨 44%，预示加密货币牛市全面爆发",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
     "published": "Mon, 21 Sep 2026 11:36:11 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "与“比特币 VIX”相关的 Perp 期货在 Hyperliquid 首次亮相",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
     "published": "Mon, 21 Sep 2026 11:30:00 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "空头挤压迫使 6.48 亿美元的看跌押注被淘汰，比特币触及 85,000 美元",
@@ -114,7 +123,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
     "published": "Mon, 21 Sep 2026 10:30:00 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "X 起诉自己的用户运营假比特币新闻机器人农场",
@@ -123,7 +132,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm",
     "published": "Mon, 21 Sep 2026 10:15:44 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "加密货币在美联储加息后享受看涨反弹：未来一周加密货币",
@@ -132,7 +141,16 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
     "published": "Mon, 21 Sep 2026 09:12:42 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
+  },
+  {
+    "title": "随着资金流入达到 2026 年新高，比特币 ETF 价格接近 10 亿美元",
+    "original_title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 22 Sep 2026 07:33:37 +0000",
+    "sentiment": "市场",
+    "score": 16
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -141,7 +159,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 22 Sep 2026 05:40:46 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 17
   },
   {
     "title": "澳大利亚 40 年经济展望承认“人工智能革命”，忽略了加密货币",
@@ -150,7 +168,7 @@
     "link": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 22 Sep 2026 05:29:31 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 18
   },
   {
     "title": "Trueo 预测市场从 Base 转移到以太坊",
@@ -159,7 +177,7 @@
     "link": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 22 Sep 2026 04:03:00 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 19
   },
   {
     "title": "Kakao Pay 和 KakaoBank 携手 Fireblocks 探索稳定币机遇",
@@ -168,7 +186,7 @@
     "link": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 22 Sep 2026 03:13:22 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 20
   },
   {
     "title": "Crypto PAC 将斥资 3000 万美元再次在俄亥俄州对抗 Sherrod Brown",
@@ -177,7 +195,7 @@
     "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 21 Sep 2026 18:15:22 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 21
   },
   {
     "title": "Circle 为机构客户推出比特币支持的 USDC 借贷",
@@ -186,7 +204,7 @@
     "link": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 21 Sep 2026 16:56:53 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 22
   },
   {
     "title": "分析认为加密货币进入“新牛市”，比特币价格达到 8.6 万美元",
@@ -195,7 +213,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 21 Sep 2026 16:39:40 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 23
   },
   {
     "title": "加密货币业务：《澄清法案》受挫使 Coinbase 成为人们关注的焦点",
@@ -204,7 +222,7 @@
     "link": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 21 Sep 2026 15:08:17 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 24
   },
   {
     "title": "Kyle Samani 预测 SOL 将会翻转，声称“没有人”使用 ETH",
@@ -213,7 +231,7 @@
     "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 21 Sep 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 25
   },
   {
     "title": "Strategy 以 7600 万美元购买 950 个比特币，并回购 1.74 亿美元的 STRC",
@@ -222,7 +240,7 @@
     "link": "https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 21 Sep 2026 12:48:21 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 26
   },
   {
     "title": "欧洲央行推出 Pontes，无需稳定币即可结算代币化资产",
@@ -231,7 +249,7 @@
     "link": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 21 Sep 2026 11:27:00 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 27
   },
   {
     "title": "比特币价格接近八个月高点，超过 8.5 万美元：本周比特币需要了解的五件事",
@@ -240,7 +258,7 @@
     "link": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 21 Sep 2026 10:15:51 +0000",
     "sentiment": "市场",
-    "score": 26
+    "score": 28
   },
   {
     "title": "X 起诉比特币账户运营商涉嫌 27.8 万美元的支付欺诈",
@@ -249,7 +267,7 @@
     "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 21 Sep 2026 09:35:25 +0000",
     "sentiment": "市场",
-    "score": 27
+    "score": 29
   },
   {
     "title": "ZetaChain 持有者批准关闭 L1、将 ZETA 移至 Solana 的计划",
@@ -258,6 +276,6 @@
     "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 21 Sep 2026 07:31:47 +0000",
     "sentiment": "市场",
-    "score": 28
+    "score": 30
   }
 ]
