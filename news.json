@@ -1,21 +1,30 @@
 [
   {
+    "title": "Solana 开始测试升级，最终确定时间从 12.8 秒缩短至 150 毫秒",
+    "original_title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
+    "published": "Wed, 23 Sep 2026 05:16:22 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "比特币正处于自 2012 年以来从未出现过的连续上涨",
     "original_title": "Bitcoin's on a streak it hasn't hit since 2012",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
     "published": "Wed, 23 Sep 2026 05:12:42 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
-    "title": "比特币价格接近 87,000 美元，Zcash 以 10% 的涨幅领先加密货币专业公司",
+    "title": "随着比特币价格接近 87,000 美元，Zcash 以 10% 的涨幅领先加密货币专业公司",
     "original_title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
     "published": "Wed, 23 Sep 2026 04:10:08 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "美国监管机构警告预测平台“提及市场”存在作弊风险",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
     "published": "Wed, 23 Sep 2026 00:00:45 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Lummis 表示，民主党人“选择了对唐纳德·特朗普的发自内心的仇恨”，而不是《加密货币清晰度法案》",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
     "published": "Tue, 22 Sep 2026 21:29:05 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "白宫：加密货币市场结构迫不及待地等待选举后《清晰法案》激增的打击",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
     "published": "Tue, 22 Sep 2026 20:31:02 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "美国证券交易委员会的下一步：该机构的首席加密法律顾问阐明了监管之路",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
     "published": "Tue, 22 Sep 2026 15:21:28 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "欧洲央行推动将稳定币收益率禁令扩大到加密货币借贷和质押",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
     "published": "Tue, 22 Sep 2026 14:32:59 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "数据显示，Kalshi 上的比特币、以太币永续交易量主要由不寻常的重复交易主导",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
     "published": "Tue, 22 Sep 2026 12:32:15 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "为什么 Payward-backed Reap 押注非美元稳定币进行 24/7 跨境外汇结算",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
     "published": "Tue, 22 Sep 2026 12:05:55 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "到 10 月底，价值 320 万美元的“比特币蝴蝶”期权交易押注为 95,000 美元",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
     "published": "Tue, 22 Sep 2026 11:35:43 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "油价下跌支撑风险偏好，比特币从亚洲时段低点回升",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
     "published": "Tue, 22 Sep 2026 10:59:03 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "实时更新：随着美国股市小幅上涨，比特币交易价格接近 86,000 美元",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
     "published": "Tue, 22 Sep 2026 10:20:12 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "币安因违反制裁行为接受美国联邦检察官调查：彭博社",
@@ -114,7 +123,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
     "published": "Tue, 22 Sep 2026 10:07:52 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "现货比特币 ETF 周一吸引了近 10 亿美元，这是有史以来第九大资金流入",
@@ -123,7 +132,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
     "published": "Tue, 22 Sep 2026 07:40:41 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "白帽子将 Coldcard 黑客攻击中的 52 比特币转移至恢复信托",
@@ -132,7 +141,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
     "published": "Tue, 22 Sep 2026 06:27:28 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "Elon Musk 的 X 通过 Coinbase、Kraken 和 Interactive Brokers 合作带来加密货币和股票交易",
@@ -140,15 +149,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
     "published": "Tue, 22 Sep 2026 05:26:00 +0000",
-    "sentiment": "市场",
-    "score": 15
-  },
-  {
-    "title": "狗狗币引领市场反弹 15%，比特币稳定在 85,000 美元上方",
-    "original_title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
-    "published": "Tue, 22 Sep 2026 04:33:11 +0000",
     "sentiment": "市场",
     "score": 16
   },
