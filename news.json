@@ -54,22 +54,13 @@
     "score": 5
   },
   {
-    "title": "实时更新：有关美国/伊朗进展的报告对市场带来小幅提振",
-    "original_title": "Live updates: Report on U.S./Iran progress gives small lift to markets",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
-    "published": "Thu, 24 Sep 2026 11:20:12 +0000",
-    "sentiment": "市场",
-    "score": 6
-  },
-  {
     "title": "债券收益率创 2007 年以来最高水平，比特币跌至 83,300 美元",
     "original_title": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
     "published": "Thu, 24 Sep 2026 10:30:28 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 6
   },
   {
     "title": "随着比特币跌破 83,000 美元，交易员预计 2027 年 6 月美联储将加息 4 次",
@@ -78,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000",
     "published": "Thu, 24 Sep 2026 10:11:51 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 7
   },
   {
     "title": "数据证明：比特币并不关心长期债券收益率上升",
@@ -87,16 +78,16 @@
     "link": "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term",
     "published": "Thu, 24 Sep 2026 09:48:09 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 8
   },
   {
-    "title": "特朗普政府正在考虑制定全球稳定币计划以巩固美元的主导地位",
+    "title": "特朗普政府正在考虑一项全球稳定币计划以巩固美元的主导地位",
     "original_title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
     "published": "Thu, 24 Sep 2026 06:33:23 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 9
   },
   {
     "title": "一周的人工智能编码将量子安全比特币交易预估从 320 美元削减至 66 美元",
@@ -105,7 +96,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
     "published": "Thu, 24 Sep 2026 05:24:56 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 10
   },
   {
     "title": "美国国债收益率创 2007 年以来最高水平，狗狗币下跌 8%，比特币跌破 84,000 美元",
@@ -114,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
     "published": "Thu, 24 Sep 2026 04:13:01 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 11
   },
   {
     "title": "随着股票溢价下降，加密货币金库模式失去了优势：DWF",
@@ -123,7 +114,7 @@
     "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 17:14:35 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 12
   },
   {
     "title": "Sequans 在出售剩余 314 比特币后退出比特币金库策略",
@@ -132,7 +123,7 @@
     "link": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 17:13:38 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 13
   },
   {
     "title": "SoFi 合作表明稳定币可以提供替代的区块链结算方式",
@@ -141,7 +132,7 @@
     "link": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 15:57:00 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 14
   },
   {
     "title": "纽约起诉 Polymarket 涉嫌非法赌博业务",
@@ -150,7 +141,7 @@
     "link": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 15:27:29 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 15
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -159,7 +150,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 13:29:50 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 16
   },
   {
     "title": "随着新合作伙伴关系的扩大，Solana 基金会聘请了前币安首席营销官和支付主管",
@@ -168,7 +159,7 @@
     "link": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 17
   },
   {
     "title": "HIFI 筹集 3700 万美元以扩大稳定币支付和代币化市场",
@@ -177,7 +168,7 @@
     "link": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 18
   },
   {
     "title": "Bybit首席执行官表示纯加密货币交易时代即将结束",
@@ -186,7 +177,7 @@
     "link": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 11:24:07 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 19
   },
   {
     "title": "欧盟银行监管机构呼吁制定 MiCA 下的加密货币贷款规则",
@@ -195,7 +186,7 @@
     "link": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 10:30:00 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 20
   },
   {
     "title": "10年期国债收益率创19年新高，比特币跌破8.4万美元",
@@ -204,7 +195,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 10:15:03 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 21
   },
   {
     "title": "BTC 在突破 8.7 万美元后跌破 8.4 万美元，比特币 ETF 增加 3.47 亿美元",
@@ -213,7 +204,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 09:32:44 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 22
   },
   {
     "title": "Bitwise 发现机构通过 50% 的回撤持有加密货币",
@@ -222,7 +213,7 @@
     "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 09:18:16 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 23
   },
   {
     "title": "比特币的“最后手段”量子安全解决方案便宜了 79%：StarkWare",
@@ -231,7 +222,7 @@
     "link": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 04:52:40 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 24
   },
   {
     "title": "彭博社：美国正在考虑海外推动美元支持的稳定币",
@@ -240,7 +231,7 @@
     "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 04:44:12 +0000",
     "sentiment": "市场",
-    "score": 26
+    "score": 25
   },
   {
     "title": "前 SEC 代理主席：该机构放弃了加密货币案件，以避免可信度问题",
@@ -249,6 +240,6 @@
     "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 23 Sep 2026 21:47:52 +0000",
     "sentiment": "市场",
-    "score": 27
+    "score": 26
   }
 ]
