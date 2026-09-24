@@ -1,12 +1,21 @@
 [
   {
+    "title": "加密货币交易所 Bitget 表示，黑客攻击影响了 3.52 亿美元，并声称用户资金“安全”",
+    "original_title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
+    "published": "Thu, 24 Sep 2026 21:59:32 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "比特币刚刚突破了关键的长期移动平均线。这可能意味着什么",
     "original_title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean",
     "published": "Thu, 24 Sep 2026 18:46:58 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "加密货币赌场 Duelbits 因热钱包黑客攻击价值 700 万美元而下线",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
     "published": "Thu, 24 Sep 2026 15:48:20 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "比特币的熊市正在变得温和。牛市可能是下一个",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
     "published": "Thu, 24 Sep 2026 15:26:34 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "顾问的加密货币：持有自己的比特币的隐性成本",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
     "published": "Thu, 24 Sep 2026 14:49:28 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "欧洲稳定币发行商 Qivalis 看到全球贸易融资的转型",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
     "published": "Thu, 24 Sep 2026 14:41:05 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Solana 基金会聘请了 Binance 和 Polygon 资深人士，以加大代币化金融的推动力度",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push",
     "published": "Thu, 24 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "加密货币投资公司 RockawayX 押注 1.5 亿美元，押注收益将成为下一个重要用例",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
     "published": "Thu, 24 Sep 2026 12:31:53 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "债券收益率创 2007 年以来最高水平，比特币跌至 83,300 美元",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
     "published": "Thu, 24 Sep 2026 10:30:28 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "随着比特币跌破 83,000 美元，交易员预计 2027 年 6 月美联储将加息 4 次",
@@ -77,15 +86,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000",
     "published": "Thu, 24 Sep 2026 10:11:51 +0000",
-    "sentiment": "市场",
-    "score": 8
-  },
-  {
-    "title": "数据证明：比特币并不关心长期债券收益率上升",
-    "original_title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term",
-    "published": "Thu, 24 Sep 2026 09:48:09 +0000",
     "sentiment": "市场",
     "score": 9
   },
