@@ -54,7 +54,7 @@
     "score": 5
   },
   {
-    "title": "特朗普政府正在考虑制定全球稳定币计划以巩固美元的主导地位",
+    "title": "特朗普政府正在考虑一项全球稳定币计划以巩固美元的主导地位",
     "original_title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
@@ -117,13 +117,22 @@
     "score": 12
   },
   {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 24 Sep 2026 13:29:50 +0000",
+    "sentiment": "市场",
+    "score": 13
+  },
+  {
     "title": "随着新合作伙伴关系的扩大，Solana 基金会聘请了前币安首席营销官和支付主管",
     "original_title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "HIFI 筹集 3700 万美元以扩大稳定币支付和代币化市场",
@@ -132,7 +141,7 @@
     "link": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "Bybit首席执行官表示纯加密货币交易时代即将结束",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 11:24:07 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "欧盟银行监管机构呼吁制定 MiCA 下的加密货币贷款规则",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 10:30:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "10年期国债收益率创19年新高，比特币跌破8.4万美元",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 10:15:03 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "BTC 在突破 8.7 万美元后跌破 8.4 万美元，比特币 ETF 增加 3.47 亿美元",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 09:32:44 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "Bitwise 发现机构通过 50% 的回撤持有加密货币",
@@ -176,15 +185,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 09:18:16 +0000",
-    "sentiment": "市场",
-    "score": 19
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 24 Sep 2026 05:23:34 +0000",
     "sentiment": "市场",
     "score": 20
   },
@@ -241,14 +241,5 @@
     "published": "Wed, 23 Sep 2026 15:56:20 +0000",
     "sentiment": "市场",
     "score": 26
-  },
-  {
-    "title": "随着 BTC 价格跌至 8.4 万美元以下，比特币多头清算额达到 2.8 亿美元",
-    "original_title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 23 Sep 2026 14:52:11 +0000",
-    "sentiment": "市场",
-    "score": 27
   }
 ]
