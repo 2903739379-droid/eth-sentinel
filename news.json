@@ -1,12 +1,21 @@
 [
   {
+    "title": "比特币的熊市正在变得温和。牛市可能是下一个",
+    "original_title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
+    "published": "Thu, 24 Sep 2026 15:26:34 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "顾问的加密货币：持有自己的比特币的隐性成本",
     "original_title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
     "published": "Thu, 24 Sep 2026 14:49:28 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "欧洲稳定币发行商 Qivalis 看到全球贸易融资的转型",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
     "published": "Thu, 24 Sep 2026 14:41:05 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Solana 基金会聘请了 Binance 和 Polygon 资深人士，以加大代币化金融的推动力度",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push",
     "published": "Thu, 24 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "加密货币投资公司 RockawayX 押注 1.5 亿美元，押注收益将成为下一个重要用例",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
     "published": "Thu, 24 Sep 2026 12:31:53 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "实时更新：比特币随着利率和石油的持续上涨而下滑",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
     "published": "Thu, 24 Sep 2026 11:20:12 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "债券收益率创 2007 年以来最高水平，比特币跌至 83,300 美元",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
     "published": "Thu, 24 Sep 2026 10:30:28 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "随着比特币跌破 83,000 美元，交易员预计 2027 年 6 月美联储将加息 4 次",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000",
     "published": "Thu, 24 Sep 2026 10:11:51 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "数据证明：比特币并不关心长期债券收益率上升",
@@ -69,16 +78,16 @@
     "link": "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term",
     "published": "Thu, 24 Sep 2026 09:48:09 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
-    "title": "特朗普政府正在考虑一项全球稳定币计划以巩固美元的主导地位",
+    "title": "特朗普政府正在考虑制定全球稳定币计划以巩固美元的主导地位",
     "original_title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
     "published": "Thu, 24 Sep 2026 06:33:23 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "一周的人工智能编码将量子安全比特币交易预估从 320 美元削减至 66 美元",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
     "published": "Thu, 24 Sep 2026 05:24:56 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "美国国债收益率创 2007 年以来最高水平，狗狗币下跌 8%，比特币跌破 84,000 美元",
@@ -95,15 +104,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
     "published": "Thu, 24 Sep 2026 04:13:01 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "在《清晰法案》失败后，白宫顾问为特朗普总统的加密货币关系辩护",
-    "original_title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
-    "published": "Wed, 23 Sep 2026 18:04:11 +0000",
     "sentiment": "市场",
     "score": 11
   },
