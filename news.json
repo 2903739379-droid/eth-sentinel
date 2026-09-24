@@ -90,7 +90,7 @@
     "score": 9
   },
   {
-    "title": "特朗普政府正在考虑制定全球稳定币计划以巩固美元的主导地位",
+    "title": "特朗普政府正在考虑一项全球稳定币计划以巩固美元的主导地位",
     "original_title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
@@ -117,13 +117,31 @@
     "score": 12
   },
   {
+    "title": "随着股票溢价下降，加密货币金库模式失去了优势：DWF",
+    "original_title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 24 Sep 2026 17:14:35 +0000",
+    "sentiment": "市场",
+    "score": 13
+  },
+  {
+    "title": "Sequans 在出售剩余 314 比特币后退出比特币金库策略",
+    "original_title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 24 Sep 2026 17:13:38 +0000",
+    "sentiment": "市场",
+    "score": 14
+  },
+  {
     "title": "SoFi 合作表明稳定币可以提供替代的区块链结算方式",
     "original_title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 15:57:00 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 15
   },
   {
     "title": "纽约起诉 Polymarket 涉嫌非法赌博业务",
@@ -132,7 +150,7 @@
     "link": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 15:27:29 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 16
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -141,7 +159,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 13:29:50 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 17
   },
   {
     "title": "随着新合作伙伴关系的扩大，Solana 基金会聘请了前币安首席营销官和支付主管",
@@ -150,7 +168,7 @@
     "link": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 18
   },
   {
     "title": "HIFI 筹集 3700 万美元以扩大稳定币支付和代币化市场",
@@ -159,7 +177,7 @@
     "link": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 19
   },
   {
     "title": "Bybit首席执行官表示纯加密货币交易时代即将结束",
@@ -168,7 +186,7 @@
     "link": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 11:24:07 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 20
   },
   {
     "title": "欧盟银行监管机构呼吁制定 MiCA 下的加密货币贷款规则",
@@ -177,7 +195,7 @@
     "link": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 10:30:00 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 21
   },
   {
     "title": "10年期国债收益率创19年新高，比特币跌破8.4万美元",
@@ -186,7 +204,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 10:15:03 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 22
   },
   {
     "title": "BTC 在突破 8.7 万美元后跌破 8.4 万美元，比特币 ETF 增加 3.47 亿美元",
@@ -195,7 +213,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 09:32:44 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 23
   },
   {
     "title": "Bitwise 发现机构通过 50% 的回撤持有加密货币",
@@ -204,7 +222,7 @@
     "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 09:18:16 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 24
   },
   {
     "title": "比特币的“最后手段”量子安全解决方案便宜了 79%：StarkWare",
@@ -213,7 +231,7 @@
     "link": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 04:52:40 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 25
   },
   {
     "title": "彭博社：美国正在考虑海外推动美元支持的稳定币",
@@ -222,7 +240,7 @@
     "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 04:44:12 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 26
   },
   {
     "title": "前 SEC 代理主席：该机构放弃了加密货币案件，以避免可信度问题",
@@ -230,24 +248,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 23 Sep 2026 21:47:52 +0000",
-    "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "特朗普在道德备案中披露了高达 10 万美元的 Strategy 股票购买案",
-    "original_title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 23 Sep 2026 19:05:14 +0000",
-    "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "Visa 调查显示，通过类似银行的保护，美国稳定币的采用可能会激增",
-    "original_title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 23 Sep 2026 18:17:48 +0000",
     "sentiment": "市场",
     "score": 27
   }
