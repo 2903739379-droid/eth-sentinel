@@ -1,12 +1,21 @@
 [
   {
+    "title": "实时更新：随着债券抛售暂停，比特币稳定在 84,000 美元附近",
+    "original_title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
+    "published": "Fri, 25 Sep 2026 07:09:11 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Bitget 首席执行官 Gray Chen 表示，3.52 亿美元的黑客攻击是通过欺骗性转账而非私钥发生的",
     "original_title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
     "published": "Fri, 25 Sep 2026 04:29:34 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "纽约起诉 Polymarket，指控其经营非法赌博业务",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
     "published": "Thu, 24 Sep 2026 22:41:44 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "美联储就实施稳定币 GENIUS 法案的提案采取行动",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
     "published": "Thu, 24 Sep 2026 22:28:49 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "加密货币交易所 Bitget 表示，黑客攻击影响了 3.52 亿美元，并声称用户资金“安全”",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
     "published": "Thu, 24 Sep 2026 21:59:32 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "比特币刚刚突破了关键的长期移动平均线。这可能意味着什么",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean",
     "published": "Thu, 24 Sep 2026 18:46:58 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "加密货币赌场 Duelbits 因热钱包黑客攻击价值 700 万美元而下线",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
     "published": "Thu, 24 Sep 2026 15:48:20 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "比特币的熊市正在变得温和。牛市可能是下一个",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
     "published": "Thu, 24 Sep 2026 15:26:34 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "顾问的加密货币：持有自己的比特币的隐性成本",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
     "published": "Thu, 24 Sep 2026 14:49:28 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "欧洲稳定币发行商 Qivalis 看到全球贸易融资的转型",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
     "published": "Thu, 24 Sep 2026 14:41:05 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "Solana 基金会聘请了 Binance 和 Polygon 资深人士，以加大代币化金融的推动力度",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push",
     "published": "Thu, 24 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "加密货币投资公司 RockawayX 押注 1.5 亿美元，押注收益将成为下一个重要用例",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
     "published": "Thu, 24 Sep 2026 12:31:53 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -105,7 +114,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 05:30:56 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "研究人员提出无需软分叉的 Zcash 式私人比特币转账",
@@ -114,7 +123,7 @@
     "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 04:41:06 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "Block 将比特币闪电支付引入 x402，供人工智能代理使用",
@@ -123,7 +132,7 @@
     "link": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 02:00:54 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "亚洲主导加密货币采用指数，Bitget 遭受 3.52 亿美元黑客攻击：Asia Express",
@@ -132,7 +141,7 @@
     "link": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 23:27:17 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "美联储为稳定币发行人提出新的资本和赎回规则",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 22:10:09 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "比特币价格稳定，ONDO 上涨，美国国债收益率触及 2007 年高点",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 20:32:16 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "DoubleZero 为 Hyperliquid 交易者带来专用纤维市场数据",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 20:04:07 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "随着股票溢价下降，加密货币金库模式失去了优势：DWF",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 17:14:35 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "Sequans 在出售剩余 314 比特币后退出比特币金库策略",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 17:13:38 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "SoFi 合作表明稳定币可以提供替代的区块链结算方式",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 15:57:00 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "纽约起诉 Polymarket 涉嫌非法赌博业务",
@@ -195,7 +204,7 @@
     "link": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 15:27:29 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "随着新合作伙伴关系的扩大，Solana 基金会聘请了前币安首席营销官和支付主管",
@@ -204,7 +213,7 @@
     "link": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
     "title": "HIFI 筹集 3700 万美元以扩大稳定币支付和代币化市场",
@@ -213,7 +222,7 @@
     "link": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 24
   },
   {
     "title": "Bybit首席执行官表示纯加密货币交易时代即将结束",
@@ -222,7 +231,7 @@
     "link": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 11:24:07 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 25
   },
   {
     "title": "欧盟银行监管机构呼吁制定 MiCA 下的加密货币贷款规则",
@@ -231,6 +240,6 @@
     "link": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 10:30:00 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 26
   }
 ]
