@@ -45,7 +45,7 @@
     "score": 4
   },
   {
-    "title": "消除 58 亿美元赤字后，比特币 ETF 流量在 2026 年转为正数",
+    "title": "消除 58 亿美元赤字后，比特币 ETF 流量在 2026 年转为正值",
     "original_title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
@@ -117,31 +117,40 @@
     "score": 12
   },
   {
+    "title": "加密货币商业：华尔街和加密货币争夺同一地盘",
+    "original_title": "Crypto Biz: Wall Street and crypto fight for the same turf",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 25 Sep 2026 15:49:34 +0000",
+    "sentiment": "市场",
+    "score": 13
+  },
+  {
     "title": "这是今天加密货币领域发生的事情",
     "original_title": "Here’s what happened in crypto today",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 13:32:49 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
-    "title": "向国税局报告加密收益的交易所成为税务噩梦",
+    "title": "向国税局报告加密货币收益的交易所成为税务噩梦",
     "original_title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
-    "title": "CoinMarketCap 收购 CoinGlass 以扩展加密衍生品数据",
+    "title": "CoinMarketCap 收购 CoinGlass 以扩展加密货币衍生品数据",
     "original_title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 12:44:30 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "SlowMist 尚未确认 iPhone Safari 攻击导致加密货币被盗",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 12:19:34 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "比特币反弹后 IBIT 期权价格交易更加平静",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 11:11:33 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "KelpDAO 起诉 LayerZero 首席执行官，指控其 rsETH 桥接漏洞价值 2.92 亿美元",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 08:51:17 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "比特币 ETF 流入放缓至 $191M，六天连续流入 $2.8B",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 07:41:36 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "研究人员提出无需软分叉的 Zcash 式私人比特币转账",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 04:41:06 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "Block 将比特币闪电支付引入 x402，供人工智能代理使用",
@@ -195,7 +204,7 @@
     "link": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 02:00:54 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "亚洲主导加密货币采用指数，Bitget 遭受 3.52 亿美元黑客攻击：Asia Express",
@@ -204,7 +213,7 @@
     "link": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 23:27:17 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
     "title": "美联储为稳定币发行人提出新的资本和赎回规则",
@@ -213,7 +222,7 @@
     "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 22:10:09 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 24
   },
   {
     "title": "比特币价格稳定，ONDO 上涨，美国国债收益率触及 2007 年高点",
@@ -222,7 +231,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 20:32:16 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 25
   },
   {
     "title": "DoubleZero 为 Hyperliquid 交易者带来专用纤维市场数据",
@@ -230,15 +239,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 24 Sep 2026 20:04:07 +0000",
-    "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "随着股票溢价下降，加密货币金库模式失去了优势：DWF",
-    "original_title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 24 Sep 2026 17:14:35 +0000",
     "sentiment": "市场",
     "score": 26
   }
