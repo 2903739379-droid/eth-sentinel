@@ -1,19 +1,19 @@
 [
   {
+    "title": "比特币很快就会获得 Zcash 式的“屏蔽”隐私，而无需改变其规则",
+    "original_title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+    "published": "Sat, 26 Sep 2026 12:00:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Solana 150 毫秒结算升级到达第二个公共测试网络",
     "original_title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
     "published": "Sat, 26 Sep 2026 05:00:00 +0000",
-    "sentiment": "市场",
-    "score": 0
-  },
-  {
-    "title": "比特币很快就会获得 Zcash 式的“屏蔽”隐私，而无需改变其规则",
-    "original_title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-    "published": "Sat, 26 Sep 2026 04:02:13 +0000",
     "sentiment": "市场",
     "score": 1
   },
@@ -36,7 +36,7 @@
     "score": 3
   },
   {
-    "title": "区块链协会在《加密货币清晰度法案》失败后不久就看到了领导层的转变",
+    "title": "区块链协会在加密货币清晰度法案失败后不久就看到了领导层的转变",
     "original_title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
@@ -90,7 +90,7 @@
     "score": 9
   },
   {
-    "title": "消除 58 亿美元赤字后，比特币 ETF 流量在 2026 年转为正数",
+    "title": "消除 58 亿美元赤字后，比特币 ETF 流量在 2026 年转为正值",
     "original_title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
@@ -99,7 +99,7 @@
     "score": 10
   },
   {
-    "title": "实时更新：比特币涨至 84,000 美元，油价因中东进展最新报告而下滑",
+    "title": "实时更新：比特币升至 84,000 美元，油价因中东进展最新报告而下滑",
     "original_title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
@@ -144,13 +144,22 @@
     "score": 15
   },
   {
+    "title": "美联储要求对根据《天才法案》针对稳定币发行人的两项提案发表评论",
+    "original_title": "Fed requests comment on two proposals for stablecoin issuers under GENIUS Act",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/fed-requests-comment-on-two-proposals-for-stablecoin-issuers-under-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 26 Sep 2026 11:59:46 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
     "title": "CFTC 起诉 Cash FX，指控价值 9.5 亿美元的加密货币挂钩外汇计划",
     "original_title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 26 Sep 2026 06:59:29 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "Tether 表示，其对与美国扣押 8400 万美元相关的银行的风险敞口“有限”",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 18:56:53 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 18:42:59 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "加密货币商业：华尔街和加密货币争夺同一地盘",
@@ -177,25 +186,25 @@
     "link": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 15:49:34 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
-    "title": "向国税局报告加密收益的交易所成为税务噩梦",
+    "title": "向国税局报告加密货币收益的交易所成为税务噩梦",
     "original_title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
-    "title": "CoinMarketCap 收购 CoinGlass 以扩展加密衍生品数据",
+    "title": "CoinMarketCap 收购 CoinGlass 以扩展加密货币衍生品数据",
     "original_title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 12:44:30 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "SlowMist 尚未确认 iPhone Safari 攻击导致加密货币被盗",
@@ -204,7 +213,7 @@
     "link": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 12:19:34 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
     "title": "比特币反弹后 IBIT 期权价格交易更加平静",
@@ -213,7 +222,7 @@
     "link": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 11:11:33 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 24
   },
   {
     "title": "KelpDAO 起诉 LayerZero 首席执行官，指控其 rsETH 桥接漏洞价值 2.92 亿美元",
@@ -222,7 +231,7 @@
     "link": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 08:51:17 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 25
   },
   {
     "title": "比特币 ETF 流入放缓至 $191M，六天连续流入 $2.8B",
@@ -230,15 +239,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 07:41:36 +0000",
-    "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "研究人员提出无需软分叉的 Zcash 式私人比特币转账",
-    "original_title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 25 Sep 2026 04:41:06 +0000",
     "sentiment": "市场",
     "score": 26
   }
