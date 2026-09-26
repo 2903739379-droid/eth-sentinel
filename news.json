@@ -1,12 +1,21 @@
 [
   {
+    "title": "Kraken 的母公司 Payward 投入数十亿美元打造金融基础设施，而不仅仅是加密货币交易所",
+    "original_title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+    "published": "Sat, 26 Sep 2026 14:00:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "分析师表示，币安交易使 Circle 能够在稳定币与 Tether 的竞争中获得推动力",
     "original_title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
     "published": "Sat, 26 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "比特币很快就会获得 Zcash 式的“屏蔽”隐私，而无需改变其规则",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
     "published": "Sat, 26 Sep 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Solana 150 毫秒结算升级到达第二个公共测试网络",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
     "published": "Sat, 26 Sep 2026 05:00:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "美国 SEC 最坚定的加密货币倡导者 Hester Peirce 将于下周离职",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
     "published": "Fri, 25 Sep 2026 22:17:38 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "另一家上诉法院对预测市场提供商 Kalshi 作出裁决，称体育合同须遵守国家法规",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
     "published": "Fri, 25 Sep 2026 21:17:30 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "区块链协会在《加密货币清晰度法案》失败后不久就看到了领导层的转变",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
     "published": "Fri, 25 Sep 2026 20:01:05 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "在大规模 Bitget 加密货币抢劫后，Circle 和 Tether 介入冻结黑客钱包",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
     "published": "Fri, 25 Sep 2026 14:41:53 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "Tether 确认 EQIBank 在美国扣押 8900 万美元资产后面临的风险极小",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
     "published": "Fri, 25 Sep 2026 14:32:48 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "债券波动性激增，而比特币和华尔街保持平静",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
     "published": "Fri, 25 Sep 2026 11:54:28 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "比特币持有者正在兑现，但与之前市场顶部的方式不同",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
     "published": "Fri, 25 Sep 2026 11:29:04 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "随着比特币巩固在 84,000 美元附近，山寨币全面上涨",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
     "published": "Fri, 25 Sep 2026 09:59:45 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "消除 58 亿美元赤字后，比特币 ETF 流量在 2026 年转为正数",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
     "published": "Fri, 25 Sep 2026 09:13:01 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "实时更新：比特币涨至 84,000 美元，油价因中东进展最新报告而下滑",
@@ -114,7 +123,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
     "published": "Fri, 25 Sep 2026 07:09:11 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "Bitget 首席执行官 Gracy Chen 表示，3.52 亿美元的黑客攻击是通过欺骗性转账而非私钥发生的",
@@ -122,15 +131,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
     "published": "Fri, 25 Sep 2026 04:29:34 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "纽约起诉 Polymarket，指控其经营非法赌博业务",
-    "original_title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
-    "published": "Thu, 24 Sep 2026 22:41:44 +0000",
     "sentiment": "市场",
     "score": 14
   },
