@@ -1,12 +1,21 @@
 [
   {
+    "title": "Solana ETF 一周吸纳创纪录的 1.88 亿美元，其中三分之二流入 Bitwise",
+    "original_title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
+    "published": "Mon, 28 Sep 2026 06:21:06 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "特朗普不排除对伊朗发动更多袭击，比特币和纳斯达克期货下跌",
     "original_title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
     "published": "Mon, 28 Sep 2026 03:58:52 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Vitalik Buterin 在 2030 年愿景中描绘了以太坊超越区块链的转变",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
     "published": "Sun, 27 Sep 2026 14:29:13 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Kraken 的母公司 Payward 投入数十亿美元打造金融基础设施，而不仅仅是加密货币交易所",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
     "published": "Sat, 26 Sep 2026 14:00:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "分析师表示，币安交易使 Circle 能够在稳定币与 Tether 的竞争中获得推动力",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
     "published": "Sat, 26 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "比特币很快就会获得 Zcash 式的“屏蔽”隐私，而无需改变其规则",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
     "published": "Sat, 26 Sep 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Solana 150 毫秒结算升级到达第二个公共测试网络",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
     "published": "Sat, 26 Sep 2026 05:00:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "美国 SEC 最坚定的加密货币倡导者 Hester Peirce 将于下周离职",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
     "published": "Fri, 25 Sep 2026 22:17:38 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "另一家上诉法院对预测市场提供商 Kalshi 作出裁决，称体育合同须遵守国家法规",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
     "published": "Fri, 25 Sep 2026 21:17:30 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "区块链协会在加密货币清晰度法案失败后不久就看到了领导层的转变",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
     "published": "Fri, 25 Sep 2026 20:01:05 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "在大规模 Bitget 加密货币抢劫后，Circle 和 Tether 介入冻结黑客钱包",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
     "published": "Fri, 25 Sep 2026 14:41:53 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Tether 确认 EQIBank 在美国扣押 8900 万美元资产后面临的风险极小",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
     "published": "Fri, 25 Sep 2026 14:32:48 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "债券波动性激增，而比特币和华尔街保持平静",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
     "published": "Fri, 25 Sep 2026 11:54:28 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "比特币持有者正在兑现，但与之前市场顶部的方式不同",
@@ -114,25 +123,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
     "published": "Fri, 25 Sep 2026 11:29:04 +0000",
     "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "随着比特币巩固在 84,000 美元附近，山寨币全面上涨",
-    "original_title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
-    "published": "Fri, 25 Sep 2026 09:59:45 +0000",
-    "sentiment": "市场",
     "score": 13
-  },
-  {
-    "title": "消除 58 亿美元赤字后，比特币 ETF 流量在 2026 年转为正值",
-    "original_title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
-    "published": "Fri, 25 Sep 2026 09:13:01 +0000",
-    "sentiment": "市场",
-    "score": 14
   },
   {
     "title": "JPYC 交易价格为 4 倍后，韩国开始权衡加密货币做市商",
@@ -141,7 +132,7 @@
     "link": "https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 28 Sep 2026 05:42:45 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 14
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -150,7 +141,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 28 Sep 2026 04:57:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 15
   },
   {
     "title": "Vitalik Buterin 表示 Hegotá 可能是以太坊最后一个“正常”分叉",
@@ -159,7 +150,7 @@
     "link": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 28 Sep 2026 04:44:15 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 16
   },
   {
     "title": "THORChain 因 Bitget 受到攻击，ETH 超越区块链：Hodler 文摘",
@@ -168,7 +159,7 @@
     "link": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sun, 27 Sep 2026 23:43:18 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 17
   },
   {
     "title": "CFTC 起诉 Cash FX，指控价值 9.5 亿美元的加密货币挂钩外汇计划",
@@ -177,7 +168,7 @@
     "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 26 Sep 2026 06:59:29 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 18
   },
   {
     "title": "Tether 表示，其对与美国扣押 8400 万美元相关的银行的风险敞口“有限”",
@@ -186,7 +177,7 @@
     "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 18:56:53 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 19
   },
   {
     "title": "加密货币商业：华尔街和加密货币争夺同一地盘",
@@ -195,7 +186,7 @@
     "link": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 15:49:34 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 20
   },
   {
     "title": "向国税局报告加密收益的交易所成为税务噩梦",
@@ -204,6 +195,6 @@
     "link": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 21
   }
 ]
