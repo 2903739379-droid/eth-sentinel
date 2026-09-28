@@ -117,22 +117,13 @@
     "score": 12
   },
   {
-    "title": "比特币持有者正在兑现，但与之前市场顶部的方式不同",
-    "original_title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
-    "published": "Fri, 25 Sep 2026 11:29:04 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
     "title": "JPYC 交易价格为 4 倍后，韩国开始权衡加密货币做市商",
     "original_title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 28 Sep 2026 05:42:45 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 13
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -141,7 +132,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 28 Sep 2026 04:57:00 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 14
   },
   {
     "title": "Vitalik Buterin 表示 Hegotá 可能是以太坊最后一个“正常”分叉",
@@ -150,7 +141,7 @@
     "link": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 28 Sep 2026 04:44:15 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 15
   },
   {
     "title": "THORChain 因 Bitget 受到攻击，ETH 超越区块链：Hodler 文摘",
@@ -159,7 +150,7 @@
     "link": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sun, 27 Sep 2026 23:43:18 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 16
   },
   {
     "title": "CFTC 起诉 Cash FX，指控价值 9.5 亿美元的加密货币挂钩外汇计划",
@@ -168,7 +159,7 @@
     "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 26 Sep 2026 06:59:29 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 17
   },
   {
     "title": "Tether 表示，其对与美国扣押 8400 万美元相关的银行的风险敞口“有限”",
@@ -177,7 +168,7 @@
     "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 18:56:53 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 18
   },
   {
     "title": "加密货币商业：华尔街和加密货币争夺同一地盘",
@@ -186,7 +177,7 @@
     "link": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 15:49:34 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 19
   },
   {
     "title": "向国税局报告加密收益的交易所成为税务噩梦",
@@ -195,6 +186,6 @@
     "link": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 25 Sep 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 20
   }
 ]
