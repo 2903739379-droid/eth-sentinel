@@ -1,12 +1,21 @@
 [
   {
+    "title": "参议院民主党在新报告中表示，Tether 是伊朗政权的“生命线”",
+    "original_title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
+    "published": "Mon, 28 Sep 2026 16:16:40 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Chainlink 推出新版本的加密桥技术“CCIP”，让应用程序更好地控制其安全性",
     "original_title": "Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
     "published": "Mon, 28 Sep 2026 12:30:00 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "THORChain 拒绝 Bitget 阻止黑客的请求，600 万美元转移至比特币",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/28/thorchain-rejects-bitget-request-to-block-hacker-as-usd6-million-moves-to-bitcoin",
     "published": "Mon, 28 Sep 2026 12:13:09 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "尽管加密货币情绪降温，交易者尚未恐慌",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment",
     "published": "Mon, 28 Sep 2026 11:32:33 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "加密友好机构富兰克林邓普顿将其代币化抵押品服务引入 Bybit",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
     "published": "Mon, 28 Sep 2026 11:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "比特币跌至 83,000 美元，而山寨币则回吐周五的涨势",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-falls-to-usd83-000-while-altcoins-unwind-friday-s-rally",
     "published": "Mon, 28 Sep 2026 10:15:04 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "实时更新：随着债券收益率飙升至新的周期高点，比特币回落至 83,000 美元",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
     "published": "Mon, 28 Sep 2026 10:02:37 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "加密货币多头喘口气，关注美国关键就业数据：未来加密货币周",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-rally-takes-a-breather-ahead-of-key-u-s-employment-data-crypto-week-ahead",
     "published": "Mon, 28 Sep 2026 09:45:55 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "尽管价格远高于夏季低点，但比特币市场仍需谨慎",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
     "published": "Mon, 28 Sep 2026 09:29:34 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "Solana ETF 一周吸纳创纪录的 1.88 亿美元，其中三分之二流入 Bitwise",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
     "published": "Mon, 28 Sep 2026 06:21:06 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "特朗普不排除对伊朗发动更多袭击，比特币和纳斯达克期货下跌",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
     "published": "Mon, 28 Sep 2026 03:58:52 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Vitalik Buterin 在 2030 年愿景中描绘了以太坊超越区块链的转变",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
     "published": "Sun, 27 Sep 2026 14:29:13 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "Kraken 的母公司 Payward 投入数十亿美元打造金融基础设施，而不仅仅是加密货币交易所",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
     "published": "Sat, 26 Sep 2026 14:00:00 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "分析师表示，币安交易使 Circle 能够在稳定币与 Tether 的竞争中获得推动力",
@@ -114,7 +123,7 @@
     "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
     "published": "Sat, 26 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "比特币很快就会获得 Zcash 式的“屏蔽”隐私，而无需改变其规则",
@@ -122,15 +131,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
     "published": "Sat, 26 Sep 2026 12:00:00 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "Solana 150 毫秒结算升级到达第二个公共测试网络",
-    "original_title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
-    "published": "Sat, 26 Sep 2026 05:00:00 +0000",
     "sentiment": "市场",
     "score": 14
   },
