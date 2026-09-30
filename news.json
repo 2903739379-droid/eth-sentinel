@@ -1,19 +1,19 @@
 [
   {
+    "title": "欧洲投资者现在如何可以在不承担美元风险的情况下购买比特币",
+    "original_title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
+    "published": "Wed, 30 Sep 2026 08:25:43 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "比特币多头需要捍卫一个价格水平",
     "original_title": "Bitcoin bulls have one price level to defend",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
     "published": "Wed, 30 Sep 2026 07:04:41 +0000",
-    "sentiment": "市场",
-    "score": 0
-  },
-  {
-    "title": "Robinhood 宣布为客户推出人工智能代理，可全天候进行交易，并提供 10 倍加密货币福利",
-    "original_title": "Robinhood announces AI agent for customers that trades around the clock, plus 10x crypto perps",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
-    "published": "Wed, 30 Sep 2026 05:59:31 +0000",
     "sentiment": "市场",
     "score": 1
   },
@@ -90,31 +90,13 @@
     "score": 9
   },
   {
-    "title": "高盛将 1000 亿美元的财政部资金投入到加密货币的机构管道中",
-    "original_title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
-    "published": "Mon, 28 Sep 2026 18:00:00 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "重新抵押的淘金热已经结束，顶级协议几乎没有盈利",
-    "original_title": "The restaking gold rush is over, and top protocols are barely making a profit",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
-    "published": "Mon, 28 Sep 2026 16:24:51 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
     "title": "欧洲稳定币发行商 AllUnity 推出美元稳定币 USDAU",
     "original_title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 07:00:00 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 10
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -123,7 +105,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 06:00:00 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 11
   },
   {
     "title": "伊利诺伊州草案加密货币税收规则详细介绍了 DeFi、稳定币待遇",
@@ -132,7 +114,7 @@
     "link": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 04:29:28 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 12
   },
   {
     "title": "超级碗亮相近 8 个月后，Crypto.com 人工智能代理仍处于“隐形模式”",
@@ -141,7 +123,7 @@
     "link": "https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 03:40:42 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 13
   },
   {
     "title": "Binance Pay 让访客可以在日本的 PayPay 商家处使用加密货币",
@@ -150,7 +132,7 @@
     "link": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 02:25:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 14
   },
   {
     "title": "关键人物辞职后 SEC 和 CFTC 的加密货币监管将减少至 3 名委员",
@@ -159,7 +141,7 @@
     "link": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 29 Sep 2026 19:59:43 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 15
   },
   {
     "title": "Bitwise 在代币近期飙升后推出首只美国现货 NEAR ETF",
@@ -168,7 +150,7 @@
     "link": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 29 Sep 2026 17:14:36 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 16
   },
   {
     "title": "由于长期持有者供应使 8.5 万美元遥不可及，比特币回吐涨幅",
@@ -177,16 +159,16 @@
     "link": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 29 Sep 2026 16:26:11 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 17
   },
   {
-    "title": "Peter Brandt 表示，到 2029 年，比特币可能会达到 60 万美元，并称 XRP 是“傻瓜币”",
+    "title": "Peter Brandt 表示，到 2029 年，比特币可能会达到 60 万美元，称 XRP 是“傻瓜币”",
     "original_title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 29 Sep 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 18
   },
   {
     "title": "比特币 ETF 流入导致机构需求不明朗：CoinShares",
@@ -195,7 +177,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 29 Sep 2026 12:40:12 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 19
   },
   {
     "title": "以太坊计划于 10 月 6 日对 Sepolia 进行 Glamsterdam 升级",
@@ -204,7 +186,7 @@
     "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 29 Sep 2026 10:46:05 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 20
   },
   {
     "title": "美国加密 ETF 资金流入在 $3.3B 周后降温，但趋势保持不变",
@@ -213,7 +195,7 @@
     "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 29 Sep 2026 10:15:19 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 21
   },
   {
     "title": "美国30年期债券收益率创24年新高后，比特币反弹至8.4万美元",
@@ -222,6 +204,6 @@
     "link": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 29 Sep 2026 10:04:42 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 22
   }
 ]
