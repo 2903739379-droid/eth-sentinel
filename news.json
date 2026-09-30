@@ -1,12 +1,21 @@
 [
   {
+    "title": "加密多空：人工智能代理将在什么上运行？",
+    "original_title": "Crypto Long & Short: What will the AI agents run on?",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
+    "published": "Wed, 30 Sep 2026 14:56:07 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "时钟滴答作响：英国加密货币监管申请窗口于二月截止日期开启",
     "original_title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
     "published": "Wed, 30 Sep 2026 14:04:19 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "美元走强对比特币的威胁比交易员想象的要弱",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
     "published": "Wed, 30 Sep 2026 11:20:09 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "实时更新：比特币回吐早期涨幅，重返 84,000 美元",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
     "published": "Wed, 30 Sep 2026 10:18:34 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "比特币停滞在 83,000 美元附近，而 Robinhood 的 Perps 计划打火机下跌 17%",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
     "published": "Wed, 30 Sep 2026 10:11:36 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "欧洲投资者现在如何可以在不承担美元风险的情况下购买比特币",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
     "published": "Wed, 30 Sep 2026 08:25:43 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "比特币多头需要捍卫一个价格水平",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
     "published": "Wed, 30 Sep 2026 07:04:41 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "尽管“牛市分数”指标接近完美分数，但比特币涨势仍显示出降温迹象",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score",
     "published": "Wed, 30 Sep 2026 04:38:18 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "zk.money 三年后回归，以太坊用户获得另一种私下支付方式",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
     "published": "Tue, 29 Sep 2026 16:00:00 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -78,7 +87,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 13:18:35 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "随着更广泛的地区收缩，新加坡加密货币活动增长了 55%",
@@ -87,7 +96,7 @@
     "link": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "FCA 在 2027 年英国制度出台之前打开加密货币授权窗口",
@@ -96,7 +105,7 @@
     "link": "https://cointelegraph.com/news/fca-crypto-authorization-2027-uk-regime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 12:06:04 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "值得保护的单一市场：正确进行 MiCA 审查",
@@ -105,16 +114,16 @@
     "link": "https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 11:00:00 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
-    "title": "随着以太基金转红，比特币 ETF 延续 $3.1B 的流入趋势",
+    "title": "随着以太基金转红，比特币 ETF 延续 $3.1B 的流入势头",
     "original_title": "Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-etf-streak-9-day-ether-zcash-flip-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 10:12:28 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "2026 年加密硬件钱包比较",
@@ -123,7 +132,7 @@
     "link": "https://cointelegraph.com/magazine/crypto-hardware-wallets-compared-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 10:11:12 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "欧洲稳定币发行商 AllUnity 推出美元稳定币 USDAU",
@@ -132,7 +141,7 @@
     "link": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 07:00:00 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "伊利诺伊州草案加密货币税收规则详细介绍了 DeFi、稳定币待遇",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 04:29:28 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "超级碗亮相近 8 个月后，Crypto.com 人工智能代理仍处于“隐形模式”",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 03:40:42 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "Binance Pay 让访客可以在日本的 PayPay 商家处使用加密货币",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 30 Sep 2026 02:25:00 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "关键人物辞职后 SEC 和 CFTC 的加密货币监管将减少至 3 名委员",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 29 Sep 2026 19:59:43 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "Bitwise 在代币近期飙升后推出首只美国现货 NEAR ETF",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 29 Sep 2026 17:14:36 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "由于长期持有者供应使 8.5 万美元遥不可及，比特币回吐涨幅",
@@ -186,6 +195,6 @@
     "link": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 29 Sep 2026 16:26:11 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   }
 ]
