@@ -1,12 +1,21 @@
 [
   {
+    "title": "美元走强对比特币的威胁比交易员想象的要弱",
+    "original_title": "A stronger dollar is a weaker threat to bitcoin than traders think",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
+    "published": "Wed, 30 Sep 2026 11:20:09 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "实时更新：渣打银行启动 ENA 覆盖范围，比特币在美国通胀数据之前暂定",
     "original_title": "Live updates: Standard Chartered initiates ENA coverage, BTC tentative ahead of U.S. inflation data",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
     "published": "Wed, 30 Sep 2026 10:18:34 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "比特币停滞在 83,000 美元附近，而 Robinhood 的 Perps 计划打火机下跌 17%",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
     "published": "Wed, 30 Sep 2026 10:11:36 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "欧洲投资者现在如何可以在不承担美元风险的情况下购买比特币",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
     "published": "Wed, 30 Sep 2026 08:25:43 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "比特币多头需要捍卫一个价格水平",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
     "published": "Wed, 30 Sep 2026 07:04:41 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "尽管“牛市分数”指标接近完美分数，但比特币涨势仍显示出降温迹象",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score",
     "published": "Wed, 30 Sep 2026 04:38:18 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "zk.money 三年后回归，以太坊用户获得另一种私下支付方式",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
     "published": "Tue, 29 Sep 2026 16:00:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "比特币表现超越黄金，飙升至 100,000 美元",
@@ -59,15 +68,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
     "published": "Tue, 29 Sep 2026 11:34:55 +0000",
-    "sentiment": "市场",
-    "score": 6
-  },
-  {
-    "title": "随着加密货币摆脱债券市场飙升的影响，Aave 引领 DeFi 走高",
-    "original_title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
-    "published": "Tue, 29 Sep 2026 10:28:51 +0000",
     "sentiment": "市场",
     "score": 7
   },
@@ -81,7 +81,7 @@
     "score": 8
   },
   {
-    "title": "随着以太基金转红，比特币 ETF 延续 $3.1B 的流入势头",
+    "title": "随着以太基金转红，比特币 ETF 延续 $3.1B 的流入趋势",
     "original_title": "Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-etf-streak-9-day-ether-zcash-flip-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
