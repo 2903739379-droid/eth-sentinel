@@ -1,7 +1,7 @@
 [
   {
-    "title": "实时更新：比特币上涨，在美国关键就业数据公布前重拾 86,000 美元",
-    "original_title": "Live updates: Bitcoin rises, re-taking $86,000 ahead of key U.S. jobs data",
+    "title": "实时更新：美国就业机会严重缺失后，比特币交易价格接近 87,000 美元",
+    "original_title": "Live updates: Bitcoin trading near $87,000 after big miss on U.S. jobs",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
     "published": "Fri, 02 Oct 2026 11:22:40 +0000",
@@ -27,8 +27,8 @@
     "score": 2
   },
   {
-    "title": "Tether 的 USDT 在首次亮相十多年后于本月“回归”比特币",
-    "original_title": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
+    "title": "十多年后，Tether 的 USDT 即将回归比特币",
+    "original_title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
     "published": "Fri, 02 Oct 2026 08:28:19 +0000",
@@ -144,22 +144,13 @@
     "score": 15
   },
   {
-    "title": "加密行业向未完成交易的《澄清法案》游说者提供了 800 万美元",
-    "original_title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
-    "published": "Wed, 30 Sep 2026 17:16:31 +0000",
-    "sentiment": "市场",
-    "score": 16
-  },
-  {
     "title": "随着市场触及 $3.7B，BNB Chain 代币化股票和 ETF 价格突破 $1B",
     "original_title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 11:40:21 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 16
   },
   {
     "title": "阿莫斯表示，比特币国债可能很难跟上策略",
@@ -168,7 +159,7 @@
     "link": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 10:54:33 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 17
   },
   {
     "title": "空头清算额突破 1.2 亿美元，比特币价格达到 8.7 万美元",
@@ -177,7 +168,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 09:37:06 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 18
   },
   {
     "title": "比特币 ETF 启动“Uptober”，资金流入达 1.03 亿美元",
@@ -186,7 +177,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 08:20:08 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 19
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -195,7 +186,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 06:00:00 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 20
   },
   {
     "title": "由于交易低迷，韩国加密货币交易所上半年利润下降 78%",
@@ -204,7 +195,7 @@
     "link": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 05:53:27 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 21
   },
   {
     "title": "以太坊的 zkAPI 将保护隐私的 API 支付引入主网",
@@ -213,7 +204,7 @@
     "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 03:34:25 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 22
   },
   {
     "title": "SEC 采取行动清除提供加密货币的顾问的托管障碍",
@@ -222,7 +213,7 @@
     "link": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 01:07:08 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 23
   },
   {
     "title": "中国警告外国间谍有关加密货币，新加坡主导亚洲：亚洲快报",
@@ -231,7 +222,7 @@
     "link": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 01 Oct 2026 23:17:47 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 24
   },
   {
     "title": "5万名欧洲人呼吁欧盟在MiCA审查中放宽稳定币奖励限制",
@@ -240,7 +231,7 @@
     "link": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 01 Oct 2026 18:45:09 +0000",
     "sentiment": "市场",
-    "score": 26
+    "score": 25
   },
   {
     "title": "伊利诺伊州将在诉讼后推迟实施加密税",
@@ -249,6 +240,6 @@
     "link": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 01 Oct 2026 18:01:49 +0000",
     "sentiment": "市场",
-    "score": 27
+    "score": 26
   }
 ]
