@@ -1,12 +1,21 @@
 [
   {
+    "title": "实时更新：市场等待美国就业报告，比特币、黄金和科技期货小幅走高",
+    "original_title": "Live updates: Bitcoin, gold and tech futures edge higher as markets await U.S. jobs report",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
+    "published": "Fri, 02 Oct 2026 11:22:40 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "随着比特币主导地位接近恢复 60%，加密货币交易者处于冒险模式",
     "original_title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
     "published": "Fri, 02 Oct 2026 10:31:16 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "由于交易者为看涨头寸支付更多费用，比特币未平仓合约猛增 23 亿美元",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
     "published": "Fri, 02 Oct 2026 09:14:21 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Tether 的 USDT 在比特币首次亮相十多年后于本月“回归”比特币",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
     "published": "Fri, 02 Oct 2026 08:28:19 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "美国就业报告发布前比特币突破 86,000 美元",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
     "published": "Fri, 02 Oct 2026 08:11:54 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "SEC 为投资顾问和基金提出新的加密货币托管规则",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
     "published": "Thu, 01 Oct 2026 20:20:04 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "顾问的加密货币：《清晰法案》失败了，但规则还是出台了",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
     "published": "Thu, 01 Oct 2026 15:00:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "随着加密货币遭受黑客攻击的艰难一年继续，NEAR Intent 遭受了 380 万美元的攻击",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
     "published": "Thu, 01 Oct 2026 14:18:14 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "实时更新：随着周五就业报告发布前利率下降，比特币暂时上涨",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
     "published": "Thu, 01 Oct 2026 11:59:17 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "随着行业继续法庭斗争，伊利诺伊州同意推迟六个月征收加密税",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
     "published": "Thu, 01 Oct 2026 11:58:00 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "加密货币在黑客攻击中损失了 12.6 亿美元，而比特币多头却享受了一个巨大的季度",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
     "published": "Thu, 01 Oct 2026 11:30:38 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "比特币以 82,000 美元至 85,000 美元的旧价格区间开启新季度",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
     "published": "Thu, 01 Oct 2026 10:38:04 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "随着 ETF 资金流入恢复，花旗集团将 12 个月比特币目标提高至 113,000 美元",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
     "published": "Thu, 01 Oct 2026 09:59:30 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "MetaMask 安全事件迫使以太坊质押退出，资金无风险",
@@ -114,7 +123,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
     "published": "Thu, 01 Oct 2026 07:06:30 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "DogeOS 打赌矿工最终将保护其应用程序，Dogecoin 获得 DeFi 测试网",
@@ -123,7 +132,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
     "published": "Thu, 01 Oct 2026 04:58:52 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "随着债券收益率拒绝下跌，比特币软通胀升至 85,500 美元的势头逐渐消退",
@@ -132,7 +141,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
     "published": "Thu, 01 Oct 2026 04:15:20 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "加密行业向未完成交易的《澄清法案》游说者提供了 800 万美元",
@@ -141,7 +150,7 @@
     "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
     "published": "Wed, 30 Sep 2026 17:16:31 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "Open USD 与 Tether、Circle 展开较量，采用不同的稳定币模式“赚钱”",
@@ -150,22 +159,13 @@
     "link": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
     "published": "Wed, 30 Sep 2026 15:34:50 +0000",
     "sentiment": "市场",
-    "score": 16
-  },
-  {
-    "title": "美国商品期货交易委员会寻求可能违背各州赌博主张的活动合同定义",
-    "original_title": "U.S. CFTC  seeks event contract definitions that may defy states' gambling claims",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
-    "published": "Wed, 30 Sep 2026 15:19:36 +0000",
-    "sentiment": "市场",
     "score": 17
   },
   {
     "title": "阿莫斯表示，比特币国债可能很难跟上策略",
     "original_title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
     "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/interview/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "link": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 10:54:33 +0000",
     "sentiment": "市场",
     "score": 18
