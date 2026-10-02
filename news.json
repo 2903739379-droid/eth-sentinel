@@ -1,12 +1,30 @@
 [
   {
+    "title": "曾经价值 20 亿美元的以太坊第二层 Blast 在资产暴跌 98% 后即将关闭",
+    "original_title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
+    "published": "Fri, 02 Oct 2026 17:15:35 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "可能的下一任加密货币沙皇杰伊·克莱顿 (Jay Clayton) 在 SEC 开始对加密货币进行强制监管",
+    "original_title": "Possible next crypto czar, Jay Clayton, began crypto's regulation-by-enforcement at SEC",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
+    "published": "Fri, 02 Oct 2026 17:12:48 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
     "title": "实时更新：美国就业数据疲软后，比特币扭转了早期的巨大涨幅",
     "original_title": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
     "published": "Fri, 02 Oct 2026 11:22:40 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 2
   },
   {
     "title": "随着比特币主导地位接近恢复 60%，加密货币交易者处于冒险模式",
@@ -15,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
     "published": "Fri, 02 Oct 2026 10:31:16 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 3
   },
   {
     "title": "由于交易者为看涨头寸支付更多费用，比特币未平仓合约猛增 23 亿美元",
@@ -24,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
     "published": "Fri, 02 Oct 2026 09:14:21 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 4
   },
   {
     "title": "十多年后，Tether 的 USDT 即将回归比特币",
@@ -33,7 +51,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
     "published": "Fri, 02 Oct 2026 08:28:19 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 5
   },
   {
     "title": "美国就业报告发布前比特币突破 86,000 美元",
@@ -42,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
     "published": "Fri, 02 Oct 2026 08:11:54 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 6
   },
   {
     "title": "SEC 为投资顾问和基金提出新的加密货币托管规则",
@@ -51,7 +69,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
     "published": "Thu, 01 Oct 2026 20:20:04 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 7
   },
   {
     "title": "顾问的加密货币：《清晰法案》失败了，但规则还是出台了",
@@ -60,7 +78,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
     "published": "Thu, 01 Oct 2026 15:00:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 8
   },
   {
     "title": "随着加密货币遭受黑客攻击的艰难一年继续，NEAR Intent 遭受了 380 万美元的攻击",
@@ -69,7 +87,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
     "published": "Thu, 01 Oct 2026 14:18:14 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 9
   },
   {
     "title": "实时更新：随着周五就业报告发布前利率下降，比特币暂时上涨",
@@ -78,7 +96,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
     "published": "Thu, 01 Oct 2026 11:59:17 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 10
   },
   {
     "title": "随着行业继续法庭斗争，伊利诺伊州同意推迟六个月征收加密税",
@@ -87,7 +105,7 @@
     "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
     "published": "Thu, 01 Oct 2026 11:58:00 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 11
   },
   {
     "title": "加密货币在黑客攻击中损失了 12.6 亿美元，而比特币多头却享受了一个巨大的季度",
@@ -96,7 +114,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
     "published": "Thu, 01 Oct 2026 11:30:38 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 12
   },
   {
     "title": "比特币以 82,000 美元至 85,000 美元的旧价格区间开启新季度",
@@ -105,7 +123,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
     "published": "Thu, 01 Oct 2026 10:38:04 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 13
   },
   {
     "title": "随着 ETF 资金流入恢复，花旗集团将 12 个月比特币目标提高至 113,000 美元",
@@ -113,24 +131,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
     "published": "Thu, 01 Oct 2026 09:59:30 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "MetaMask 安全事件迫使以太坊质押退出，资金无风险",
-    "original_title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
-    "published": "Thu, 01 Oct 2026 07:06:30 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "DogeOS 打赌矿工最终将保护其应用程序，Dogecoin 获得 DeFi 测试网",
-    "original_title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
-    "published": "Thu, 01 Oct 2026 04:58:52 +0000",
     "sentiment": "市场",
     "score": 14
   },
