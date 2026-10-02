@@ -1,6 +1,6 @@
 [
   {
-    "title": "曾经价值 20 亿美元的以太坊第二层 Blast 在资产暴跌 98% 后即将关闭",
+    "title": "曾经价值 20 亿美元的以太坊 Layer-2 Blast 在资产暴跌 98% 后即将关闭",
     "original_title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
@@ -126,13 +126,22 @@
     "score": 13
   },
   {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 02 Oct 2026 20:46:58 +0000",
+    "sentiment": "市场",
+    "score": 14
+  },
+  {
     "title": "Bitpanda 联合首席执行官：欧洲加密货币用户对 MiCA 监管下的公司“更有信心”",
     "original_title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 20:40:47 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "价值 4.2B 美元的加密货币银行 Anchorage Digital 裁员 17%：报告",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 18:41:17 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "成本超过收入后，爆炸将逐步关闭以太坊 L2",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 18:24:05 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "加密货币价值数十亿美元回来了，但保费却没有",
@@ -159,16 +168,16 @@
     "link": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 15:32:53 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
-    "title": "由于美国就业数据疲软导致债券收益率走低，比特币短暂触及 8.7 万美元",
+    "title": "由于美国就业数据疲弱导致债券收益率走低，比特币一度触及 8.7 万美元",
     "original_title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 15:27:31 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "“欧元稳定币还不够”：欧盟发行人为美元代币辩护",
@@ -176,15 +185,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 14:12:48 +0000",
-    "sentiment": "市场",
-    "score": 19
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 02 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
     "score": 20
   },
