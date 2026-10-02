@@ -135,13 +135,31 @@
     "score": 14
   },
   {
+    "title": "加密货币价值数十亿美元回来了，但保费却没有",
+    "original_title": "Crypto’s billions are back, but the premiums aren’t",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 02 Oct 2026 15:32:53 +0000",
+    "sentiment": "市场",
+    "score": 15
+  },
+  {
+    "title": "由于美国就业数据疲弱导致债券收益率走低，比特币一度触及 8.7 万美元",
+    "original_title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 02 Oct 2026 15:27:31 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
     "title": "“欧元稳定币还不够”：欧盟发行人为美元代币辩护",
     "original_title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 14:12:48 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 17
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -150,7 +168,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 18
   },
   {
     "title": "Circle敦促欧盟在MiCA审查中修改稳定币储备规则",
@@ -159,7 +177,7 @@
     "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 12:25:56 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 19
   },
   {
     "title": "随着市场触及 $3.7B，BNB Chain 代币化股票和 ETF 价格突破 $1B",
@@ -168,7 +186,7 @@
     "link": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 11:40:21 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 20
   },
   {
     "title": "阿莫斯表示，比特币国债可能很难跟上策略",
@@ -177,7 +195,7 @@
     "link": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 10:54:33 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 21
   },
   {
     "title": "空头清算额突破 1.2 亿美元，比特币价格达到 8.7 万美元",
@@ -186,7 +204,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 09:37:06 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 22
   },
   {
     "title": "比特币 ETF 启动“Uptober”，资金流入达 1.03 亿美元",
@@ -195,7 +213,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 08:20:08 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 23
   },
   {
     "title": "由于交易低迷，韩国加密货币交易所上半年利润下降 78%",
@@ -204,7 +222,7 @@
     "link": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 05:53:27 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 24
   },
   {
     "title": "以太坊的 zkAPI 将保护隐私的 API 支付引入主网",
@@ -213,7 +231,7 @@
     "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 03:34:25 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 25
   },
   {
     "title": "SEC 采取行动清除提供加密货币的顾问的托管障碍",
@@ -222,15 +240,6 @@
     "link": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 01:07:08 +0000",
     "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "中国警告外国间谍有关加密货币，新加坡主导亚洲：亚洲快报",
-    "original_title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 01 Oct 2026 23:17:47 +0000",
-    "sentiment": "市场",
-    "score": 25
+    "score": 26
   }
 ]
