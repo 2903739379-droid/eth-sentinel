@@ -1,12 +1,21 @@
 [
   {
+    "title": "加密货币的西西弗斯式斗争",
+    "original_title": "Crypto's Sisyphean struggle",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
+    "published": "Sat, 03 Oct 2026 13:00:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "银行集团起诉美国监管机构授予加密信托许可证",
     "original_title": "Bank group sues U.S. regulator over granting crypto trust charters",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
     "published": "Fri, 02 Oct 2026 21:23:20 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "曾经价值 20 亿美元的以太坊 Layer-2 Blast 在资产暴跌 98% 后即将关闭",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
     "published": "Fri, 02 Oct 2026 17:15:35 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "特朗普潜在的人工智能沙皇杰伊·克莱顿 (Jay Clayton) 帮助美国证券交易委员会 (SEC) 打击加密货币",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
     "published": "Fri, 02 Oct 2026 17:12:48 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "实时更新：美国就业数据疲软后，比特币扭转了早期的巨大涨幅",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
     "published": "Fri, 02 Oct 2026 11:22:40 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "随着比特币主导地位接近恢复 60%，加密货币交易者处于冒险模式",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
     "published": "Fri, 02 Oct 2026 10:31:16 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "由于交易者为看涨头寸支付更多费用，比特币未平仓合约猛增 23 亿美元",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
     "published": "Fri, 02 Oct 2026 09:14:21 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "十多年后，Tether 的 USDT 即将回归比特币",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
     "published": "Fri, 02 Oct 2026 08:28:19 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "美国就业报告发布前比特币突破 86,000 美元",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
     "published": "Fri, 02 Oct 2026 08:11:54 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "SEC 为投资顾问和基金提出新的加密货币托管规则",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
     "published": "Thu, 01 Oct 2026 20:20:04 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "顾问的加密货币：《清晰法案》失败了，但规则还是出台了",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
     "published": "Thu, 01 Oct 2026 15:00:00 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "随着加密货币遭受黑客攻击的艰难一年继续，NEAR Intent 遭受了 380 万美元的攻击",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
     "published": "Thu, 01 Oct 2026 14:18:14 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "实时更新：随着周五就业报告发布前利率下降，比特币暂时上涨",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
     "published": "Thu, 01 Oct 2026 11:59:17 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "随着行业继续法庭斗争，伊利诺伊州同意推迟六个月征收加密税",
@@ -114,16 +123,16 @@
     "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
     "published": "Thu, 01 Oct 2026 11:58:00 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
-    "title": "加密货币在黑客攻击中损失了 12.6 亿美元，而比特币多头却享受了一个巨大的季度",
-    "original_title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
-    "published": "Thu, 01 Oct 2026 11:30:38 +0000",
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 03 Oct 2026 12:20:00 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "社区银行就加密货币公司的信托银行章程起诉 OCC",
@@ -131,15 +140,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 03 Oct 2026 09:25:01 +0000",
-    "sentiment": "市场",
-    "score": 14
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 02 Oct 2026 20:46:58 +0000",
     "sentiment": "市场",
     "score": 15
   },
@@ -241,14 +241,5 @@
     "published": "Fri, 02 Oct 2026 08:20:08 +0000",
     "sentiment": "市场",
     "score": 26
-  },
-  {
-    "title": "由于交易低迷，韩国加密货币交易所上半年利润下降 78%",
-    "original_title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 02 Oct 2026 05:53:27 +0000",
-    "sentiment": "市场",
-    "score": 27
   }
 ]
