@@ -1,12 +1,30 @@
 [
   {
+    "title": "加密货币在新产品上投入了多年的时间。下一个挑战是留住用户",
+    "original_title": "Crypto poured years into new products. The next challenge is keeping users",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+    "published": "Sun, 04 Oct 2026 14:00:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "《澄清法案》陷入停滞。银行家尚未对加密货币交易踩刹车",
+    "original_title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+    "published": "Sun, 04 Oct 2026 13:00:00 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
     "title": "9 月份加密货币职位发布数量增加两倍，达到 1,200 多个，但申请数量下降",
     "original_title": "Crypto job postings triple to over 1,200 in September, but applications fall",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
     "published": "Sat, 03 Oct 2026 16:00:00 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 2
   },
   {
     "title": "加密货币的西西弗斯式斗争",
@@ -15,7 +33,7 @@
     "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
     "published": "Sat, 03 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 3
   },
   {
     "title": "银行集团起诉美国监管机构授予加密信托许可证",
@@ -24,16 +42,16 @@
     "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
     "published": "Fri, 02 Oct 2026 21:23:20 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 4
   },
   {
-    "title": "曾经价值 20 亿美元的以太坊第二层 Blast 在资产暴跌 98% 后即将关闭",
+    "title": "曾经价值 20 亿美元的以太坊 Layer-2 Blast 在资产暴跌 98% 后即将关闭",
     "original_title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
     "published": "Fri, 02 Oct 2026 17:15:35 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 5
   },
   {
     "title": "特朗普潜在的人工智能沙皇杰伊·克莱顿 (Jay Clayton) 帮助美国证券交易委员会 (SEC) 打击加密货币",
@@ -42,7 +60,7 @@
     "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
     "published": "Fri, 02 Oct 2026 17:12:48 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 6
   },
   {
     "title": "实时更新：美国就业数据疲软后，比特币扭转了早期的巨大涨幅",
@@ -51,7 +69,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
     "published": "Fri, 02 Oct 2026 11:22:40 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 7
   },
   {
     "title": "随着比特币主导地位接近恢复 60%，加密货币交易者处于冒险模式",
@@ -60,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
     "published": "Fri, 02 Oct 2026 10:31:16 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 8
   },
   {
     "title": "由于交易者为看涨头寸支付更多费用，比特币未平仓合约猛增 23 亿美元",
@@ -69,16 +87,16 @@
     "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
     "published": "Fri, 02 Oct 2026 09:14:21 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 9
   },
   {
-    "title": "十多年后，Tether 的 USDT 即将回归比特币",
+    "title": "十多年后，Tether 的 USDT 正在“回归”比特币",
     "original_title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
     "published": "Fri, 02 Oct 2026 08:28:19 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 10
   },
   {
     "title": "美国就业报告发布前比特币突破 86,000 美元",
@@ -87,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
     "published": "Fri, 02 Oct 2026 08:11:54 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 11
   },
   {
     "title": "SEC 为投资顾问和基金提出新的加密货币托管规则",
@@ -96,25 +114,16 @@
     "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
     "published": "Thu, 01 Oct 2026 20:20:04 +0000",
     "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "顾问的加密货币：《清晰法案》失败了，但规则还是出台了",
-    "original_title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-    "published": "Thu, 01 Oct 2026 15:00:00 +0000",
-    "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "比特币豁免后，萨尔瓦多从国际货币基金组织获得 1.38 亿美元",
     "original_title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sun, 04 Oct 2026 09:39:51 +0000",
+    "published": "Sun, 04 Oct 2026 09:40:00 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -123,16 +132,16 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 03 Oct 2026 12:20:00 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "社区银行就加密货币公司的信托银行章程起诉 OCC",
     "original_title": "Community banks sue OCC over trust bank charters of crypto firms",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sat, 03 Oct 2026 09:25:01 +0000",
+    "published": "Sat, 03 Oct 2026 09:28:00 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "Bitpanda 联合首席执行官：欧洲加密货币用户对 MiCA 监管下的公司“更有信心”",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 20:40:47 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "价值 4.2B 美元的加密货币银行 Anchorage Digital 裁员 17%：报告",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 18:41:17 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "成本超过收入后，爆炸将逐步关闭以太坊 L2",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 18:24:05 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "加密货币价值数十亿美元回来了，但保费却没有",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 15:32:53 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "由于美国就业数据疲软导致债券收益率走低，比特币短暂触及 8.7 万美元",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 15:27:31 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "“欧元稳定币还不够”：欧盟发行人为美元代币辩护",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 14:12:48 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "Circle敦促欧盟在MiCA审查中修改稳定币储备规则",
@@ -195,7 +204,7 @@
     "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 12:25:56 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "随着市场触及 $3.7B，BNB Chain 代币化股票和 ETF 价格突破 $1B",
@@ -204,7 +213,7 @@
     "link": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 11:40:21 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
     "title": "阿莫斯表示，比特币国债可能很难跟上策略",
@@ -212,15 +221,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 02 Oct 2026 10:54:33 +0000",
-    "sentiment": "市场",
-    "score": 23
-  },
-  {
-    "title": "空头清算额突破 1.2 亿美元，比特币价格达到 8.7 万美元",
-    "original_title": "Bitcoin reaches for $87K as short liquidations top $120M",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 02 Oct 2026 09:37:06 +0000",
     "sentiment": "市场",
     "score": 24
   }
