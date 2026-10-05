@@ -1,12 +1,21 @@
 [
   {
+    "title": "以太坊第三季度的涨幅超过了比特币，但也有一个问题。流动性变薄。",
+    "original_title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
+    "published": "Mon, 05 Oct 2026 03:50:29 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "下个月有一场选举：加密货币现状",
     "original_title": "There's an election next month: State of Crypto",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
     "published": "Sun, 04 Oct 2026 18:30:00 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "加密货币在新产品上投入了多年的时间。下一个挑战是留住用户",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
     "published": "Sun, 04 Oct 2026 14:00:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "《澄清法案》陷入停滞。银行家尚未对加密货币交易踩刹车",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
     "published": "Sun, 04 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "9 月份加密货币职位发布数量增加两倍，达到 1,200 多个，但申请数量下降",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
     "published": "Sat, 03 Oct 2026 16:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "加密货币的西西弗斯式斗争",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
     "published": "Sat, 03 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "银行集团起诉美国监管机构授予加密信托许可证",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
     "published": "Fri, 02 Oct 2026 21:23:20 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "曾经价值 20 亿美元的以太坊第二层 Blast 在资产暴跌 98% 后即将关闭",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
     "published": "Fri, 02 Oct 2026 17:15:35 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "特朗普潜在的人工智能沙皇杰伊·克莱顿 (Jay Clayton) 帮助美国证券交易委员会 (SEC) 打击加密货币",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
     "published": "Fri, 02 Oct 2026 17:12:48 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "实时更新：美国就业数据疲软后，比特币扭转了早期的巨大涨幅",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
     "published": "Fri, 02 Oct 2026 11:22:40 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "随着比特币主导地位接近恢复 60%，加密货币交易者处于冒险模式",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
     "published": "Fri, 02 Oct 2026 10:31:16 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "由于交易者为看涨头寸支付更多费用，比特币未平仓合约猛增 23 亿美元",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
     "published": "Fri, 02 Oct 2026 09:14:21 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "十多年后，Tether 的 USDT 即将回归比特币",
@@ -104,15 +113,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
     "published": "Fri, 02 Oct 2026 08:28:19 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "美国就业报告发布前比特币突破 86,000 美元",
-    "original_title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-    "published": "Fri, 02 Oct 2026 08:11:54 +0000",
     "sentiment": "市场",
     "score": 12
   },
@@ -214,14 +214,5 @@
     "published": "Fri, 02 Oct 2026 14:12:48 +0000",
     "sentiment": "市场",
     "score": 23
-  },
-  {
-    "title": "Circle敦促欧盟在MiCA审查中修改稳定币储备规则",
-    "original_title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 02 Oct 2026 12:25:56 +0000",
-    "sentiment": "市场",
-    "score": 24
   }
 ]
