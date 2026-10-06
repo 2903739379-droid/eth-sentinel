@@ -1,254 +1,290 @@
 [
   {
-    "title": "Crypto 的竞选团队 Fairshake 列出了美国众议院最喜欢的项目清单",
+    "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+    "original_title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
+    "published": "Tue, 06 Oct 2026 04:55:36 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
+    "original_title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+    "published": "Tue, 06 Oct 2026 04:49:05 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+    "original_title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
+    "published": "Tue, 06 Oct 2026 04:41:10 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
+    "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+    "original_title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+    "published": "Tue, 06 Oct 2026 04:23:45 +0000",
+    "sentiment": "市场",
+    "score": 3
+  },
+  {
+    "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
     "original_title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
     "published": "Mon, 05 Oct 2026 19:21:06 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 4
   },
   {
-    "title": "美国商品期货交易委员会 (CFTC) 与美国证券交易委员会 (SEC) 一起提议加密货币监管，但现货市场差距依然存在",
+    "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
     "original_title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
     "published": "Mon, 05 Oct 2026 15:54:23 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 5
   },
   {
-    "title": "Stripe 年底前将稳定币卡扩展到 100 多个国家",
+    "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
     "original_title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
     "published": "Mon, 05 Oct 2026 13:46:31 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 6
   },
   {
-    "title": "美国证券交易委员会批准对错过剧烈波动的比特币和以太币交易者进行三倍修复",
+    "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
     "original_title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
     "published": "Mon, 05 Oct 2026 11:14:35 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 7
   },
   {
-    "title": "财政部的打击行动暴露了加密货币在哈马斯 200 万美元筹款网络中的作用",
+    "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
     "original_title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
     "published": "Mon, 05 Oct 2026 11:08:03 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 8
   },
   {
-    "title": "Metaplanet 第三季度净增持 1,000 个比特币，持有量达到 44,000 个 BTC",
+    "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
     "original_title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
     "published": "Mon, 05 Oct 2026 10:58:03 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 9
   },
   {
-    "title": "随着美元攀升至 18 个月高点，比特币的弹性受到考验",
+    "title": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
     "original_title": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
     "published": "Mon, 05 Oct 2026 10:44:55 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 10
   },
   {
-    "title": "实时更新：随着利率持续上升，比特币面临压力",
+    "title": "Live updates: Bitcoin under pressure as rates continue to rise",
     "original_title": "Live updates: Bitcoin under pressure as rates continue to rise",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
     "published": "Mon, 05 Oct 2026 10:39:57 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 11
   },
   {
-    "title": "卡尔达诺的 ADA 在窄幅区间市场中领涨",
+    "title": "Cardano's ADA leads gains in narrow range-bound market",
     "original_title": "Cardano's ADA leads gains in narrow range-bound market",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
     "published": "Mon, 05 Oct 2026 10:37:30 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 12
   },
   {
-    "title": "技术面信号表明比特币发生转变，以太坊为 Glamsterdam 做好准备：加密货币周即将到来",
+    "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
     "original_title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
     "published": "Mon, 05 Oct 2026 09:37:13 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 13
   },
   {
-    "title": "Kraken 运营商 Payward 与新加坡海湾银行合作开展 24/7 机构加密货币结算",
+    "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
     "original_title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
     "published": "Mon, 05 Oct 2026 09:26:24 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 14
   },
   {
-    "title": "比特币即将收到一年多来未曾出现过的重大看涨信号",
+    "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
     "original_title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
     "published": "Mon, 05 Oct 2026 06:57:40 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 15
   },
   {
-    "title": "以太坊投资者陷入了为期两周的质押退出线。原因如下。",
+    "title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
     "original_title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
     "published": "Mon, 05 Oct 2026 06:40:29 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 16
   },
   {
-    "title": "比特币飙升至 87,000 美元，几乎创下八个月高点，然后反转",
-    "original_title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
-    "published": "Mon, 05 Oct 2026 04:23:25 +0000",
+    "title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
+    "original_title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 06 Oct 2026 07:09:33 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 17
   },
   {
-    "title": "以太坊第三季度的涨幅超过了比特币，但也有一个问题。流动性变薄。",
-    "original_title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
-    "published": "Mon, 05 Oct 2026 03:50:29 +0000",
+    "title": "Here’s what happened in crypto today",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 06 Oct 2026 06:00:00 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 18
   },
   {
-    "title": "下个月有一场选举：加密货币现状",
-    "original_title": "There's an election next month: State of Crypto",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
-    "published": "Sun, 04 Oct 2026 18:30:00 +0000",
+    "title": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
+    "original_title": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 06 Oct 2026 05:43:50 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 19
   },
   {
-    "title": "Crypto PAC 宣布在美国中期选举中支持 32 名众议院候选人",
+    "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
+    "original_title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 06 Oct 2026 03:45:40 +0000",
+    "sentiment": "市场",
+    "score": 20
+  },
+  {
+    "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+    "original_title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 06 Oct 2026 03:40:00 +0000",
+    "sentiment": "市场",
+    "score": 21
+  },
+  {
+    "title": "Crypto PAC announces support for 32 House candidates in US midterms",
     "original_title": "Crypto PAC announces support for 32 House candidates in US midterms",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 05 Oct 2026 21:42:30 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 22
   },
   {
-    "title": "FinCEN 因“合法活动”担忧而撤回拟议的加密货币混合规则",
+    "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
     "original_title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 05 Oct 2026 20:46:53 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 23
   },
   {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 05 Oct 2026 19:25:00 +0000",
-    "sentiment": "市场",
-    "score": 18
-  },
-  {
-    "title": "标准普尔全球为不断增长的加密借贷金库行业提供风险评估",
+    "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
     "original_title": "S&P Global brings risk assessments to growing crypto lending vault sector",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 05 Oct 2026 17:58:58 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 24
   },
   {
-    "title": "在 CLARITY 投票失败后，CFTC 与 SEC 一起提议加密货币框架",
+    "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
     "original_title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 05 Oct 2026 17:40:23 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 25
   },
   {
-    "title": "5% 的国债收益率可能会延续比特币自 2017 年以来最好的季度表现",
+    "title": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017",
     "original_title": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 05 Oct 2026 16:53:08 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 26
   },
   {
-    "title": "比特币价格在八个月来最佳周收盘价后未能突破更高",
+    "title": "Bitcoin price fails to break higher after best weekly close in eight months",
     "original_title": "Bitcoin price fails to break higher after best weekly close in eight months",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 05 Oct 2026 15:09:57 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 27
   },
   {
-    "title": "Metaplanet 揭示了推动比特币积累的净收入策略",
+    "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
     "original_title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 05 Oct 2026 13:47:17 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 28
   },
   {
-    "title": "尽管加密货币受到限制，中国 P2P 稳定币钱包增长了 43 倍：Chainaanalysis",
+    "title": "China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis",
     "original_title": "China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 05 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 29
   },
   {
-    "title": "维韦克·拉马斯瓦米 (Vivek Ramaswamy) 的州长竞选缺乏总统竞选中的加密言论",
+    "title": "Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid",
     "original_title": "Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 05 Oct 2026 10:11:26 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 30
   },
   {
-    "title": "BTC 价格战夺回 2026 年开放：本周比特币需要了解的三件事",
+    "title": "BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week",
     "original_title": "BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 05 Oct 2026 09:08:09 +0000",
     "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "比特币 ETF 流入第三周，以太坊 ETF 损失 1.38 亿美元",
-    "original_title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 05 Oct 2026 08:00:49 +0000",
-    "sentiment": "市场",
-    "score": 27
+    "score": 31
   }
 ]
