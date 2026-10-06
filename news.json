@@ -1,12 +1,39 @@
 [
   {
+    "title": "Peter Thiel 支持的 Founders Fund 牵头购买加密抵押协议 Anvil 的 500 万美元代币",
+    "original_title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
+    "published": "Tue, 06 Oct 2026 17:00:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "加密货币正在扩大定价范围",
+    "original_title": "Crypto is expanding the boundaries of what can be priced",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
+    "published": "Tue, 06 Oct 2026 16:50:26 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "OKX 吸引了渣打银行、Circle、Ripple 的投资，超越了加密货币交易所的范畴",
+    "original_title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
+    "published": "Tue, 06 Oct 2026 15:20:30 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
     "title": "Arbitrum 加入 Paxos 领导的稳定币集团 Global Dollar 捕捉数字美元增长",
     "original_title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
     "published": "Tue, 06 Oct 2026 13:02:33 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 3
   },
   {
     "title": "债券的波动率指数正在上升，但比特币和股票还没有听到它的声音",
@@ -15,16 +42,16 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
     "published": "Tue, 06 Oct 2026 11:30:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 4
   },
   {
-    "title": "实时更新：随着油价和债券收益率回落，比特币升至 86,000 美元以上",
-    "original_title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
+    "title": "实时更新：随着股市再创新高，比特币仍锁定在区间内",
+    "original_title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
     "published": "Tue, 06 Oct 2026 10:35:49 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 5
   },
   {
     "title": "较小的山寨币大放异彩，比特币交易价格仍维持在 85,000 美元左右",
@@ -33,25 +60,25 @@
     "link": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
     "published": "Tue, 06 Oct 2026 10:30:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 6
   },
   {
-    "title": "OKX Money 让用户可以在一款应用程序中储蓄、赚取 10% 的收益并使用美元稳定币",
-    "original_title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+    "title": "OKX 寻求抽象区块链机制，为日常消费者带来稳定币余额",
+    "original_title": "OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
     "published": "Tue, 06 Oct 2026 09:02:01 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 7
   },
   {
-    "title": "为什么比特币在创下 126,000 美元的历史新高后一年仅下跌 32%",
+    "title": "为什么比特币在创下 126,000 美元的历史新高后一年内“仅”下跌了 32%",
     "original_title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
     "published": "Tue, 06 Oct 2026 08:27:43 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 8
   },
   {
     "title": "美国废除针对发送至私人钱包的加密货币提出的 10,000 美元报告规则",
@@ -60,7 +87,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
     "published": "Tue, 06 Oct 2026 04:55:36 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 9
   },
   {
     "title": "以太坊的 Glamsterdam 测试在大规模容量跳跃之前得到了最后一刻的修复",
@@ -69,7 +96,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
     "published": "Tue, 06 Oct 2026 04:49:05 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 10
   },
   {
     "title": "随着股市徘徊在历史最高水平附近，比特币在 87,000 美元处不断遭到拒绝",
@@ -78,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
     "published": "Tue, 06 Oct 2026 04:41:10 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 11
   },
   {
     "title": "Solana 基金会推出了一项可在几秒钟内解决机构交易的计划。摩根大通提供意见",
@@ -87,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
     "published": "Tue, 06 Oct 2026 04:23:45 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 12
   },
   {
     "title": "Crypto 的竞选团队 Fairshake 列出了美国众议院最喜欢的项目清单",
@@ -96,7 +123,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
     "published": "Mon, 05 Oct 2026 19:21:06 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 13
   },
   {
     "title": "美国商品期货交易委员会 (CFTC) 与美国证券交易委员会 (SEC) 一起提议加密货币监管，但现货市场差距依然存在",
@@ -105,7 +132,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
     "published": "Mon, 05 Oct 2026 15:54:23 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 14
   },
   {
     "title": "Stripe 年底前将稳定币卡扩展到 100 多个国家",
@@ -114,34 +141,25 @@
     "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
     "published": "Mon, 05 Oct 2026 13:46:31 +0000",
     "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "美国证券交易委员会批准对错过剧烈波动的比特币和以太币交易者进行三倍修复",
-    "original_title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-    "published": "Mon, 05 Oct 2026 11:14:35 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "财政部的打击行动暴露了加密货币在哈马斯 200 万美元筹款网络中的作用",
-    "original_title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
-    "published": "Mon, 05 Oct 2026 11:08:03 +0000",
-    "sentiment": "市场",
-    "score": 14
-  },
-  {
-    "title": "Metaplanet 第三季度净增持 1,000 个比特币，持有量达到 44,000 个 BTC",
-    "original_title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
-    "published": "Mon, 05 Oct 2026 10:58:03 +0000",
-    "sentiment": "市场",
     "score": 15
+  },
+  {
+    "title": "调查显示富裕投资者增加了加密货币投资",
+    "original_title": "Affluent investors seen boosting crypto exposure: Survey",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 06 Oct 2026 17:30:18 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
+    "title": "随着美国股市创下新高，比特币价格逼近 8.7 万美元",
+    "original_title": "Bitcoin grinds toward $87K as US equities hit new record highs",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 06 Oct 2026 17:19:58 +0000",
+    "sentiment": "市场",
+    "score": 17
   },
   {
     "title": "以太坊的 Glamsterdam 升级在 Sepolia 测试网上启动",
@@ -150,7 +168,7 @@
     "link": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 06 Oct 2026 14:00:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 18
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -159,7 +177,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 06 Oct 2026 13:41:33 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 19
   },
   {
     "title": "资本开始从人工智能转向加密货币：Raoul Pal",
@@ -168,7 +186,7 @@
     "link": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 06 Oct 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 20
   },
   {
     "title": "美国加密货币规则需要在下次选举中生存",
@@ -177,7 +195,7 @@
     "link": "https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 06 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 21
   },
   {
     "title": "Paxos 的 30 亿美元 USDG 稳定币在 Arbitrum 上线",
@@ -186,7 +204,7 @@
     "link": "https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 06 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 22
   },
   {
     "title": "Polymarket 推出新协议 V2，彻底改革智能合约",
@@ -195,7 +213,7 @@
     "link": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 06 Oct 2026 12:54:15 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 23
   },
   {
     "title": "香港官员加倍推迟 2026 年底加密许可法案的最后期限",
@@ -204,7 +222,7 @@
     "link": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 06 Oct 2026 10:16:55 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 24
   },
   {
     "title": "随着鲸鱼存入稳定币，币安 BTC 流出量创 2023 年中期以来最高",
@@ -213,7 +231,7 @@
     "link": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 06 Oct 2026 09:59:12 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 25
   },
   {
     "title": "Ondo 通过代币化的 IPO 前人工智能敞口打开私募市场",
@@ -222,7 +240,7 @@
     "link": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 06 Oct 2026 09:21:38 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 26
   },
   {
     "title": "Solana 基金会目标是通过 DvP 启动在几秒钟内完成结算",
@@ -231,7 +249,7 @@
     "link": "https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 06 Oct 2026 09:11:26 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 27
   },
   {
     "title": "比特币 ETF 损失 9000 万美元，因 BTC 较一年前的 ATH 低 32%",
@@ -240,60 +258,6 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 06 Oct 2026 08:14:17 +0000",
     "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "EEZ 测试原子 L1 到 L2 交易以推动统一以太坊",
-    "original_title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 06 Oct 2026 07:09:33 +0000",
-    "sentiment": "市场",
-    "score": 27
-  },
-  {
-    "title": "Better Markets 表示 CFTC 是监管零售加密货币的“错误机构”",
-    "original_title": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 06 Oct 2026 05:43:50 +0000",
-    "sentiment": "市场",
     "score": 28
-  },
-  {
-    "title": "OCC 就加密货币特许经营提起诉讼几天后，Rain 寻求美国信托银行特许经营",
-    "original_title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 06 Oct 2026 03:45:40 +0000",
-    "sentiment": "市场",
-    "score": 29
-  },
-  {
-    "title": "OKX 着眼于新兴市场，推出可提供收益的稳定币储蓄和支付应用程序",
-    "original_title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 06 Oct 2026 03:40:00 +0000",
-    "sentiment": "市场",
-    "score": 30
-  },
-  {
-    "title": "Crypto PAC 宣布在美国中期选举中支持 32 名众议院候选人",
-    "original_title": "Crypto PAC announces support for 32 House candidates in US midterms",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 05 Oct 2026 21:42:30 +0000",
-    "sentiment": "市场",
-    "score": 31
-  },
-  {
-    "title": "FinCEN 因“合法活动”担忧而撤回拟议的加密货币混合规则",
-    "original_title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 05 Oct 2026 20:46:53 +0000",
-    "sentiment": "市场",
-    "score": 32
   }
 ]
