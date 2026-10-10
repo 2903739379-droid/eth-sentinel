@@ -1,12 +1,39 @@
 [
   {
+    "title": "10/10闪崩一年后，比特币和以太坊流动性已重建，但山寨币仍面临风险",
+    "original_title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+    "published": "Sat, 10 Oct 2026 12:00:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "随着贷款和石油打开新市场，代币化大宗商品的目光不再局限于黄金",
+    "original_title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+    "published": "Sat, 10 Oct 2026 12:00:00 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "比特币 190 亿美元的价值给我们敲响了警钟：闪电崩盘一年后，加密货币学到了什么吗？",
+    "original_title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+    "published": "Sat, 10 Oct 2026 11:00:00 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
     "title": "比特币波动性大幅下降，但价格极端波动比 2018 年更加频繁",
     "original_title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
     "published": "Sat, 10 Oct 2026 05:43:00 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 3
   },
   {
     "title": "Visa 调查显示，到 2031 年，近一半亚太地区消费者愿意使用稳定币",
@@ -15,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
     "published": "Sat, 10 Oct 2026 03:00:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 4
   },
   {
     "title": "纽约 AG 获得了摄氏度的 Alex Mashinsky 最高 3500 万美元的终身加密禁令",
@@ -24,7 +51,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
     "published": "Fri, 09 Oct 2026 14:55:23 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 5
   },
   {
     "title": "据称 8600 万美元的加密货币被盗后，Ledger 正在调查潜在的钱包篡改行为",
@@ -33,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
     "published": "Fri, 09 Oct 2026 14:47:27 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 6
   },
   {
     "title": "特朗普的伊朗承诺支撑了加密货币的上涨，因为比特币空头面临清算压力",
@@ -42,7 +69,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
     "published": "Fri, 09 Oct 2026 11:09:04 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 7
   },
   {
     "title": "特朗普排除中期选举前对伊朗发动罢工的可能性后，比特币稳定在 82,500 美元附近",
@@ -51,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
     "published": "Fri, 09 Oct 2026 10:44:22 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 8
   },
   {
     "title": "泰国向本地上市的比特币和以太币 ETF 敞开大门",
@@ -60,7 +87,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
     "published": "Fri, 09 Oct 2026 10:16:55 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 9
   },
   {
     "title": "英国因涉嫌与俄罗斯有联系而对三个加密货币交易所实施制裁",
@@ -69,7 +96,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
     "published": "Fri, 09 Oct 2026 10:14:59 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 10
   },
   {
     "title": "暗网毒品市场运营商被判 40 年徒刑，并没收价值 1.01 亿美元的比特币",
@@ -78,7 +105,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
     "published": "Fri, 09 Oct 2026 09:20:16 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 11
   },
   {
     "title": "随着战略转向人工智能，MARA 将 8110 万美元的比特币转移给 Galaxy Digital",
@@ -87,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
     "published": "Fri, 09 Oct 2026 09:08:09 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 12
   },
   {
     "title": "Sam Altman 支持的比特币保险公司同时在 Bain Capital Crypto 主导的一轮融资中获得 3750 万美元",
@@ -96,34 +123,25 @@
     "link": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
     "published": "Fri, 09 Oct 2026 09:06:00 +0000",
     "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "实时更新：比特币从当日高点下滑，本周将以亏损收盘",
-    "original_title": "Live updates: Bitcoin slips from day's highs, set to close week with a loss",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-    "published": "Fri, 09 Oct 2026 06:51:32 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "支持比特币借贷的新技术即将推出，承诺金额达 5 亿美元",
-    "original_title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
-    "published": "Fri, 09 Oct 2026 06:40:54 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "随着最后 200 毫秒升级的临近，Solana 即将将其区块时间减半",
-    "original_title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
-    "published": "Fri, 09 Oct 2026 05:00:52 +0000",
-    "sentiment": "市场",
     "score": 13
+  },
+  {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 10 Oct 2026 12:30:00 +0000",
+    "sentiment": "市场",
+    "score": 14
+  },
+  {
+    "title": "贾斯汀·孙 (Justin Sun) 表示 Tron 的后量子密码学已在测试网上上线",
+    "original_title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 10 Oct 2026 11:52:14 +0000",
+    "sentiment": "市场",
+    "score": 15
   },
   {
     "title": "与此同时，萨姆·奥尔特曼支持的比特币人寿保险公司筹集了更多资金",
@@ -132,7 +150,7 @@
     "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 10 Oct 2026 07:10:43 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 16
   },
   {
     "title": "美国计划本周扣押与伊朗有关的 10 亿美元加密货币：Scott Bessent",
@@ -141,7 +159,7 @@
     "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 09 Oct 2026 20:39:17 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 17
   },
   {
     "title": "THORChain 高管指责 Tether 暂时冻结 USDT 金库",
@@ -150,16 +168,7 @@
     "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 09 Oct 2026 19:04:03 +0000",
     "sentiment": "市场",
-    "score": 16
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 09 Oct 2026 18:30:11 +0000",
-    "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "Blockchain.com 寻求 CFTC 批准预测市场：CNBC",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 09 Oct 2026 16:22:45 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "加密货币业务：富有的投资者正在购买加密货币，但他们的顾问并没有被出售",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 09 Oct 2026 15:51:53 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "随着加密货币经受 Ledger 盗窃报告的影响，比特币盘整接近 8.25 万美元",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 09 Oct 2026 15:20:36 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "法国是世界上对比特币爱好者最危险的地方：7 个月内发生 90 次攻击",
@@ -195,7 +204,7 @@
     "link": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 09 Oct 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "英国制裁与俄罗斯非法资金有关的三个加密货币交易所",
@@ -204,7 +213,7 @@
     "link": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 09 Oct 2026 10:34:37 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
     "title": "法国立法者支持 2027 年预算法案中的稳定币互换税",
@@ -213,7 +222,7 @@
     "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 09 Oct 2026 10:16:48 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 24
   },
   {
     "title": "比特币投机者在 1.1B 美元清算中将 55K BTC 转移到交易所",
@@ -222,7 +231,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 09 Oct 2026 09:50:01 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 25
   },
   {
     "title": "比特币、以太坊 ETF 10 月份资金流出激增至 10 亿美元",
@@ -231,7 +240,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 09 Oct 2026 07:34:44 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 26
   },
   {
     "title": "加密货币项目申请 Anthropic 的新前沿人工智能安全扫描仪",
@@ -239,15 +248,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 09 Oct 2026 05:34:33 +0000",
-    "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "泰国敲定规则，为比特币、以太币 ETF 铺平道路",
-    "original_title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 09 Oct 2026 03:08:51 +0000",
     "sentiment": "市场",
     "score": 27
   }
