@@ -1,12 +1,30 @@
 [
   {
+    "title": "每个人都希望 SCOTUS 占领预测市场：加密货币现状",
+    "original_title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+    "published": "Sun, 11 Oct 2026 18:30:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "Clarity 的失败可能会加速加密货币创新，同时保护现有企业",
+    "original_title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+    "published": "Sun, 11 Oct 2026 16:00:00 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
     "title": "国际货币基金组织发现对代币化股票的需求，称市场仍然波动且缺乏流动性",
     "original_title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
     "published": "Sun, 11 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 2
   },
   {
     "title": "10/10闪崩一年后，比特币和以太坊流动性已重建，但山寨币仍面临风险",
@@ -15,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
     "published": "Sat, 10 Oct 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 3
   },
   {
     "title": "随着贷款和石油打开新市场，代币化大宗商品的目光不再局限于黄金",
@@ -24,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
     "published": "Sat, 10 Oct 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 4
   },
   {
     "title": "比特币 190 亿美元的价值给我们敲响了警钟：闪电崩盘一年后，加密货币学到了什么吗？",
@@ -33,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
     "published": "Sat, 10 Oct 2026 11:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 5
   },
   {
     "title": "比特币波动性大幅下降，但价格极端波动比 2018 年更加频繁",
@@ -42,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
     "published": "Sat, 10 Oct 2026 05:43:00 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 6
   },
   {
     "title": "Visa 调查显示，到 2031 年，近一半亚太地区消费者愿意使用稳定币",
@@ -51,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
     "published": "Sat, 10 Oct 2026 03:00:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 7
   },
   {
     "title": "纽约 AG 获得了摄氏度的 Alex Mashinsky 最高 3500 万美元的终身加密禁令",
@@ -60,7 +78,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
     "published": "Fri, 09 Oct 2026 14:55:23 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 8
   },
   {
     "title": "据称 8600 万美元的加密货币被盗后，Ledger 正在调查潜在的钱包篡改行为",
@@ -69,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
     "published": "Fri, 09 Oct 2026 14:47:27 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 9
   },
   {
     "title": "特朗普的伊朗承诺支撑了加密货币的上涨，因为比特币空头面临清算压力",
@@ -78,7 +96,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
     "published": "Fri, 09 Oct 2026 11:09:04 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 10
   },
   {
     "title": "特朗普排除中期选举前对伊朗发动罢工的可能性后，比特币稳定在 82,500 美元附近",
@@ -87,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
     "published": "Fri, 09 Oct 2026 10:44:22 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 11
   },
   {
     "title": "泰国向本地上市的比特币和以太币 ETF 敞开大门",
@@ -96,32 +114,14 @@
     "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
     "published": "Fri, 09 Oct 2026 10:16:55 +0000",
     "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "英国因涉嫌与俄罗斯有联系而对三个加密货币交易所实施制裁",
-    "original_title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-    "published": "Fri, 09 Oct 2026 10:14:59 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "暗网毒品市场运营商被判 40 年徒刑，并没收价值 1.01 亿美元的比特币",
-    "original_title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
-    "published": "Fri, 09 Oct 2026 09:20:16 +0000",
-    "sentiment": "市场",
     "score": 12
   },
   {
-    "title": "随着战略转向人工智能，MARA 将 8110 万美元的比特币转移给 Galaxy Digital",
-    "original_title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
-    "published": "Fri, 09 Oct 2026 09:08:09 +0000",
+    "title": "Saylor 在 9 月底通过 STRC 回购来调侃比特币购买策略",
+    "original_title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 11 Oct 2026 17:03:00 +0000",
     "sentiment": "市场",
     "score": 13
   },
@@ -139,7 +139,7 @@
     "original_title": "CFTC proposals aimed at separating prediction markets from casino gambling",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sun, 11 Oct 2026 07:44:51 +0000",
+    "published": "Sun, 11 Oct 2026 07:50:00 +0000",
     "sentiment": "市场",
     "score": 15
   },
@@ -223,14 +223,5 @@
     "published": "Fri, 09 Oct 2026 10:34:37 +0000",
     "sentiment": "市场",
     "score": 24
-  },
-  {
-    "title": "法国立法者支持 2027 年预算法案中的稳定币互换税",
-    "original_title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 09 Oct 2026 10:16:48 +0000",
-    "sentiment": "市场",
-    "score": 25
   }
 ]
