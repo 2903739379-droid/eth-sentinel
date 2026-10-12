@@ -1,21 +1,93 @@
 [
   {
+    "title": "Tom Lee 认为随着 Bitmine 购买更多以太币，2 万亿美元的财富转移将刺激加密货币需求",
+    "original_title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+    "published": "Mon, 12 Oct 2026 15:27:09 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "Ledger 称 CryptoBilis 案件数量有限，追踪金额高达 9300 万美元，冻结金额达 1000 万美元",
+    "original_title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
+    "published": "Mon, 12 Oct 2026 12:01:53 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "美元走强令市场紧张，比特币跌破 83,000 美元",
+    "original_title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
+    "published": "Mon, 12 Oct 2026 11:21:11 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
+    "title": "全球金融监管机构呼吁跨境信息共享，应对稳定币危机",
+    "original_title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+    "published": "Mon, 12 Oct 2026 11:02:38 +0000",
+    "sentiment": "市场",
+    "score": 3
+  },
+  {
+    "title": "韩国刚刚获得第一笔由比特币支持的传统银行贷款",
+    "original_title": "South Korea just got its first traditional bank loans backed by bitcoin",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
+    "published": "Mon, 12 Oct 2026 10:57:37 +0000",
+    "sentiment": "市场",
+    "score": 4
+  },
+  {
+    "title": "SWI 融资 8.94 亿美元，将前 FTX 比特币矿工 Genesis Digital 转型为 AI",
+    "original_title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
+    "published": "Mon, 12 Oct 2026 10:27:00 +0000",
+    "sentiment": "市场",
+    "score": 5
+  },
+  {
+    "title": "比特币价格维持在 83,500 美元以下，山寨币交易清淡而上涨",
+    "original_title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
+    "published": "Mon, 12 Oct 2026 10:20:54 +0000",
+    "sentiment": "市场",
+    "score": 6
+  },
+  {
+    "title": "美国通胀、以太坊升级谈判：未来加密货币周",
+    "original_title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+    "published": "Mon, 12 Oct 2026 08:58:24 +0000",
+    "sentiment": "市场",
+    "score": 7
+  },
+  {
     "title": "Ledger 称 CryptoBilis 销售的至少一台设备中发现未经授权的植入物",
     "original_title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
     "published": "Mon, 12 Oct 2026 07:49:40 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 8
   },
   {
-    "title": "随着油价下跌，比特币摆脱 ETF 流出的影响，交易价格突破 84,000 美元",
-    "original_title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+    "title": "随着油价回升，比特币从 84,000 美元回落，ETF 损失超过 6 亿美元",
+    "original_title": "Bitcoin pulls back from $84,000 as oil recovers, ETFs bleed over $600 million",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
     "published": "Mon, 12 Oct 2026 04:49:30 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 9
   },
   {
     "title": "每个人都希望 SCOTUS 占领预测市场：加密货币现状",
@@ -24,7 +96,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
     "published": "Sun, 11 Oct 2026 18:30:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 10
   },
   {
     "title": "Clarity 的失败可能会加速加密货币创新，同时保护现有企业",
@@ -33,7 +105,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
     "published": "Sun, 11 Oct 2026 16:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 11
   },
   {
     "title": "国际货币基金组织发现对代币化股票的需求，称市场仍然波动且缺乏流动性",
@@ -42,7 +114,7 @@
     "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
     "published": "Sun, 11 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 12
   },
   {
     "title": "10/10闪崩一年后，比特币和以太坊流动性已重建，但山寨币仍面临风险",
@@ -51,70 +123,88 @@
     "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
     "published": "Sat, 10 Oct 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 13
   },
   {
-    "title": "随着贷款和石油打开新市场，代币化大宗商品的目光不再局限于黄金",
+    "title": "随着贷款和石油开辟新市场，代币化大宗商品的目光不再局限于黄金",
     "original_title": "Tokenized commodities look beyond gold as lending and oil open new markets",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
     "published": "Sat, 10 Oct 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 14
   },
   {
-    "title": "比特币 190 亿美元的价值给我们敲响了警钟：闪电崩盘一年后，加密货币学到了什么吗？",
-    "original_title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-    "published": "Sat, 10 Oct 2026 11:00:00 +0000",
+    "title": "随着贷款机构审查交易，比特币矿商面临不断扩大的人工智能融资成本",
+    "original_title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 12 Oct 2026 16:51:05 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 15
   },
   {
-    "title": "比特币波动性大幅下降，但价格极端波动比 2018 年更加频繁",
-    "original_title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
-    "published": "Sat, 10 Oct 2026 05:43:00 +0000",
+    "title": "乌克兰和伊朗罢工导致油价升至一个月高位，比特币下跌 2.2%",
+    "original_title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 12 Oct 2026 16:30:21 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 16
   },
   {
-    "title": "Visa 调查显示，到 2031 年，近一半亚太地区消费者愿意使用稳定币",
-    "original_title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-    "published": "Sat, 10 Oct 2026 03:00:00 +0000",
+    "title": "Ledger 植入测试比特币 ETF 作为比硬件钱包更安全的托管解决方案",
+    "original_title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 12 Oct 2026 14:07:00 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 17
   },
   {
-    "title": "纽约 AG 获得了摄氏度的 Alex Mashinsky 最高 3500 万美元的终身加密禁令",
-    "original_title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
-    "published": "Fri, 09 Oct 2026 14:55:23 +0000",
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 12 Oct 2026 12:46:51 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 18
   },
   {
-    "title": "据称 8600 万美元的加密货币被盗后，Ledger 正在调查潜在的钱包篡改行为",
-    "original_title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
-    "published": "Fri, 09 Oct 2026 14:47:27 +0000",
+    "title": "策略增持 250 比特币，持有量达到 848,250 比特币",
+    "original_title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 12 Oct 2026 12:31:51 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 19
   },
   {
-    "title": "特朗普的伊朗承诺支撑了加密货币的上涨，因为比特币空头面临清算压力",
-    "original_title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
-    "published": "Fri, 09 Oct 2026 11:09:04 +0000",
+    "title": "澳大利亚提议对加密货币结算的衍生品设定杠杆上限",
+    "original_title": "Australia proposes leverage caps for crypto-settled derivatives",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 12 Oct 2026 11:41:58 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 20
+  },
+  {
+    "title": "在美国消费者物价指数数据公布之前，比特币价格支撑依然存在：比特币交易者本周需要了解的三件事",
+    "original_title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 12 Oct 2026 11:14:10 +0000",
+    "sentiment": "市场",
+    "score": 21
+  },
+  {
+    "title": "韩国银行推出比特币支持的商业贷款：报告",
+    "original_title": "South Korean bank launches Bitcoin-backed business loans: Report",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 12 Oct 2026 08:45:58 +0000",
+    "sentiment": "市场",
+    "score": 22
   },
   {
     "title": "全球监管机构在 G20 峰会前提出稳定币风险和人工智能威胁",
@@ -123,16 +213,7 @@
     "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 12 Oct 2026 06:30:21 +0000",
     "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 12 Oct 2026 05:55:00 +0000",
-    "sentiment": "市场",
-    "score": 14
+    "score": 23
   },
   {
     "title": "法国立法者支持 11.2 万美元以上加密钱包的报告规则",
@@ -141,7 +222,7 @@
     "link": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 12 Oct 2026 04:45:15 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 24
   },
   {
     "title": "Saylor 在 9 月底通过 STRC 回购来调侃比特币购买策略",
@@ -150,7 +231,7 @@
     "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sun, 11 Oct 2026 17:11:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 25
   },
   {
     "title": "CFTC 提议旨在将预测市场与赌场赌博分开",
@@ -159,60 +240,6 @@
     "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sun, 11 Oct 2026 07:50:00 +0000",
     "sentiment": "市场",
-    "score": 17
-  },
-  {
-    "title": "贾斯汀·孙 (Justin Sun) 表示 Tron 的后量子密码学已在测试网上上线",
-    "original_title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sat, 10 Oct 2026 11:52:14 +0000",
-    "sentiment": "市场",
-    "score": 18
-  },
-  {
-    "title": "与此同时，萨姆·奥尔特曼支持的比特币人寿保险公司筹集了更多资金",
-    "original_title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sat, 10 Oct 2026 07:10:43 +0000",
-    "sentiment": "市场",
-    "score": 19
-  },
-  {
-    "title": "美国计划本周扣押与伊朗有关的 10 亿美元加密货币：Scott Bessent",
-    "original_title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 09 Oct 2026 20:39:17 +0000",
-    "sentiment": "市场",
-    "score": 20
-  },
-  {
-    "title": "THORChain 开发者指责 Tether 暂时冻结 USDT 金库",
-    "original_title": "THORChain dev accuses Tether of temporarily freezing USDT vaults",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 09 Oct 2026 19:04:03 +0000",
-    "sentiment": "市场",
-    "score": 21
-  },
-  {
-    "title": "Blockchain.com 寻求 CFTC 批准预测市场：CNBC",
-    "original_title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 09 Oct 2026 16:22:45 +0000",
-    "sentiment": "市场",
-    "score": 22
-  },
-  {
-    "title": "加密货币业务：富有的投资者正在购买加密货币，但他们的顾问并没有被出售",
-    "original_title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 09 Oct 2026 15:51:53 +0000",
-    "sentiment": "市场",
-    "score": 23
+    "score": 26
   }
 ]
