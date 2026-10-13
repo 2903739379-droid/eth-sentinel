@@ -9,8 +9,8 @@
     "score": 0
   },
   {
-    "title": "英国加密货币交易商表示，随着扳手攻击激增，刀具攻击造成近 80 万美元损失",
-    "original_title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+    "title": "英国加密货币交易员表示，随着扳手攻击激增，持刀袭击造成近 80 万美元损失",
+    "original_title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
     "published": "Tue, 13 Oct 2026 15:24:52 +0000",
@@ -135,13 +135,22 @@
     "score": 14
   },
   {
-    "title": "Ledger 称 CryptoBilis 案件数量有限，追踪金额高达 9300 万美元，冻结金额达 1000 万美元",
-    "original_title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
-    "published": "Mon, 12 Oct 2026 12:01:53 +0000",
+    "title": "Solana、BNB 链上的大多数代币化股票交易都发生在美国市场交易时间之外",
+    "original_title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 13 Oct 2026 19:48:06 +0000",
     "sentiment": "市场",
     "score": 15
+  },
+  {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 13 Oct 2026 19:33:57 +0000",
+    "sentiment": "市场",
+    "score": 16
   },
   {
     "title": "SEC 缺乏领导力如何促进加密货币规则制定",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 13 Oct 2026 16:51:25 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "Strive 报告称，随着比特币持有量跃升 11%，认股权证行权金额达 2.08 亿美元",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 13 Oct 2026 15:57:55 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "随着美国股市避开韩国科技股抛售，比特币继续承压至 8.4 万美元",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 13 Oct 2026 15:27:32 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "比特币关于闪电网络是在自欺欺人吗？",
@@ -176,15 +185,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 13 Oct 2026 13:30:00 +0000",
-    "sentiment": "市场",
-    "score": 19
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 13 Oct 2026 13:26:42 +0000",
     "sentiment": "市场",
     "score": 20
   },
@@ -250,14 +250,5 @@
     "published": "Tue, 13 Oct 2026 02:41:30 +0000",
     "sentiment": "市场",
     "score": 27
-  },
-  {
-    "title": "FTX 的加密货币挖矿业务现已用于推进人工智能",
-    "original_title": "FTX’s crypto mining venture is now used to advance AI",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 12 Oct 2026 21:11:26 +0000",
-    "sentiment": "市场",
-    "score": 28
   }
 ]
