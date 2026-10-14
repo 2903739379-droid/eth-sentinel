@@ -1,12 +1,66 @@
 [
   {
+    "title": "Kalshi首席执行官表示，国家主导的对美国预测市场的监管将把它们赶出市场",
+    "original_title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
+    "published": "Wed, 14 Oct 2026 16:34:53 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "美国主导人工智能模型支出，人工智能代理支付 1.38 亿笔加密货币",
+    "original_title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
+    "published": "Wed, 14 Oct 2026 15:35:36 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "加密多头和空头：为什么黄金和比特币属于同一投资组合",
+    "original_title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
+    "published": "Wed, 14 Oct 2026 15:05:15 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
+    "title": "贝莱德的加密 ETF 资产飙升 63%，但仍远低于 2025 年峰值",
+    "original_title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
+    "published": "Wed, 14 Oct 2026 14:31:14 +0000",
+    "sentiment": "市场",
+    "score": 3
+  },
+  {
+    "title": "Kraken 母公司 Payward 将成为第一家收购欧盟银行的加密货币公司，该银行向存款和贷款领域扩张",
+    "original_title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+    "published": "Wed, 14 Oct 2026 13:07:45 +0000",
+    "sentiment": "市场",
+    "score": 4
+  },
+  {
+    "title": "美国9月CPI火爆，比特币大幅走低",
+    "original_title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+    "published": "Wed, 14 Oct 2026 12:33:56 +0000",
+    "sentiment": "市场",
+    "score": 5
+  },
+  {
     "title": "以下是分析师如何看待美国通胀对比特币的影响",
     "original_title": "Here's how analysts see U.S. inflation influencing bitcoin",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
     "published": "Wed, 14 Oct 2026 11:15:00 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 6
   },
   {
     "title": "在美国通胀数据公布之前，比特币保持在 83,000 美元以上，而山寨币滞后",
@@ -15,16 +69,16 @@
     "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
     "published": "Wed, 14 Oct 2026 10:51:39 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 7
   },
   {
-    "title": "实时更新：美国通胀数据公布前，比特币徘徊在 83,000 美元附近",
-    "original_title": "Live updates: Bitcoin treading water near $83,000 ahead of U.S. inflation data",
+    "title": "实时更新：通胀上升超过预期后，比特币回落至 82,000 美元",
+    "original_title": "Live updates: Bitcoin falls back to $82,000 after inflation rises more than forecast",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
     "published": "Wed, 14 Oct 2026 09:45:53 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 8
   },
   {
     "title": "法国提议对受监管的稳定币征收 31.4% 的税，可能会促使加密货币交易者离岸",
@@ -33,7 +87,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
     "published": "Wed, 14 Oct 2026 08:48:11 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 9
   },
   {
     "title": "渣打银行为富裕的阿联酋客户解锁直接比特币和以太币交易",
@@ -42,7 +96,7 @@
     "link": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
     "published": "Wed, 14 Oct 2026 08:10:07 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 10
   },
   {
     "title": "持有比特币总量 5% 的 Coinbase 希望现在就开始量子修复",
@@ -51,7 +105,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
     "published": "Wed, 14 Oct 2026 05:44:51 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 11
   },
   {
     "title": "Solana 定于 10 月 21 日进行 Alpenglow 升级，目标是 150 毫秒最终完成",
@@ -60,7 +114,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
     "published": "Wed, 14 Oct 2026 04:11:16 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 12
   },
   {
     "title": "美联储威廉姆斯预计 2027 年不会加息，比特币攀升至 84,000 美元",
@@ -69,79 +123,70 @@
     "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
     "published": "Wed, 14 Oct 2026 03:50:54 +0000",
     "sentiment": "市场",
-    "score": 7
-  },
-  {
-    "title": "菲律宾最大的加密货币交易所 Coins.ph 据称将面临央行监管行动",
-    "original_title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
-    "published": "Wed, 14 Oct 2026 01:00:00 +0000",
-    "sentiment": "市场",
-    "score": 8
-  },
-  {
-    "title": "努力筹集 5 亿美元，以新的优先股类别购买额外的比特币",
-    "original_title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
-    "published": "Tue, 13 Oct 2026 23:23:05 +0000",
-    "sentiment": "市场",
-    "score": 9
-  },
-  {
-    "title": "加密货币交易所 MNX 与 OKX、Bitget 竞争，为人工智能巨头提供 IPO 前期货",
-    "original_title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
-    "published": "Tue, 13 Oct 2026 15:52:09 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "英国加密货币交易员表示，随着扳手攻击激增，持刀袭击造成近 80 万美元损失",
-    "original_title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-    "published": "Tue, 13 Oct 2026 15:24:52 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "韩国封锁了 27 家加密货币交易所，包括 Bitmart 和 Kucoin",
-    "original_title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
-    "published": "Tue, 13 Oct 2026 11:58:04 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "Federated Hermes 加入华尔街的代币化进程，计划发行首批链上基金份额",
-    "original_title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
-    "published": "Tue, 13 Oct 2026 11:56:04 +0000",
-    "sentiment": "市场",
     "score": 13
   },
   {
-    "title": "Stacks 的 STX（比特币第 2 层代币）在四周内飙升了 50%",
-    "original_title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
-    "published": "Tue, 13 Oct 2026 11:26:45 +0000",
+    "title": "OCC 报告发现，银行业的去银行化工作与加密货币活动有关",
+    "original_title": "OCC report finds debanking efforts tied to crypto activities",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 14 Oct 2026 17:03:20 +0000",
     "sentiment": "市场",
     "score": 14
   },
   {
-    "title": "韩国股市因人工智能相关担忧而下滑，比特币、以太币先跌后反弹",
-    "original_title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
-    "published": "Tue, 13 Oct 2026 11:06:39 +0000",
+    "title": "随着交易量的增长，渣打银行将 2T 美元的稳定币预测推至 2030 年",
+    "original_title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 14 Oct 2026 16:26:31 +0000",
     "sentiment": "市场",
     "score": 15
+  },
+  {
+    "title": "随着高油价飙升美国消费者物价指数 (CPI) 通胀，比特币价格跌至 8.2 万美元以下",
+    "original_title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 14 Oct 2026 14:21:15 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 14 Oct 2026 13:36:56 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
+    "title": "批评者称，“地堡模式”无法保护你的加密货币",
+    "original_title": "‘Bunker mode’ won’t protect your crypto, critics say",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 14 Oct 2026 13:30:00 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "加拿大向亚洲国家的加密货币汇款激增 141% 至 $2.36B：Chainaanalysis",
+    "original_title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 14 Oct 2026 13:00:00 +0000",
+    "sentiment": "市场",
+    "score": 19
+  },
+  {
+    "title": "Qivalis 获得荷兰欧元稳定币电子货币许可证",
+    "original_title": "Qivalis wins Dutch e-money license for euro stablecoin",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 14 Oct 2026 12:53:41 +0000",
+    "sentiment": "市场",
+    "score": 20
   },
   {
     "title": "加密货币用户可以信任硬件钱包背后的供应链吗？",
@@ -150,7 +195,7 @@
     "link": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 14 Oct 2026 11:59:42 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 21
   },
   {
     "title": "CryptoQuant 的 3 个图表保持了比特币“Uptober”论点的有效性",
@@ -159,7 +204,7 @@
     "link": "https://cointelegraph.com/markets/cryptoquant-charts-bitcoin-uptober-thesis-valid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 14 Oct 2026 10:38:22 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 22
   },
   {
     "title": "比特币将变得比黄金“波动性更小”且规模更大：《比特币标准》作者",
@@ -168,7 +213,7 @@
     "link": "https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 14 Oct 2026 10:25:53 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 23
   },
   {
     "title": "渣打银行将比特币和以太币交易范围扩大到阿联酋的专业投资者",
@@ -177,16 +222,7 @@
     "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 14 Oct 2026 10:07:03 +0000",
     "sentiment": "市场",
-    "score": 19
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 14 Oct 2026 05:35:52 +0000",
-    "sentiment": "市场",
-    "score": 20
+    "score": 24
   },
   {
     "title": "Starknet 为 DeFi 活动推出钱包隐私功能",
@@ -195,7 +231,7 @@
     "link": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 14 Oct 2026 05:32:14 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 25
   },
   {
     "title": "美联储威廉姆斯预计人工智能供应紧张将持续两年以上",
@@ -204,7 +240,7 @@
     "link": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 14 Oct 2026 05:30:10 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 26
   },
   {
     "title": "Bitwise 的 Hougan 表示第三季度图表指向“加密货币春天”",
@@ -213,7 +249,7 @@
     "link": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 14 Oct 2026 02:19:56 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 27
   },
   {
     "title": "Solana、BNB 链上的大多数代币化股票交易都发生在美国市场交易时间之外",
@@ -222,51 +258,6 @@
     "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 13 Oct 2026 19:48:06 +0000",
     "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "SEC 缺乏领导力如何促进加密货币规则制定",
-    "original_title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 13 Oct 2026 16:51:25 +0000",
-    "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "Strive 报告称，随着比特币持有量跃升 11%，认股权证行权金额达 2.08 亿美元",
-    "original_title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 13 Oct 2026 15:57:55 +0000",
-    "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "随着美国股市避开韩国科技股抛售，比特币继续承压至 8.4 万美元",
-    "original_title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 13 Oct 2026 15:27:32 +0000",
-    "sentiment": "市场",
-    "score": 27
-  },
-  {
-    "title": "比特币关于闪电网络是在自欺欺人吗？",
-    "original_title": "Is Bitcoin kidding itself about the Lightning Network?",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 13 Oct 2026 13:30:00 +0000",
-    "sentiment": "市场",
     "score": 28
-  },
-  {
-    "title": "俄罗斯联邦储蓄银行在 12 月推出加密货币交易前获得批准",
-    "original_title": "Russia clears Sberbank for crypto trading ahead of December launch",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 13 Oct 2026 12:22:24 +0000",
-    "sentiment": "市场",
-    "score": 29
   }
 ]
