@@ -1,12 +1,30 @@
 [
   {
+    "title": "实时更新：比特币重回 82,000 美元上方，随着 ETF 持续流出，ZEC 上涨 11%",
+    "original_title": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+    "published": "Fri, 16 Oct 2026 09:48:14 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "XRP 未能像比特币和以太币那样让持有者致富。原因如下",
+    "original_title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+    "published": "Fri, 16 Oct 2026 05:53:58 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
     "title": "OpenAI 代理耗尽了以太坊资金，并从不属于它的钱包中取出",
     "original_title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
     "published": "Fri, 16 Oct 2026 04:29:19 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 2
   },
   {
     "title": "随着亚洲股市反弹，比特币买家抢购短暂跌破 80,000 美元的比特币",
@@ -15,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
     "published": "Fri, 16 Oct 2026 04:14:22 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 3
   },
   {
     "title": "在白宫，加密货币政策空缺迫在眉睫",
@@ -24,7 +42,7 @@
     "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
     "published": "Thu, 15 Oct 2026 18:48:02 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 4
   },
   {
     "title": "顾问的加密货币：华尔街不再等待国会制定加密货币规则",
@@ -33,7 +51,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
     "published": "Thu, 15 Oct 2026 15:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 5
   },
   {
     "title": "布鲁克林检察官和联邦调查局如何捣毁针对俄语使用者的大规模加密货币欺诈网络",
@@ -42,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
     "published": "Thu, 15 Oct 2026 12:35:24 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 6
   },
   {
     "title": "迫于压力，Ledger 公布了将其加密硬件钱包转变为智能手机的计划",
@@ -51,7 +69,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
     "published": "Thu, 15 Oct 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 7
   },
   {
     "title": "比特币、铜、股票、收益率均下跌；黄金上涨",
@@ -60,7 +78,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
     "published": "Thu, 15 Oct 2026 11:15:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 8
   },
   {
     "title": "随着亚洲股市下跌，山寨币引领加密货币下跌；自午夜以来比特币几乎没有变化",
@@ -69,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
     "published": "Thu, 15 Oct 2026 10:52:11 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 9
   },
   {
     "title": "实时更新：比特币在一个月内首次跌破 80,000 美元后反弹至 82,000 美元",
@@ -78,7 +96,7 @@
     "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
     "published": "Thu, 15 Oct 2026 10:16:15 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 10
   },
   {
     "title": "澳大利亚金融监管机构寻求在许可截止日期之前对加密货币交易所制定更严格的规则",
@@ -87,7 +105,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
     "published": "Thu, 15 Oct 2026 09:53:37 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 11
   },
   {
     "title": "随着比特币、以太币和 XRP 下滑，近 10 亿美元的加密货币押注被清算",
@@ -96,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
     "published": "Thu, 15 Oct 2026 04:25:15 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 12
   },
   {
     "title": "比特币矿池曾处理 2.3% 的网络，在算力下降 65% 后关闭",
@@ -105,7 +123,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
     "published": "Thu, 15 Oct 2026 04:13:56 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 13
   },
   {
     "title": "随着美联储利率不确定性的影响，比特币萎靡不振。综合股价下跌 8%",
@@ -114,41 +132,23 @@
     "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
     "published": "Thu, 15 Oct 2026 03:57:45 +0000",
     "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "Kalshi首席执行官表示，国家主导的对美国预测市场的监管将把它们赶出市场",
-    "original_title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
-    "published": "Wed, 14 Oct 2026 16:34:53 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "美国主导人工智能模型支出，人工智能代理支付 1.38 亿笔加密货币",
-    "original_title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
-    "published": "Wed, 14 Oct 2026 15:35:36 +0000",
-    "sentiment": "市场",
     "score": 14
   },
   {
-    "title": "加密多头和空头：为什么黄金和比特币属于同一投资组合",
-    "original_title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
-    "published": "Wed, 14 Oct 2026 15:05:15 +0000",
+    "title": "CryptoQuant：比特币可能会在新纪录高点之前寻求20个月趋势线的回收",
+    "original_title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 16 Oct 2026 09:22:13 +0000",
     "sentiment": "市场",
     "score": 15
   },
   {
-    "title": "澳大利亚发布法案草案采用经合组织加密货币税务报告框架",
-    "original_title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+    "title": "Capital B 报告称，由于比特币减值费用，上半年亏损 7800 万美元",
+    "original_title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
     "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 15 Oct 2026 23:34:19 +0000",
+    "link": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 16 Oct 2026 07:59:46 +0000",
     "sentiment": "市场",
     "score": 16
   },
@@ -157,9 +157,27 @@
     "original_title": "Here’s what happened in crypto today",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 15 Oct 2026 19:37:27 +0000",
+    "published": "Fri, 16 Oct 2026 06:21:30 +0000",
     "sentiment": "市场",
     "score": 17
+  },
+  {
+    "title": "OpenAI 模型帮助自己测试网络加密，然后对此保持沉默",
+    "original_title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 16 Oct 2026 06:11:22 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "澳大利亚发布法案草案采用经合组织加密货币税务报告框架",
+    "original_title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 15 Oct 2026 23:34:19 +0000",
+    "sentiment": "市场",
+    "score": 19
   },
   {
     "title": "前特朗普加密货币顾问在帮助通过稳定币法案后获利：《华尔街日报》",
@@ -168,7 +186,7 @@
     "link": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 15 Oct 2026 17:14:45 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 20
   },
   {
     "title": "万事达卡将稳定币余额引入传统银行和卡支付",
@@ -177,7 +195,7 @@
     "link": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 15 Oct 2026 15:46:05 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 21
   },
   {
     "title": "美国 PPI 创四年来最大涨幅后，比特币跌破 8 万美元",
@@ -186,7 +204,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 15 Oct 2026 15:10:44 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 22
   },
   {
     "title": "俄罗斯将从 2027 年 7 月开始禁止直接点对点加密货币交易",
@@ -195,7 +213,7 @@
     "link": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 15 Oct 2026 14:22:43 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 23
   },
   {
     "title": "SEC 和 CFTC 的支持加密货币的规则可以被推翻吗？法律意见书",
@@ -204,7 +222,7 @@
     "link": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 15 Oct 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 24
   },
   {
     "title": "白宫加密货币委员会主席帕特里克·威特辞职",
@@ -213,42 +231,6 @@
     "link": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 15 Oct 2026 10:41:09 +0000",
     "sentiment": "市场",
-    "score": 23
-  },
-  {
-    "title": "Starknet 就量子风险可能退出以太坊 L2 进行投票",
-    "original_title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 15 Oct 2026 10:22:00 +0000",
-    "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "Bitget、Liquid 漏洞将第三季度加密货币黑客攻击推向 $1.2B",
-    "original_title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 15 Oct 2026 10:00:00 +0000",
-    "sentiment": "市场",
     "score": 25
-  },
-  {
-    "title": "KOSPI 收于 4 月份以来的最低点，比特币跌至 8.01 万美元",
-    "original_title": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 15 Oct 2026 09:48:07 +0000",
-    "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "尽管有新规定，泰国加密 ETF 可能会缓慢起步：CoinShares",
-    "original_title": "Thailand crypto ETFs may see slow start despite new rules: CoinShares",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 15 Oct 2026 09:36:20 +0000",
-    "sentiment": "市场",
-    "score": 27
   }
 ]
