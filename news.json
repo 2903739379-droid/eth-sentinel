@@ -1,12 +1,21 @@
 [
   {
+    "title": "谷歌新的 Willow 突破后，中本聪时代的比特币面临更大的量子威胁",
+    "original_title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+    "published": "Sat, 17 Oct 2026 02:30:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "交易者很快就能押注 Coinbase、Robinhood 和 Marathon 是否会实现他们的目标",
     "original_title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
     "published": "Fri, 16 Oct 2026 11:15:00 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "随着全球稳定币需求增长，Circle 瞄准 40 个新市场",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
     "published": "Fri, 16 Oct 2026 10:54:35 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "量子联盟成立，警告 640 万比特币面临未来量子威胁",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
     "published": "Fri, 16 Oct 2026 10:52:26 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Celestia 上涨 16%，山寨币超越比特币，Warsh 对利率计划保持沉默",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
     "published": "Fri, 16 Oct 2026 10:41:03 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "诈骗者因 Ledger 间谍芯片漏洞而被骗，损失了近 500 万美元的比特币",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
     "published": "Fri, 16 Oct 2026 10:24:30 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "实时更新：随着股市下滑，比特币跌至 81,000 美元，VIX 在黑色星期一周年纪念日之前飙升",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
     "published": "Fri, 16 Oct 2026 09:48:14 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "XRP 未能像比特币和以太币那样让持有者致富。原因如下",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
     "published": "Fri, 16 Oct 2026 05:53:58 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "OpenAI 代理耗尽了以太坊资金，并从不属于它的钱包中取出",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
     "published": "Fri, 16 Oct 2026 04:29:19 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "随着亚洲股市反弹，比特币买家抢购短暂跌破 80,000 美元的比特币",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
     "published": "Fri, 16 Oct 2026 04:14:22 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "在白宫，加密货币政策空缺迫在眉睫",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
     "published": "Thu, 15 Oct 2026 18:48:02 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "顾问的加密货币：华尔街不再等待国会制定加密货币规则",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
     "published": "Thu, 15 Oct 2026 15:00:00 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "布鲁克林检察官和联邦调查局如何捣毁针对俄语使用者的大规模加密货币欺诈网络",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
     "published": "Thu, 15 Oct 2026 12:35:24 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "迫于压力，Ledger 公布了将其加密硬件钱包转变为智能手机的计划",
@@ -114,7 +123,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
     "published": "Thu, 15 Oct 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "比特币、铜、股票、收益率均下跌；黄金上涨",
@@ -123,7 +132,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
     "published": "Thu, 15 Oct 2026 11:15:00 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "随着亚洲股市下跌，山寨币引领加密货币下跌；自午夜以来比特币几乎没有变化",
@@ -131,15 +140,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
     "published": "Thu, 15 Oct 2026 10:52:11 +0000",
-    "sentiment": "市场",
-    "score": 14
-  },
-  {
-    "title": "实时更新：比特币在一个月内首次跌破 80,000 美元后反弹至 82,000 美元",
-    "original_title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
-    "published": "Thu, 15 Oct 2026 10:16:15 +0000",
     "sentiment": "市场",
     "score": 15
   },
