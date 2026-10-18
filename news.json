@@ -1,12 +1,48 @@
 [
   {
+    "title": "稳定币供应停滞，但随着 Visa、Mastercard 和 Stripe 将加密货币与现金连接起来，付款额猛增 45%",
+    "original_title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+    "published": "Sun, 18 Oct 2026 14:00:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "由于通货膨胀给前景蒙上阴影，比特币年底有望达到 10 万美元，分析师对此存在分歧",
+    "original_title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+    "published": "Sun, 18 Oct 2026 13:00:00 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "哈肯表示，加密货币审计给投资者带来了错误的安全感，因为第三季度的黑客攻击造成了 11.8 亿美元的损失",
+    "original_title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+    "published": "Sun, 18 Oct 2026 13:00:00 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
+    "title": "加密货币交易所 Binance、Coinbase 加入西非诈骗团伙，损失 1100 万美元",
+    "original_title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+    "published": "Sun, 18 Oct 2026 12:00:00 +0000",
+    "sentiment": "市场",
+    "score": 3
+  },
+  {
     "title": "Circle 捍卫 USDC 经济，因为稳定币竞争对手以更大的分成来吸引其合作伙伴",
     "original_title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
     "published": "Sun, 18 Oct 2026 01:06:35 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 4
   },
   {
     "title": "高盛、富国银行、摩根士丹利将代币化视为一种增长手段，而不是一种威胁",
@@ -15,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
     "published": "Sat, 17 Oct 2026 17:00:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 5
   },
   {
     "title": "国际清算银行的论文发现，银行可以通过向储户支付更多费用来减缓稳定币的增长",
@@ -24,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
     "published": "Sat, 17 Oct 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 6
   },
   {
     "title": "谷歌新的 Willow 突破后，中本聪时代的比特币面临更大的量子威胁",
@@ -33,7 +69,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
     "published": "Sat, 17 Oct 2026 02:30:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 7
   },
   {
     "title": "交易者很快就能押注 Coinbase、Robinhood 和 Marathon 是否会实现他们的目标",
@@ -42,7 +78,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
     "published": "Fri, 16 Oct 2026 11:15:00 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 8
   },
   {
     "title": "随着全球稳定币需求增长，Circle 瞄准 40 个新市场",
@@ -51,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
     "published": "Fri, 16 Oct 2026 10:54:35 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 9
   },
   {
     "title": "量子联盟成立，警告 640 万比特币面临未来量子威胁",
@@ -60,7 +96,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
     "published": "Fri, 16 Oct 2026 10:52:26 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 10
   },
   {
     "title": "Celestia 上涨 16%，山寨币超越比特币，Warsh 对利率计划保持沉默",
@@ -69,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
     "published": "Fri, 16 Oct 2026 10:41:03 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 11
   },
   {
     "title": "诈骗者因 Ledger 间谍芯片漏洞而被骗，损失了近 500 万美元的比特币",
@@ -78,7 +114,7 @@
     "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
     "published": "Fri, 16 Oct 2026 10:24:30 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 12
   },
   {
     "title": "实时更新：随着股市下滑，比特币跌至 81,000 美元，VIX 在黑色星期一周年纪念日之前飙升",
@@ -87,42 +123,6 @@
     "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
     "published": "Fri, 16 Oct 2026 09:48:14 +0000",
     "sentiment": "市场",
-    "score": 9
-  },
-  {
-    "title": "XRP 未能像比特币和以太币那样让持有者致富。原因如下",
-    "original_title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-    "published": "Fri, 16 Oct 2026 05:53:58 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "OpenAI 代理耗尽了以太坊资金，并从不属于它的钱包中取出",
-    "original_title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-    "published": "Fri, 16 Oct 2026 04:29:19 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "Cysic 加密桥在未经授权铸造 10M CYS 后停止",
-    "original_title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sun, 18 Oct 2026 10:43:12 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "Tether 支持 AIsa 作为战略投资者，完成种子轮延期",
-    "original_title": "Tether backs AIsa as strategic investor, completing seed extension round",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sun, 18 Oct 2026 06:26:53 +0000",
-    "sentiment": "市场",
     "score": 13
   },
   {
@@ -130,9 +130,27 @@
     "original_title": "Here’s what happened in crypto today",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sat, 17 Oct 2026 13:29:00 +0000",
+    "published": "Sun, 18 Oct 2026 13:54:00 +0000",
     "sentiment": "市场",
     "score": 14
+  },
+  {
+    "title": "Cysic 加密桥在未经授权铸造 10M CYS 后停止",
+    "original_title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 18 Oct 2026 10:46:00 +0000",
+    "sentiment": "市场",
+    "score": 15
+  },
+  {
+    "title": "Tether 支持 AIsa 作为战略投资者，完成种子轮延期",
+    "original_title": "Tether backs AIsa as strategic investor, completing seed extension round",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 18 Oct 2026 06:29:00 +0000",
+    "sentiment": "市场",
+    "score": 16
   },
   {
     "title": "富达表示，Solana 显示出韧性，但某些领域需要持续观察",
@@ -141,7 +159,7 @@
     "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 17 Oct 2026 13:01:00 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 17
   },
   {
     "title": "Circle 的 Allaire 表示稳定币发行人希望进入 40 个发展中市场：报告",
@@ -150,7 +168,7 @@
     "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 17 Oct 2026 10:03:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 18
   },
   {
     "title": "加密货币政治行动委员会在俄亥俄州参议院竞选中加大了对谢罗德·布朗的支出",
@@ -159,7 +177,7 @@
     "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 16 Oct 2026 17:30:09 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 19
   },
   {
     "title": "报告发现，稳定币汇款成本比传统转账低 84%",
@@ -168,7 +186,7 @@
     "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 16 Oct 2026 17:21:45 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 20
   },
   {
     "title": "Crypto Biz：华尔街收盘于 4 点。代币化股票继续交易",
@@ -177,7 +195,7 @@
     "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 16 Oct 2026 15:52:28 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 21
   },
   {
     "title": "美联储 Warsh 避免加息暗示后，比特币价格稳定在 8.2 万美元左右",
@@ -186,7 +204,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 16 Oct 2026 15:45:43 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 22
   },
   {
     "title": "德意志银行准备在德国推出加密货币托管服务，着眼于亚洲：报告",
@@ -195,7 +213,7 @@
     "link": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 16 Oct 2026 13:33:40 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 23
   },
   {
     "title": "Solana 的刘表示上海活动因报名激增而推迟",
@@ -204,7 +222,7 @@
     "link": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 16 Oct 2026 11:22:47 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 24
   },
   {
     "title": "CONNECT 回顾：流动性是代币化的下一个挑战，日常稳定币",
@@ -213,7 +231,7 @@
     "link": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 16 Oct 2026 10:27:18 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 25
   },
   {
     "title": "CryptoQuant：比特币可能会在新纪录高点之前寻求20个月趋势线的回收",
@@ -222,15 +240,15 @@
     "link": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 16 Oct 2026 09:22:13 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 26
   },
   {
-    "title": "Capital B 报告称，由于比特币减值费用，上半年亏损 7800 万美元",
+    "title": "Capital B 报告上半年亏损 7800 万美元，原因是比特币减值费用",
     "original_title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 16 Oct 2026 07:59:46 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 27
   }
 ]
