@@ -1,12 +1,21 @@
 [
   {
-    "title": "Zerohash 推出了一款无需复制钱包地址即可移动加密货币的新工具",
+    "title": "Tether：参议员的调查错过了导致伊朗交易量下降的积极工作",
+    "original_title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+    "published": "Mon, 19 Oct 2026 20:21:13 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "Zerohash 推出了一种新工具，无需复制钱包地址即可移动加密货币",
     "original_title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
     "published": "Mon, 19 Oct 2026 14:58:40 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "该策略的价格图表即将在比特币发出几周后发出重大看涨信号",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
     "published": "Mon, 19 Oct 2026 11:15:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "实时更新：纳斯达克指数反弹超过 1%，比特币维持在 82,000 美元附近",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
     "published": "Mon, 19 Oct 2026 11:05:54 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "随着股市反弹，比特币延续反弹至 82,000 美元上方，DeFi 代币引领山寨币上涨",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
     "published": "Mon, 19 Oct 2026 10:26:33 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "摩根大通将代表美元存款的 JPM Coin 引入以太坊",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
     "published": "Mon, 19 Oct 2026 10:03:47 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "由于贷款风险受到监管审查，加密货币金库存款突破 100 亿美元",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
     "published": "Mon, 19 Oct 2026 09:32:38 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "由于电力延迟持续到 2030 年代，比特币挖矿子公司 Nscale 失去了微软 AI 交易",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
     "published": "Mon, 19 Oct 2026 09:15:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "CME 的比特币现金、uniswap 期货、全球 PMI：未来加密货币周",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
     "published": "Mon, 19 Oct 2026 09:12:39 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "比特币鲸鱼将 2013 年交易价格为 131 美元时获得的 BTC 转移了 3400 万美元",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
     "published": "Mon, 19 Oct 2026 06:23:16 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "中国GDP超出预期，比特币、韩国综合股价指数和纳斯达克期货上涨",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
     "published": "Mon, 19 Oct 2026 03:36:58 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "随着德国推出的临近，德意志银行的目标是在 2027 年扩大亚洲加密货币托管业务",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
     "published": "Mon, 19 Oct 2026 02:00:00 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "白宫加密货币主管离职：加密货币现状",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
     "published": "Sun, 18 Oct 2026 18:30:00 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "华尔街周五惊慌失措，但 VIX 和比特币交易表示，恐惧可能会在周一消退。",
@@ -114,7 +123,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
     "published": "Sun, 18 Oct 2026 16:33:00 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "随着议会改革加密货币税收，拉脱维亚计划在 2027 年支付加密货币税",
@@ -123,16 +132,25 @@
     "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
     "published": "Sun, 18 Oct 2026 16:00:00 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
-    "title": "稳定币供应停滞，但随着 Visa、Mastercard 和 Stripe 将加密货币与现金连接起来，付款额猛增 45%",
-    "original_title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
-    "published": "Sun, 18 Oct 2026 14:00:00 +0000",
+    "title": "Solana 财务公司 SkyAI 出售所有 SOL 股份，启动 2.01 亿美元的回购",
+    "original_title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 19 Oct 2026 21:04:34 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
+  },
+  {
+    "title": "Crypto PAC 向加州竞选选民投入 36.2 万美元，选民基本在 8 月决定",
+    "original_title": "Crypto PAC pours $362K into California race voters essentially decided in August",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 19 Oct 2026 20:22:41 +0000",
+    "sentiment": "市场",
+    "score": 16
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -141,16 +159,16 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 19 Oct 2026 20:02:30 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 17
   },
   {
-    "title": "市场参与者对 SEC 拟议的加密货币法规发表意见",
+    "title": "市场参与者对 SEC 拟议的加密货币法规发表看法",
     "original_title": "Market participants weigh in on SEC’s proposed crypto regulations",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 19 Oct 2026 19:54:38 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 18
   },
   {
     "title": "Visa 与 Mesh 合作，在 1.75 亿个商户地点启用加密货币支出",
@@ -159,7 +177,7 @@
     "link": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 19 Oct 2026 19:16:19 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 19
   },
   {
     "title": "万事达卡为银行和支付提供商推出稳定币风险筛查",
@@ -168,7 +186,7 @@
     "link": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 19 Oct 2026 19:03:23 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 20
   },
   {
     "title": "Revolut 获得直布罗陀加密货币许可证以支持全球扩张",
@@ -177,7 +195,7 @@
     "link": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 19 Oct 2026 17:24:49 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 21
   },
   {
     "title": "Strive 购买了 3.35 亿美元的比特币，将比特币持有量增至 36,818 个",
@@ -186,7 +204,7 @@
     "link": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 19 Oct 2026 16:30:18 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 22
   },
   {
     "title": "由于美国债券收益率随股市逆转走高，比特币在 8.3 万美元被拒绝",
@@ -195,7 +213,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 19 Oct 2026 16:05:57 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 23
   },
   {
     "title": "在加密税方面犯了“诚实”的错误？新法案提供了出路",
@@ -204,7 +222,7 @@
     "link": "https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 19 Oct 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 24
   },
   {
     "title": "Strategy 购买 2200 万美元的比特币，回购 1.93 亿美元的 STRC",
@@ -213,7 +231,7 @@
     "link": "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 19 Oct 2026 12:30:00 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 25
   },
   {
     "title": "World Liberty 的 1 美元稳定币市值在两周内缩水 4 亿美元",
@@ -222,7 +240,7 @@
     "link": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 19 Oct 2026 11:57:58 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 26
   },
   {
     "title": "法国推进稳定币税，着眼于自我托管钱包和退出税提案",
@@ -231,16 +249,16 @@
     "link": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 19 Oct 2026 10:22:30 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 27
   },
   {
-    "title": "股市反弹至关键科技股盈利：本周比特币需要了解的三件事",
+    "title": "股市反弹至关键科技股：本周比特币需要了解的三件事",
     "original_title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 19 Oct 2026 10:20:00 +0000",
     "sentiment": "市场",
-    "score": 26
+    "score": 28
   },
   {
     "title": "摩根大通为机构客户将 JPM Coin 引入以太坊：报告",
@@ -249,7 +267,7 @@
     "link": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 19 Oct 2026 08:58:45 +0000",
     "sentiment": "市场",
-    "score": 27
+    "score": 29
   },
   {
     "title": "10 月份 ETH 流出接近 1B 美元，比特币、以太坊 ETF 损失 5.49 亿美元",
@@ -258,15 +276,6 @@
     "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 19 Oct 2026 07:54:13 +0000",
     "sentiment": "市场",
-    "score": 28
-  },
-  {
-    "title": "韩国将在推迟纳税的呼声中与加密货币交易所会面",
-    "original_title": "South Korea to meet crypto exchanges amid calls for tax delay",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 19 Oct 2026 05:14:06 +0000",
-    "sentiment": "市场",
-    "score": 29
+    "score": 30
   }
 ]
