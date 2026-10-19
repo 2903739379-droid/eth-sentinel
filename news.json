@@ -1,12 +1,39 @@
 [
   {
+    "title": "比特币鲸鱼将 2013 年交易价格为 131 美元时获得的 BTC 转移了 3400 万美元",
+    "original_title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+    "published": "Mon, 19 Oct 2026 06:23:16 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "中国GDP超出预期，比特币、韩国综合股价指数和纳斯达克期货上涨",
+    "original_title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+    "published": "Mon, 19 Oct 2026 03:36:58 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "随着德国推出的临近，德意志银行的目标是在 2027 年扩大亚洲加密货币托管业务",
+    "original_title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+    "published": "Mon, 19 Oct 2026 02:00:00 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
     "title": "白宫加密货币主管离职：加密货币现状",
     "original_title": "The White House's crypto chief departs: State of Crypto",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
     "published": "Sun, 18 Oct 2026 18:30:00 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 3
   },
   {
     "title": "华尔街周五惊慌失措，但 VIX 和比特币交易表示，恐惧可能会在周一消退。",
@@ -15,7 +42,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
     "published": "Sun, 18 Oct 2026 16:33:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 4
   },
   {
     "title": "随着议会改革加密货币税收，拉脱维亚计划在 2027 年支付加密货币税",
@@ -24,7 +51,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
     "published": "Sun, 18 Oct 2026 16:00:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 5
   },
   {
     "title": "稳定币供应停滞，但随着 Visa、Mastercard 和 Stripe 将加密货币与现金连接起来，付款额猛增 45%",
@@ -33,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
     "published": "Sun, 18 Oct 2026 14:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 6
   },
   {
     "title": "由于通货膨胀给前景蒙上阴影，比特币年底有望达到 10 万美元，分析师对此存在分歧",
@@ -42,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
     "published": "Sun, 18 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 7
   },
   {
     "title": "哈肯表示，加密货币审计给投资者带来了错误的安全感，因为第三季度的黑客攻击造成了 11.8 亿美元的损失",
@@ -51,7 +78,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
     "published": "Sun, 18 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 8
   },
   {
     "title": "加密货币交易所 Binance、Coinbase 加入西非诈骗团伙，损失 1100 万美元",
@@ -60,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
     "published": "Sun, 18 Oct 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 9
   },
   {
     "title": "Circle 捍卫 USDC 经济，因为稳定币竞争对手以更大的分成来吸引其合作伙伴",
@@ -69,7 +96,7 @@
     "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
     "published": "Sun, 18 Oct 2026 01:06:35 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 10
   },
   {
     "title": "高盛、富国银行、摩根士丹利将代币化视为一种增长手段，而不是一种威胁",
@@ -78,7 +105,7 @@
     "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
     "published": "Sat, 17 Oct 2026 17:00:00 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 11
   },
   {
     "title": "国际清算银行的论文发现，银行可以通过向储户支付更多费用来减缓稳定币的增长",
@@ -87,50 +114,23 @@
     "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
     "published": "Sat, 17 Oct 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 9
-  },
-  {
-    "title": "谷歌新的 Willow 突破后，中本聪时代的比特币面临更大的量子威胁",
-    "original_title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-    "published": "Sat, 17 Oct 2026 02:30:00 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "交易者很快就能押注 Coinbase、Robinhood 和 Marathon 是否会实现他们的目标",
-    "original_title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-    "published": "Fri, 16 Oct 2026 11:15:00 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "随着全球稳定币需求增长，Circle 瞄准 40 个新市场",
-    "original_title": "Circle targets 40 new markets as stablecoin demand grows globally",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-    "published": "Fri, 16 Oct 2026 10:54:35 +0000",
-    "sentiment": "市场",
     "score": 12
-  },
-  {
-    "title": "量子联盟成立，警告 640 万比特币面临未来量子威胁",
-    "original_title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-    "published": "Fri, 16 Oct 2026 10:52:26 +0000",
-    "sentiment": "市场",
-    "score": 13
   },
   {
     "title": "这是今天加密货币领域发生的事情",
     "original_title": "Here’s what happened in crypto today",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sun, 18 Oct 2026 13:54:00 +0000",
+    "published": "Mon, 19 Oct 2026 05:48:07 +0000",
+    "sentiment": "市场",
+    "score": 13
+  },
+  {
+    "title": "韩国将在推迟纳税的呼声中与加密货币交易所会面",
+    "original_title": "South Korea to meet crypto exchanges amid calls for tax delay",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 19 Oct 2026 05:14:06 +0000",
     "sentiment": "市场",
     "score": 14
   },
@@ -214,23 +214,5 @@
     "published": "Fri, 16 Oct 2026 13:33:40 +0000",
     "sentiment": "市场",
     "score": 23
-  },
-  {
-    "title": "Solana 的刘表示上海活动因报名激增而推迟",
-    "original_title": "Solana’s Liu says Shanghai event postponed over registration surge",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 16 Oct 2026 11:22:47 +0000",
-    "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "CONNECT 回顾：流动性是代币化的下一个挑战，日常稳定币",
-    "original_title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 16 Oct 2026 10:27:18 +0000",
-    "sentiment": "市场",
-    "score": 25
   }
 ]
