@@ -1,12 +1,39 @@
 [
   {
+    "title": "Coinbase 指控暴露了比特币的公司治理缺陷",
+    "original_title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
+    "published": "Tue, 20 Oct 2026 17:02:31 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "竞争对手基金暴跌 50% 后，贝莱德寻求保护比特币投资者免受损失",
+    "original_title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
+    "published": "Tue, 20 Oct 2026 14:28:39 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "哈萨克斯坦法院禁止 Coinbase 和其他五人在阿斯塔纳国际金融中心提供未经许可的加密服务",
+    "original_title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
+    "published": "Tue, 20 Oct 2026 13:35:08 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
     "title": "微软、Alphabet 和高盛联合反对 OKX-ICE 代币化股票交易",
     "original_title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
     "published": "Tue, 20 Oct 2026 12:40:17 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 3
   },
   {
     "title": "法国议会批准投票对稳定币交易征收31%的资本利得税",
@@ -15,7 +42,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
     "published": "Tue, 20 Oct 2026 11:25:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 4
   },
   {
     "title": "在一个月来最大的 ETF 流入之后，股市疲软可能会抑制比特币的需求",
@@ -24,7 +51,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
     "published": "Tue, 20 Oct 2026 11:14:21 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 5
   },
   {
     "title": "摩根大通预计比特币的年回报率为 10%，未来十年将超过股票、债券和黄金",
@@ -33,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
     "published": "Tue, 20 Oct 2026 11:10:40 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 6
   },
   {
     "title": "亚洲芯片股暴跌，比特币跌至 81,400 美元，期权交易员寻求下行保护",
@@ -42,25 +69,25 @@
     "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
     "published": "Tue, 20 Oct 2026 10:22:55 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 7
   },
   {
-    "title": "实时更新：随着人工智能抛售的加深，市场紧张情绪持续存在",
-    "original_title": "Live updates: Market nervousness persists as the AI selloff deepens",
+    "title": "实时更新：随着股市走高，比特币减少了损失",
+    "original_title": "Live updates: Bitcoin cuts losses as stocks edge higher",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
     "published": "Tue, 20 Oct 2026 10:14:19 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 8
   },
   {
-    "title": "布伦特原油价格突破 111 美元，韩国 IPO 暴跌加剧了人工智能市场的不安",
+    "title": "布伦特原油价格突破 111 美元，韩国 IPO 暴跌加剧了人工智能市场的紧张情绪",
     "original_title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
     "published": "Tue, 20 Oct 2026 09:32:24 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 9
   },
   {
     "title": "比特币 ETF 刚刚迎来一个月来最大的一天，这完全归功于贝莱德",
@@ -69,7 +96,7 @@
     "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
     "published": "Tue, 20 Oct 2026 08:24:01 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 10
   },
   {
     "title": "Tether：参议员的调查错过了导致伊朗交易量下降的积极工作",
@@ -78,16 +105,16 @@
     "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
     "published": "Mon, 19 Oct 2026 20:21:13 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 11
   },
   {
-    "title": "Zerohash 推出了一种新工具，无需复制钱包地址即可移动加密货币",
+    "title": "Zerohash 推出了一款无需复制钱包地址即可移动加密货币的新工具",
     "original_title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
     "published": "Mon, 19 Oct 2026 14:58:40 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 12
   },
   {
     "title": "该策略的价格图表即将在比特币发出几周后发出重大看涨信号",
@@ -96,7 +123,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
     "published": "Mon, 19 Oct 2026 11:15:00 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 13
   },
   {
     "title": "实时更新：纳斯达克指数反弹超过 1%，比特币维持在 82,000 美元附近",
@@ -105,7 +132,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
     "published": "Mon, 19 Oct 2026 11:05:54 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 14
   },
   {
     "title": "随着股市反弹，比特币延续反弹至 82,000 美元上方，DeFi 代币引领山寨币上涨",
@@ -114,7 +141,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
     "published": "Mon, 19 Oct 2026 10:26:33 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 15
   },
   {
     "title": "摩根大通将代表美元存款的 JPM Coin 引入以太坊",
@@ -123,7 +150,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
     "published": "Mon, 19 Oct 2026 10:03:47 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 16
   },
   {
     "title": "由于贷款风险受到监管审查，加密货币金库存款突破 100 亿美元",
@@ -132,34 +159,43 @@
     "link": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
     "published": "Mon, 19 Oct 2026 09:32:38 +0000",
     "sentiment": "市场",
-    "score": 14
-  },
-  {
-    "title": "由于电力延迟持续到 2030 年代，比特币挖矿子公司 Nscale 失去了微软 AI 交易",
-    "original_title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
-    "published": "Mon, 19 Oct 2026 09:15:00 +0000",
-    "sentiment": "市场",
-    "score": 15
-  },
-  {
-    "title": "CME 的比特币现金、uniswap 期货、全球 PMI：未来加密货币周",
-    "original_title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
-    "published": "Mon, 19 Oct 2026 09:12:39 +0000",
-    "sentiment": "市场",
-    "score": 16
-  },
-  {
-    "title": "比特币鲸鱼将 2013 年交易价格为 131 美元时获得的 BTC 转移了 3400 万美元",
-    "original_title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-    "published": "Mon, 19 Oct 2026 06:23:16 +0000",
-    "sentiment": "市场",
     "score": 17
+  },
+  {
+    "title": "Injective，BDACS 计划韩元稳定币结算代币化资产",
+    "original_title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 20 Oct 2026 16:47:48 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "随着美国银行扩大采用，稳定币转移四倍至 $891B：报告",
+    "original_title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 20 Oct 2026 16:38:13 +0000",
+    "sentiment": "市场",
+    "score": 19
+  },
+  {
+    "title": "随着美国股市因第三季度财报上涨而油价下跌，比特币价格飙升至 8.33 万美元",
+    "original_title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 20 Oct 2026 16:14:09 +0000",
+    "sentiment": "市场",
+    "score": 20
+  },
+  {
+    "title": "FINMA 批准瑞士首个面向散户投资者的比特币 ETF",
+    "original_title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 20 Oct 2026 13:10:00 +0000",
+    "sentiment": "市场",
+    "score": 21
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -168,7 +204,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 12:50:13 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 22
   },
   {
     "title": "Drift 开发者向 Tornado Cash 发送 6100 万美元 ETH，持有 1.94 亿美元",
@@ -177,7 +213,7 @@
     "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 12:38:28 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 23
   },
   {
     "title": "Tx 推出 USTX 稳定币，将 RWA 流动性引入其链上",
@@ -186,7 +222,7 @@
     "link": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 12:30:00 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 24
   },
   {
     "title": "倡导组织称，劳埃德银行和巴克莱银行等英国银行在加密货币转账投诉中被点名",
@@ -195,7 +231,7 @@
     "link": "https://cointelegraph.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 12:13:44 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 25
   },
   {
     "title": "Netflix FTX 预告片前 30 秒“足以让我心烦意乱”：前 FTX 首席运营官",
@@ -204,7 +240,7 @@
     "link": "https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 11:23:00 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 26
   },
   {
     "title": "Bitget 计划在 3.88 亿美元黑客攻击发生几周后收购泰国加密货币交易所",
@@ -213,7 +249,7 @@
     "link": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 10:00:00 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 27
   },
   {
     "title": "摩根大通预计未来十年比特币的表现将优于美国股票和黄金",
@@ -222,7 +258,7 @@
     "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 08:54:27 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 28
   },
   {
     "title": "贝莱德申请第三个比特币 ETF，但仍没有 Solana 或 XRP",
@@ -231,7 +267,7 @@
     "link": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 08:12:57 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 29
   },
   {
     "title": "美国比特币 ETF 吸金 5.27 亿美元，创 9 月以来最大表现",
@@ -240,60 +276,6 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 05:39:20 +0000",
     "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "比特币反弹可能会重振国债购买，但宽松货币时代已经结束",
-    "original_title": "Bitcoin rally could revive treasury buying, but easy-money days over",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 01:35:00 +0000",
-    "sentiment": "市场",
-    "score": 27
-  },
-  {
-    "title": "Solana 财务公司 SkyAI 出售所有 SOL 股份，启动 2.01 亿美元的回购",
-    "original_title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 19 Oct 2026 21:04:34 +0000",
-    "sentiment": "市场",
-    "score": 28
-  },
-  {
-    "title": "Crypto PAC 向加州竞选选民投入 36.2 万美元，选民基本在 8 月决定",
-    "original_title": "Crypto PAC pours $362K into California race voters essentially decided in August",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 19 Oct 2026 20:22:41 +0000",
-    "sentiment": "市场",
-    "score": 29
-  },
-  {
-    "title": "市场参与者对 SEC 拟议的加密货币法规发表看法",
-    "original_title": "Market participants weigh in on SEC’s proposed crypto regulations",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 19 Oct 2026 19:54:38 +0000",
-    "sentiment": "市场",
     "score": 30
-  },
-  {
-    "title": "Visa 与 Mesh 合作，在 1.75 亿个商户地点启用加密货币支出",
-    "original_title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 19 Oct 2026 19:16:19 +0000",
-    "sentiment": "市场",
-    "score": 31
-  },
-  {
-    "title": "万事达卡为银行和支付提供商推出稳定币风险筛查",
-    "original_title": "Mastercard launches stablecoin risk screening for banks and payment providers",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 19 Oct 2026 19:03:23 +0000",
-    "sentiment": "市场",
-    "score": 32
   }
 ]
