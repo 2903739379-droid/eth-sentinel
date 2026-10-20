@@ -18,7 +18,7 @@
     "score": 1
   },
   {
-    "title": "哈萨克斯坦法院禁止 Coinbase 和其他五人在阿斯塔纳国际金融中心提供未经许可的加密服务",
+    "title": "哈萨克斯坦法院禁止 Coinbase 等五人在阿斯塔纳国际金融中心提供未经许可的加密货币服务",
     "original_title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
@@ -81,7 +81,7 @@
     "score": 8
   },
   {
-    "title": "布伦特原油价格突破 111 美元，韩国 IPO 暴跌加剧了人工智能市场的紧张情绪",
+    "title": "布伦特原油价格突破 111 美元，韩国 IPO 暴跌加剧了人工智能市场的不安",
     "original_title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
@@ -108,7 +108,7 @@
     "score": 11
   },
   {
-    "title": "Zerohash 推出了一款无需复制钱包地址即可移动加密货币的新工具",
+    "title": "Zerohash 推出了一种新工具，无需复制钱包地址即可移动加密货币",
     "original_title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
@@ -153,13 +153,31 @@
     "score": 16
   },
   {
-    "title": "由于贷款风险受到监管审查，加密货币金库存款突破 100 亿美元",
-    "original_title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
-    "published": "Mon, 19 Oct 2026 09:32:38 +0000",
+    "title": "Crypto 2026 年关闭浪潮导致 82 个项目被关闭。出了什么问题？",
+    "original_title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 20 Oct 2026 19:59:39 +0000",
     "sentiment": "市场",
     "score": 17
+  },
+  {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 20 Oct 2026 19:17:40 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "Strive 完成 6.3 亿美元 SATS IPO，未指定比特币配置",
+    "original_title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 20 Oct 2026 17:40:00 +0000",
+    "sentiment": "市场",
+    "score": 19
   },
   {
     "title": "Injective，BDACS 计划韩元稳定币结算代币化资产",
@@ -168,7 +186,7 @@
     "link": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 16:47:48 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 20
   },
   {
     "title": "随着美国银行扩大采用，稳定币转移四倍至 $891B：报告",
@@ -177,7 +195,7 @@
     "link": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 16:38:13 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 21
   },
   {
     "title": "随着美国股市因第三季度财报上涨而油价下跌，比特币价格飙升至 8.33 万美元",
@@ -186,7 +204,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 16:14:09 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 22
   },
   {
     "title": "FINMA 批准瑞士首个面向散户投资者的比特币 ETF",
@@ -195,16 +213,7 @@
     "link": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 13:10:00 +0000",
     "sentiment": "市场",
-    "score": 21
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 12:50:13 +0000",
-    "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
     "title": "Drift 开发者向 Tornado Cash 发送 6100 万美元 ETH，持有 1.94 亿美元",
@@ -213,7 +222,7 @@
     "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 12:38:28 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 24
   },
   {
     "title": "Tx 推出 USTX 稳定币，将 RWA 流动性引入其链上",
@@ -222,7 +231,7 @@
     "link": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 12:30:00 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 25
   },
   {
     "title": "倡导组织称，劳埃德银行和巴克莱银行等英国银行在加密货币转账投诉中被点名",
@@ -231,7 +240,7 @@
     "link": "https://cointelegraph.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 12:13:44 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 26
   },
   {
     "title": "Netflix FTX 预告片前 30 秒“足以让我心烦意乱”：前 FTX 首席运营官",
@@ -240,7 +249,7 @@
     "link": "https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 11:23:00 +0000",
     "sentiment": "市场",
-    "score": 26
+    "score": 27
   },
   {
     "title": "Bitget 计划在 3.88 亿美元黑客攻击发生几周后收购泰国加密货币交易所",
@@ -249,7 +258,7 @@
     "link": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 10:00:00 +0000",
     "sentiment": "市场",
-    "score": 27
+    "score": 28
   },
   {
     "title": "摩根大通预计未来十年比特币的表现将优于美国股票和黄金",
@@ -258,7 +267,7 @@
     "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 08:54:27 +0000",
     "sentiment": "市场",
-    "score": 28
+    "score": 29
   },
   {
     "title": "贝莱德申请第三个比特币 ETF，但仍没有 Solana 或 XRP",
@@ -266,15 +275,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 08:12:57 +0000",
-    "sentiment": "市场",
-    "score": 29
-  },
-  {
-    "title": "美国比特币 ETF 吸金 5.27 亿美元，创 9 月以来最大表现",
-    "original_title": "US Bitcoin ETFs draw $527M in biggest showing since September",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 05:39:20 +0000",
     "sentiment": "市场",
     "score": 30
   }
