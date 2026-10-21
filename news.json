@@ -72,8 +72,8 @@
     "score": 7
   },
   {
-    "title": "实时更新：随着 SpaceX 引领市场走高，比特币升至 84,000 美元",
-    "original_title": "Live updates: Bitcoin rises to $84,000 as SpaceX leads markets higher",
+    "title": "实时更新：随着中东担忧重新浮现，比特币保持在 84,000 美元以上",
+    "original_title": "Live updates: Bitcoin holds above $84,000 as Middle East worries resurface",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
     "published": "Wed, 21 Oct 2026 10:30:40 +0000",
@@ -126,13 +126,49 @@
     "score": 13
   },
   {
+    "title": "Tether 支持玻利维亚金融科技将 USDT 支付引入食品配送和银行业务",
+    "original_title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 20:26:07 +0000",
+    "sentiment": "市场",
+    "score": 14
+  },
+  {
+    "title": "特朗普在白宫网络犯罪圆桌会议上一次没有提到“加密货币”",
+    "original_title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 20:19:39 +0000",
+    "sentiment": "市场",
+    "score": 15
+  },
+  {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 20:10:47 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
+    "title": "卡尔达诺基金会敦促欧盟不要将 MiCA 规则扩大到 DeFi 和 stake",
+    "original_title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 17:57:39 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
     "title": "英国金融监管机构就 DeFi 指南和加密法展开磋商",
     "original_title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 17:25:00 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 18
   },
   {
     "title": "Chainlink、Cardano 和其他区块链组织推动 SEC 制定更清晰的加密规则",
@@ -141,7 +177,7 @@
     "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 16:09:26 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 19
   },
   {
     "title": "SpaceX 第三季度盈利好转，美国股市走高，比特币价格达到 8.46 万美元",
@@ -150,7 +186,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 15:13:17 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 20
   },
   {
     "title": "Solana 的 Alpenglow 在主网上发布，目标最终确定速度提高 99%",
@@ -159,16 +195,7 @@
     "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 13:57:14 +0000",
     "sentiment": "市场",
-    "score": 17
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 21 Oct 2026 13:34:54 +0000",
-    "sentiment": "市场",
-    "score": 18
+    "score": 21
   },
   {
     "title": "CertiK 警告称，大型科技公司的 eMudhra 修复可能会让加密机器人暴露在外",
@@ -177,7 +204,7 @@
     "link": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 13:31:39 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 22
   },
   {
     "title": "Ledger 存储比特币的 5 种替代方案",
@@ -186,7 +213,7 @@
     "link": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 23
   },
   {
     "title": "OCC 最终确定稳定币发行人和托管的 GENIUS Act 规则",
@@ -195,7 +222,7 @@
     "link": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 12:26:58 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 24
   },
   {
     "title": "渣打银行签署收购 Zodia Custody 的最终协议",
@@ -204,7 +231,7 @@
     "link": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 12:06:23 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 25
   },
   {
     "title": "法国提议对提供 DeFi 访问权限的加密货币交易所承担责任",
@@ -213,16 +240,16 @@
     "link": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 10:46:00 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 26
   },
   {
-    "title": "比特币“顶级买家”阻止 BTC 价格上涨，目前关键是 8.77 万美元：Glassnode",
+    "title": "比特币“最大买家”阻止 BTC 价格上涨，目前关键是 8.77 万美元：Glassnode",
     "original_title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 10:39:13 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 27
   },
   {
     "title": "新韩银行、SBI 将日韩游客消费作为日元稳定币的测试案例",
@@ -231,7 +258,7 @@
     "link": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 10:22:44 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 28
   },
   {
     "title": "Drift 漏洞利用者在 2 天内向 Tornado Cash 发送了 1.09 亿美元的以太币",
@@ -240,7 +267,7 @@
     "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 10:13:52 +0000",
     "sentiment": "市场",
-    "score": 26
+    "score": 29
   },
   {
     "title": "以太坊 ETF 资金持续流出，10 月份迄今已突破 1B 美元",
@@ -249,6 +276,6 @@
     "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 08:11:50 +0000",
     "sentiment": "市场",
-    "score": 27
+    "score": 30
   }
 ]
