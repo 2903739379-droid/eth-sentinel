@@ -1,12 +1,39 @@
 [
   {
+    "title": "特朗普将在白宫活动中重点关注海外加密货币滥用行为",
+    "original_title": "Trump to throw spotlight on overseas crypto abuses at White House event",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
+    "published": "Wed, 21 Oct 2026 16:23:44 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "在 3000 万美元的 Sui 交易之后，a16z 支持的 DATA 如何重新考虑其区块链战略",
+    "original_title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
+    "published": "Wed, 21 Oct 2026 15:22:46 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "加密多空：为什么现实世界的资产需要链上固定利率贷款",
+    "original_title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+    "published": "Wed, 21 Oct 2026 15:00:53 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
     "title": "为什么中心化交易所拒绝列出没有明确 SEC 豁免权的遗留加密代币",
     "original_title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
     "published": "Wed, 21 Oct 2026 12:12:36 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 3
   },
   {
     "title": "根据新韩银行-SBI 协议，日本游客可能可以在韩国使用日元稳定币付款",
@@ -15,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
     "published": "Wed, 21 Oct 2026 12:10:39 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 4
   },
   {
     "title": "随着“只押注价格”时代的消逝，比特币风险管理变得越来越受欢迎",
@@ -24,7 +51,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
     "published": "Wed, 21 Oct 2026 11:15:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 5
   },
   {
     "title": "OCC 的最终规则将重新开始权衡稳定币奖励与 GENIUS 法案禁令",
@@ -33,7 +60,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
     "published": "Wed, 21 Oct 2026 11:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 6
   },
   {
     "title": "加密货币随亚洲科技股上涨，zcash 在设定升级日期后扩大涨幅",
@@ -42,16 +69,16 @@
     "link": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
     "published": "Wed, 21 Oct 2026 10:34:37 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 7
   },
   {
-    "title": "实时更新：随着 SpaceX 业绩、特斯拉可能合并提振市场，比特币升至 83,000 美元以上",
-    "original_title": "Live updates: Bitcoin rises above $83,000 as SpaceX results, possible Tesla merger, lift markets",
+    "title": "实时更新：随着 SpaceX 引领市场走高，比特币升至 84,000 美元",
+    "original_title": "Live updates: Bitcoin rises to $84,000 as SpaceX leads markets higher",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
     "published": "Wed, 21 Oct 2026 10:30:40 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 8
   },
   {
     "title": "SpaceX 和 Tesla 探索合并，合并超过 30,000 个比特币",
@@ -60,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
     "published": "Wed, 21 Oct 2026 09:23:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 9
   },
   {
     "title": "Tether 领投人工智能支付初创公司 Mural 一轮 1500 万美元融资",
@@ -69,7 +96,7 @@
     "link": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
     "published": "Wed, 21 Oct 2026 08:47:11 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 10
   },
   {
     "title": "Ripple 让华尔街进行 24/7 股票押注，但汇丰银行警告市场仍然清淡",
@@ -78,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
     "published": "Wed, 21 Oct 2026 05:25:57 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 11
   },
   {
     "title": "Solana 的 Alpenglow 是自 2020 年以来最大的网络检修，周三上线",
@@ -87,7 +114,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
     "published": "Wed, 21 Oct 2026 04:35:52 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 12
   },
   {
     "title": "随着人工智能收益重振科技，比特币徘徊在 83,000 美元左右，ZEC 上涨 11%",
@@ -96,34 +123,70 @@
     "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
     "published": "Wed, 21 Oct 2026 04:07:07 +0000",
     "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "Coinbase 指控暴露了比特币的公司治理缺陷",
-    "original_title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
-    "published": "Tue, 20 Oct 2026 17:02:31 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "竞争对手基金暴跌 50% 后，贝莱德寻求保护比特币投资者免受损失",
-    "original_title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
-    "published": "Tue, 20 Oct 2026 14:28:39 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "哈萨克斯坦法院禁止 Coinbase 和其他五人在阿斯塔纳国际金融中心提供未经许可的加密服务",
-    "original_title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
-    "published": "Tue, 20 Oct 2026 13:35:08 +0000",
-    "sentiment": "市场",
     "score": 13
+  },
+  {
+    "title": "英国金融监管机构就 DeFi 指南和加密法展开磋商",
+    "original_title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 17:25:00 +0000",
+    "sentiment": "市场",
+    "score": 14
+  },
+  {
+    "title": "Chainlink、Cardano 和其他区块链组织推动 SEC 制定更清晰的加密规则",
+    "original_title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 16:09:26 +0000",
+    "sentiment": "市场",
+    "score": 15
+  },
+  {
+    "title": "SpaceX 第三季度盈利好转，美国股市走高，比特币价格达到 8.46 万美元",
+    "original_title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 15:13:17 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
+    "title": "Solana 的 Alpenglow 在主网上发布，目标最终确定速度提高 99%",
+    "original_title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 13:57:14 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 13:34:54 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "CertiK 警告称，大型科技公司的 eMudhra 修复可能会让加密机器人暴露在外",
+    "original_title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 13:31:39 +0000",
+    "sentiment": "市场",
+    "score": 19
+  },
+  {
+    "title": "Ledger 存储比特币的 5 种替代方案",
+    "original_title": "5 alternatives to Ledger to store your Bitcoin",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 13:30:00 +0000",
+    "sentiment": "市场",
+    "score": 20
   },
   {
     "title": "OCC 最终确定稳定币发行人和托管的 GENIUS Act 规则",
@@ -132,7 +195,7 @@
     "link": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 12:26:58 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 21
   },
   {
     "title": "渣打银行签署收购 Zodia Custody 的最终协议",
@@ -141,7 +204,7 @@
     "link": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 12:06:23 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 22
   },
   {
     "title": "法国提议对提供 DeFi 访问权限的加密货币交易所承担责任",
@@ -150,16 +213,16 @@
     "link": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 10:46:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 23
   },
   {
-    "title": "比特币“最大买家”阻止 BTC 价格上涨，目前关键是 8.77 万美元：Glassnode",
+    "title": "比特币“顶级买家”阻止 BTC 价格上涨，目前关键是 8.77 万美元：Glassnode",
     "original_title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 10:39:13 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 24
   },
   {
     "title": "新韩银行、SBI 将日韩游客消费作为日元稳定币的测试案例",
@@ -168,7 +231,7 @@
     "link": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 10:22:44 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 25
   },
   {
     "title": "Drift 漏洞利用者在 2 天内向 Tornado Cash 发送了 1.09 亿美元的以太币",
@@ -177,7 +240,7 @@
     "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 10:13:52 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 26
   },
   {
     "title": "以太坊 ETF 资金持续流出，10 月份迄今已突破 1B 美元",
@@ -186,60 +249,6 @@
     "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 08:11:50 +0000",
     "sentiment": "市场",
-    "score": 20
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 21 Oct 2026 06:00:00 +0000",
-    "sentiment": "市场",
-    "score": 21
-  },
-  {
-    "title": "犹他州股份公司起诉卡尔希，寻求预测市场公司的利润",
-    "original_title": "Utah AG sues Kalshi, pursues profits from prediction market company",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 21:19:15 +0000",
-    "sentiment": "市场",
-    "score": 22
-  },
-  {
-    "title": "Crypto 2026 年关闭浪潮导致 82 个项目被关闭。出了什么问题？",
-    "original_title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 19:59:39 +0000",
-    "sentiment": "市场",
-    "score": 23
-  },
-  {
-    "title": "Strive 完成 6.3 亿美元 SATS IPO，未指定比特币配置",
-    "original_title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 17:40:00 +0000",
-    "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "Injective，BDACS 计划韩元稳定币结算代币化资产",
-    "original_title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 16:47:48 +0000",
-    "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "随着美国银行扩大采用，稳定币转移四倍至 $891B：报告",
-    "original_title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 16:38:13 +0000",
-    "sentiment": "市场",
-    "score": 26
+    "score": 27
   }
 ]
