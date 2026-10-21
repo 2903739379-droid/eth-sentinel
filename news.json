@@ -1,12 +1,39 @@
 [
   {
+    "title": "Ripple 让华尔街进行 24/7 股票押注，但汇丰银行警告市场仍然清淡",
+    "original_title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+    "published": "Wed, 21 Oct 2026 05:25:57 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "Solana 的 Alpenglow 是自 2020 年以来最大的网络检修，周三上线",
+    "original_title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+    "published": "Wed, 21 Oct 2026 04:35:52 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "随着人工智能收益重振科技，比特币徘徊在 83,000 美元左右，ZEC 上涨 11%",
+    "original_title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+    "published": "Wed, 21 Oct 2026 04:07:07 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
     "title": "Coinbase 指控暴露了比特币的公司治理缺陷",
     "original_title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
     "published": "Tue, 20 Oct 2026 17:02:31 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 3
   },
   {
     "title": "竞争对手基金暴跌 50% 后，贝莱德寻求保护比特币投资者免受损失",
@@ -15,16 +42,16 @@
     "link": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
     "published": "Tue, 20 Oct 2026 14:28:39 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 4
   },
   {
-    "title": "哈萨克斯坦法院禁止 Coinbase 等五人在阿斯塔纳国际金融中心提供未经许可的加密货币服务",
+    "title": "哈萨克斯坦法院禁止 Coinbase 和其他五人在阿斯塔纳国际金融中心提供未经许可的加密服务",
     "original_title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
     "published": "Tue, 20 Oct 2026 13:35:08 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 5
   },
   {
     "title": "微软、Alphabet 和高盛联合反对 OKX-ICE 代币化股票交易",
@@ -33,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
     "published": "Tue, 20 Oct 2026 12:40:17 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 6
   },
   {
     "title": "法国议会批准投票对稳定币交易征收31%的资本利得税",
@@ -42,7 +69,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
     "published": "Tue, 20 Oct 2026 11:25:00 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 7
   },
   {
     "title": "在一个月来最大的 ETF 流入之后，股市疲软可能会抑制比特币的需求",
@@ -51,7 +78,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
     "published": "Tue, 20 Oct 2026 11:14:21 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 8
   },
   {
     "title": "摩根大通预计比特币的年回报率为 10%，未来十年将超过股票、债券和黄金",
@@ -60,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
     "published": "Tue, 20 Oct 2026 11:10:40 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 9
   },
   {
     "title": "亚洲芯片股暴跌，比特币跌至 81,400 美元，期权交易员寻求下行保护",
@@ -69,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
     "published": "Tue, 20 Oct 2026 10:22:55 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 10
   },
   {
     "title": "实时更新：随着股市走高，比特币减少了损失",
@@ -78,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
     "published": "Tue, 20 Oct 2026 10:14:19 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 11
   },
   {
     "title": "布伦特原油价格突破 111 美元，韩国 IPO 暴跌加剧了人工智能市场的紧张情绪",
@@ -87,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
     "published": "Tue, 20 Oct 2026 09:32:24 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 12
   },
   {
     "title": "比特币 ETF 刚刚迎来一个月来最大的一天，这完全归功于贝莱德",
@@ -96,7 +123,7 @@
     "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
     "published": "Tue, 20 Oct 2026 08:24:01 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 13
   },
   {
     "title": "Tether：参议员的调查错过了导致伊朗交易量下降的积极工作",
@@ -105,43 +132,25 @@
     "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
     "published": "Mon, 19 Oct 2026 20:21:13 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 14
   },
   {
-    "title": "Zerohash 推出了一种新工具，无需复制钱包地址即可移动加密货币",
+    "title": "Zerohash 推出了一款无需复制钱包地址即可移动加密货币的新工具",
     "original_title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
     "published": "Mon, 19 Oct 2026 14:58:40 +0000",
     "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "该策略的价格图表即将在比特币发出几周后发出重大看涨信号",
-    "original_title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
-    "published": "Mon, 19 Oct 2026 11:15:00 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "实时更新：纳斯达克指数反弹超过 1%，比特币维持在 82,000 美元附近",
-    "original_title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
-    "published": "Mon, 19 Oct 2026 11:05:54 +0000",
-    "sentiment": "市场",
-    "score": 14
-  },
-  {
-    "title": "随着股市反弹，比特币延续反弹至 82,000 美元上方，DeFi 代币引领山寨币上涨",
-    "original_title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
-    "published": "Mon, 19 Oct 2026 10:26:33 +0000",
-    "sentiment": "市场",
     "score": 15
+  },
+  {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 06:00:00 +0000",
+    "sentiment": "市场",
+    "score": 16
   },
   {
     "title": "犹他州股份公司起诉卡尔希，寻求预测市场公司的利润",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 21:19:15 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "Crypto 2026 年关闭浪潮导致 82 个项目被关闭。出了什么问题？",
@@ -158,15 +167,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 20 Oct 2026 19:59:39 +0000",
-    "sentiment": "市场",
-    "score": 17
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 19:17:40 +0000",
     "sentiment": "市场",
     "score": 18
   },
