@@ -1,12 +1,21 @@
 [
   {
-    "title": "A16z 是最新一家将赌注从加密领域扩大到人工智能和新兴技术的风险投资巨头",
+    "title": "参议院民主党首席调查员正在调查 Tether 向 Bo Hines 的公司付款的情况",
+    "original_title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+    "published": "Thu, 22 Oct 2026 22:43:36 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "A16z 是最新一家将赌注扩大到加密货币之外、进入人工智能和新兴技术领域的风险投资巨头",
     "original_title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
     "published": "Thu, 22 Oct 2026 18:30:57 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "顾问的加密货币：稳定币已准备好迎接黄金时段",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
     "published": "Thu, 22 Oct 2026 14:58:31 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "加密货币托管专家 Fireblocks 否认正在与 Visa 洽谈收购事宜",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
     "published": "Thu, 22 Oct 2026 14:37:12 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "加密货币在美国选举中引起轰动，但主要是针对行业影响力的攻击",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
     "published": "Thu, 22 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "以太坊的四分钟结算计划可以降低转移加密货币的成本",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
     "published": "Thu, 22 Oct 2026 12:14:29 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "随着山寨币下滑和 ETF 流动性波动，加密货币交易者寻求比特币庇护",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
     "published": "Thu, 22 Oct 2026 11:20:04 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "人工智能回归疑虑，比特币跌破 82,000 美元，DeFi 代币领跌",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
     "published": "Thu, 22 Oct 2026 10:50:04 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "加密货币交易商对印度电信公司 Reliance Jio 的 IPO 定价约为 1100 亿美元",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
     "published": "Thu, 22 Oct 2026 10:18:28 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "实时更新：比特币回落至 81,000 美元，利率随着股市崩盘而暴跌",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
     "published": "Thu, 22 Oct 2026 09:54:26 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "随着中国进入熊市，亚洲股市暴跌，比特币回落",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
     "published": "Thu, 22 Oct 2026 08:49:08 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Solana 自 2020 年以来最大的网络变革已经上线。以下是用户如何受益",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
     "published": "Thu, 22 Oct 2026 05:24:58 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "比特币 ETF 在 3 天内吸引了 10.8 亿美元，但这可能不足以大幅反弹",
@@ -105,16 +114,16 @@
     "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
     "published": "Thu, 22 Oct 2026 04:41:59 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
-    "title": "特斯拉和 Meta 未能平息人工智能神经，比特币回升至 85,000 美元",
+    "title": "特斯拉和 Meta 未能安抚人工智能神经，比特币回升至 85,000 美元",
     "original_title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
     "published": "Thu, 22 Oct 2026 03:51:34 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "特朗普将在白宫活动中重点关注海外加密货币滥用行为",
@@ -123,7 +132,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
     "published": "Wed, 21 Oct 2026 16:23:44 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "在 3000 万美元的 Sui 交易之后，a16z 支持的 DATA 如何重新考虑其区块链战略",
@@ -132,16 +141,25 @@
     "link": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
     "published": "Wed, 21 Oct 2026 15:22:46 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
-    "title": "加密多空：为什么现实世界的资产需要链上固定利率贷款",
-    "original_title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-    "published": "Wed, 21 Oct 2026 15:00:53 +0000",
+    "title": "五角大楼禁止美军利用军事信息在预测市场下注",
+    "original_title": "Pentagon bans US forces from using military info to bet in prediction markets",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 22 Oct 2026 23:50:42 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
+  },
+  {
+    "title": "美国新的 DeepSeek 禁令加深了瑞士与亚洲的加密货币关系：亚洲快报",
+    "original_title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 22 Oct 2026 22:50:22 +0000",
+    "sentiment": "市场",
+    "score": 17
   },
   {
     "title": "Circle 股东就加密交易起诉特朗普、World Liberty 和 Steve Witkoff",
@@ -150,7 +168,7 @@
     "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 21:39:18 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 18
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -159,7 +177,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 20:09:59 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 19
   },
   {
     "title": "Underdog 利用 Zerohash 将加密存款带入预测市场",
@@ -168,7 +186,7 @@
     "link": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 17:24:49 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 20
   },
   {
     "title": "由于人工智能的转变未能缓解采矿竞争，比特币算力创下七个月新高",
@@ -177,7 +195,7 @@
     "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 16:50:51 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 21
   },
   {
     "title": "特朗普伊朗言论导致股市走低，比特币 ETF 成本基础接近 8.15 万美元",
@@ -186,7 +204,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 16:20:35 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 22
   },
   {
     "title": "CryptoQuant首席执行官称比特币算力上升是来自机构的“间接看涨信号”",
@@ -195,7 +213,7 @@
     "link": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 13:42:34 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 23
   },
   {
     "title": "泰国 SEC 称多家公司关注加密 ETF，但尚未申请",
@@ -204,16 +222,16 @@
     "link": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 13:20:57 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 24
   },
   {
-    "title": "SoFi 推出银行为有收益的加密基金发行的代币化存款",
+    "title": "SoFi 推出银行发行的用于收益加密基金的代币化存款",
     "original_title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 13:13:45 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 25
   },
   {
     "title": "DWF 实验室表示，比特币 ETF 买家是趋势追随者，而不是制定者",
@@ -222,7 +240,7 @@
     "link": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 26
   },
   {
     "title": "英国需要一条可行的途径来监管 DeFi 访问",
@@ -231,7 +249,7 @@
     "link": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 27
   },
   {
     "title": "特斯拉第三季度业绩公布后，比特币回调至 8.2 万美元下方，KOSPI 下跌",
@@ -240,7 +258,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 10:38:51 +0000",
     "sentiment": "市场",
-    "score": 26
+    "score": 28
   },
   {
     "title": "Starknet 选民支持对以太坊之外的生活进行研究",
@@ -248,24 +266,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 09:37:54 +0000",
-    "sentiment": "市场",
-    "score": 27
-  },
-  {
-    "title": "比特币 ETF 又收获 5.28 亿美元，3 天涨幅超过 10 亿美元",
-    "original_title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 22 Oct 2026 07:37:32 +0000",
-    "sentiment": "市场",
-    "score": 28
-  },
-  {
-    "title": "超越模因币：加密“模因游戏”即将到来，包袋者等等",
-    "original_title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 22 Oct 2026 05:35:38 +0000",
     "sentiment": "市场",
     "score": 29
   }
