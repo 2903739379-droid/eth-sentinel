@@ -27,7 +27,7 @@
     "score": 2
   },
   {
-    "title": "实时更新：随着油价触及六个月高点，比特币保持在 81,000 美元以上",
+    "title": "实时更新：随着油价触及六个月高点，比特币保持在 81,000 美元上方",
     "original_title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
@@ -99,7 +99,7 @@
     "score": 10
   },
   {
-    "title": "参议院民主党首席调查员正在调查 Tether 向博·海因斯公司支付的款项",
+    "title": "参议院民主党首席调查员正在调查 Tether 向 Bo Hines 的公司付款的情况",
     "original_title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
@@ -153,13 +153,40 @@
     "score": 16
   },
   {
+    "title": "美国参议员在报道与前特朗普加密货币顾问达成交易后对 Tether 进行调查",
+    "original_title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 23 Oct 2026 17:42:12 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
+    "title": "SEC 将代币化标记为 2027 年市场检查的高风险领域",
+    "original_title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 23 Oct 2026 16:08:40 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "随着布伦特原油触及 3 月份以来的最高水平，比特币寻求 8.1 万美元上方的支撑",
+    "original_title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 23 Oct 2026 15:39:17 +0000",
+    "sentiment": "市场",
+    "score": 19
+  },
+  {
     "title": "这是今天加密货币领域发生的事情",
     "original_title": "Here’s what happened in crypto today",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 13:38:53 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 20
   },
   {
     "title": "由于人工智能担忧引发股市新一轮疲软，比特币下跌 3% 后盘整",
@@ -168,7 +195,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 12:23:58 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 21
   },
   {
     "title": "加密货币自我托管是为初学者设计的吗？",
@@ -177,7 +204,7 @@
     "link": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 11:47:47 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 22
   },
   {
     "title": "汇丰银行推出用于零售支付的港元稳定币",
@@ -186,7 +213,7 @@
     "link": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 08:47:34 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 23
   },
   {
     "title": "马来西亚、泰国加入新加坡跨境稳定币推广计划",
@@ -195,7 +222,7 @@
     "link": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 07:15:53 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 24
   },
   {
     "title": "10 月份比特币 ETF 亏损 6.35 亿美元",
@@ -204,7 +231,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 07:09:39 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 25
   },
   {
     "title": "以太坊因安全风险推迟 Glamsterdam Hoodi 测试网启动",
@@ -213,7 +240,7 @@
     "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 05:09:41 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 26
   },
   {
     "title": "比特币核心改变了安全政策，因为人工智能使错误更容易被发现",
@@ -222,7 +249,7 @@
     "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 04:34:14 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 27
   },
   {
     "title": "瑞士首只零售现货比特币 ETF 计划于 11 月推出",
@@ -231,7 +258,7 @@
     "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 00:59:35 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 28
   },
   {
     "title": "五角大楼禁止美军利用军事信息在预测市场下注",
@@ -240,7 +267,7 @@
     "link": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 23:50:42 +0000",
     "sentiment": "市场",
-    "score": 26
+    "score": 29
   },
   {
     "title": "美国新的 DeepSeek 禁令加深了瑞士与亚洲的加密货币关系：亚洲快报",
@@ -249,7 +276,7 @@
     "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 22:50:22 +0000",
     "sentiment": "市场",
-    "score": 27
+    "score": 30
   },
   {
     "title": "Circle 股东就加密交易起诉特朗普、World Liberty 和 Steve Witkoff",
@@ -258,24 +285,6 @@
     "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 22 Oct 2026 21:39:18 +0000",
     "sentiment": "市场",
-    "score": 28
-  },
-  {
-    "title": "Underdog 利用 Zerohash 将加密存款带入预测市场",
-    "original_title": "Underdog taps zerohash to bring crypto deposits to prediction markets",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 22 Oct 2026 17:24:49 +0000",
-    "sentiment": "市场",
-    "score": 29
-  },
-  {
-    "title": "由于人工智能的转变未能缓解采矿竞争，比特币算力创下七个月新高",
-    "original_title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 22 Oct 2026 16:50:51 +0000",
-    "sentiment": "市场",
-    "score": 30
+    "score": 31
   }
 ]
