@@ -63,8 +63,8 @@
     "score": 6
   },
   {
-    "title": "实时新闻：Anthropic IPO 提交后，科技股上涨，比特币价格接近 80,000 美元",
-    "original_title": "Live news: Bitcoin sits near $80,000 as tech rallies following Anthropic IPO filing",
+    "title": "现场新闻：Anthropic IPO 申请后股市上涨，比特币跌破 80,000 美元",
+    "original_title": "Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
     "published": "Mon, 26 Oct 2026 11:05:31 +0000",
@@ -135,13 +135,40 @@
     "score": 14
   },
   {
+    "title": "美国 OCC 呼吁社区银行成为支付稳定币发行机构",
+    "original_title": "US OCC calls on community banks to become payment stablecoin issuers",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 26 Oct 2026 21:38:30 +0000",
+    "sentiment": "市场",
+    "score": 15
+  },
+  {
+    "title": "Injective 推出追踪 Nvidia GPU 租赁成本的链上期货市场",
+    "original_title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 26 Oct 2026 21:23:32 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
+    "title": "加拿大援引美国天才法案开启稳定币咨询",
+    "original_title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 26 Oct 2026 19:47:40 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
     "title": "NBA 指定 Kalshi、Polymarket 首选交易所并签署 CFTC 协议",
     "original_title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 26 Oct 2026 17:46:09 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 18
   },
   {
     "title": "韩国立法者考虑将加密税实施推迟至 2029 年",
@@ -150,7 +177,7 @@
     "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 26 Oct 2026 16:18:09 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 19
   },
   {
     "title": "Strategy 跳过比特币购买，花费 2.05 亿美元回购 STRC",
@@ -159,7 +186,7 @@
     "link": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 26 Oct 2026 13:27:38 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 20
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -168,7 +195,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 26 Oct 2026 13:26:47 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 21
   },
   {
     "title": "HOOD 预测市场收入将在 2028 年增加 1.7B 美元，超过加密货币：Bernstein",
@@ -177,7 +204,7 @@
     "link": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 26 Oct 2026 13:12:41 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 22
   },
   {
     "title": "BTC 价格面临 FOMC 损失 8 万美元的风险，财报：本周比特币需要了解的三件事",
@@ -186,7 +213,7 @@
     "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 26 Oct 2026 10:49:55 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 23
   },
   {
     "title": "比特币 ETF 反弹 3.01 亿美元，打破两周流出记录",
@@ -195,7 +222,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 26 Oct 2026 08:20:49 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 24
   },
   {
     "title": "香港将纳斯达克上市的 Solana 公司列为战略企业",
@@ -204,7 +231,7 @@
     "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 26 Oct 2026 03:21:26 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 25
   },
   {
     "title": "渣打银行牵头的 Anchorpoint 表示不会急于推出零售稳定币",
@@ -213,7 +240,7 @@
     "link": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 26 Oct 2026 00:13:29 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 26
   },
   {
     "title": "人工智能代理帮助拯救 ETH 的 Glamsterdam 分叉，“窃取我的比特币”网站：霍德勒文摘",
@@ -222,6 +249,6 @@
     "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sun, 25 Oct 2026 22:48:40 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 27
   }
 ]
