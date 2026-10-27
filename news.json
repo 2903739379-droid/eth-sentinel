@@ -1,12 +1,84 @@
 [
   {
+    "title": "比特币矿工进军人工智能领域正在创造一个新的计算能力交易市场",
+    "original_title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
+    "published": "Tue, 27 Oct 2026 13:13:50 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "比特币显示疲软迹象，而 Ripple 的银行胜利未能提振 XRP",
+    "original_title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+    "published": "Tue, 27 Oct 2026 12:00:39 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "实时更新：随着人工智能的建设吸引投资者的注意力和资本，比特币保持在 80,000 美元以下",
+    "original_title": "Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
+    "published": "Tue, 27 Oct 2026 11:40:50 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
+    "title": "日本顶级日元稳定币在令人失望的第一年未能达到目标",
+    "original_title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
+    "published": "Tue, 27 Oct 2026 11:37:52 +0000",
+    "sentiment": "市场",
+    "score": 3
+  },
+  {
+    "title": "美联储会议开始，加密货币忽视亚洲科技股反弹，比特币跌破 80,000 美元",
+    "original_title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+    "published": "Tue, 27 Oct 2026 11:32:45 +0000",
+    "sentiment": "市场",
+    "score": 4
+  },
+  {
+    "title": "加密钱包制造商 Keystone 在安全漏洞后销毁近 19,000 台设备",
+    "original_title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
+    "published": "Tue, 27 Oct 2026 11:13:54 +0000",
+    "sentiment": "市场",
+    "score": 5
+  },
+  {
+    "title": "呼吁 2023 年人工智能转向的投资者称比特币将达到 57,000 美元",
+    "original_title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
+    "published": "Tue, 27 Oct 2026 10:57:51 +0000",
+    "sentiment": "市场",
+    "score": 6
+  },
+  {
+    "title": "Galaxy 表示，现在是积累比特币的时候了",
+    "original_title": "Now is the time to accumulate bitcoin, Galaxy says",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
+    "published": "Tue, 27 Oct 2026 09:42:46 +0000",
+    "sentiment": "市场",
+    "score": 7
+  },
+  {
     "title": "由于人工智能充斥着垃圾邮件，Solana 错误报告现在需要 1 SOL",
     "original_title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
     "published": "Tue, 27 Oct 2026 07:44:04 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 8
   },
   {
     "title": "以太坊修复了 Glamsterdam 错误，该错误可能会向建筑商发送质押押金",
@@ -15,7 +87,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
     "published": "Tue, 27 Oct 2026 07:09:56 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 9
   },
   {
     "title": "随着加密货币的下跌，Tom Lee 的 Bitmine 倾向于股票回购而不是购买以太币",
@@ -24,7 +96,7 @@
     "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
     "published": "Mon, 26 Oct 2026 16:05:12 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 10
   },
   {
     "title": "NBA 跟随 CFTC 预测市场潮流加入职业体育联盟，而 NFL 却犹豫不决",
@@ -33,7 +105,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
     "published": "Mon, 26 Oct 2026 15:59:55 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 11
   },
   {
     "title": "OCC呼吁社区银行进入稳定币支付市场",
@@ -42,7 +114,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
     "published": "Mon, 26 Oct 2026 15:45:51 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 12
   },
   {
     "title": "韩国考虑第四次推迟征收加密货币利得税，将其推迟到 2029 年",
@@ -51,7 +123,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
     "published": "Mon, 26 Oct 2026 14:51:07 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 13
   },
   {
     "title": "加拿大就稳定币规则草案展开磋商，维持收益率禁令",
@@ -60,86 +132,14 @@
     "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
     "published": "Mon, 26 Oct 2026 14:23:41 +0000",
     "sentiment": "市场",
-    "score": 6
-  },
-  {
-    "title": "6800 万美元的比特币赌注目标是中期选举后突破 9 万美元",
-    "original_title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
-    "published": "Mon, 26 Oct 2026 11:53:07 +0000",
-    "sentiment": "市场",
-    "score": 7
-  },
-  {
-    "title": "随着油价回落和美联储决定临近，比特币维持在 80,000 美元附近",
-    "original_title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-    "published": "Mon, 26 Oct 2026 11:24:33 +0000",
-    "sentiment": "市场",
-    "score": 8
-  },
-  {
-    "title": "现场新闻：Anthropic IPO 申请后股市上涨，比特币跌破 80,000 美元",
-    "original_title": "Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
-    "published": "Mon, 26 Oct 2026 11:05:31 +0000",
-    "sentiment": "市场",
-    "score": 9
-  },
-  {
-    "title": "美联储、欧洲央行和日本央行利率决策，Coinbase 收益：加密货币周展望",
-    "original_title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
-    "published": "Mon, 26 Oct 2026 09:14:47 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "超过 1100 万枚比特币无人知晓。这就是它的意思",
-    "original_title": "Over 11 million bitcoin has no known owner. Here's what it means",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
-    "published": "Mon, 26 Oct 2026 07:18:24 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "印度最大的加密货币交易所因与退役钱包相关的内部流程故障而损失了 1600 万美元",
-    "original_title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
-    "published": "Mon, 26 Oct 2026 05:39:17 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "当用户试图加快付款速度时，比特币钱包漏洞让流氓服务器窃取资金",
-    "original_title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
-    "published": "Mon, 26 Oct 2026 05:15:20 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "随着美联储会议前交易员降低风险，比特币跌破 80,000 美元",
-    "original_title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-    "published": "Mon, 26 Oct 2026 04:37:02 +0000",
-    "sentiment": "市场",
     "score": 14
   },
   {
-    "title": "比特币 ETF 在退出 7.74 亿美元后收回 1.1 亿美元",
-    "original_title": "Bitcoin ETFs claw back $110M after $774M exit",
+    "title": "华尔街资深人士乔迪·维瑟 (Jordi Visser) 表示，加密货币可能跑赢人工智能股票",
+    "original_title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
     "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 27 Oct 2026 07:35:37 +0000",
+    "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 27 Oct 2026 13:30:00 +0000",
     "sentiment": "市场",
     "score": 15
   },
@@ -148,9 +148,45 @@
     "original_title": "Here’s what happened in crypto today",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 27 Oct 2026 06:08:28 +0000",
+    "published": "Tue, 27 Oct 2026 13:17:24 +0000",
     "sentiment": "市场",
     "score": 16
+  },
+  {
+    "title": "随着人工智能与比特币矿工的融合，Luxor 从 CMT Digital 筹集了 1600 万美元",
+    "original_title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 27 Oct 2026 13:01:00 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
+    "title": "随着旧币进入休眠状态，比特币价格分析显示“强劲反弹”",
+    "original_title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 27 Oct 2026 12:18:24 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "币安在周五截止日期前申请巴西加密货币许可证",
+    "original_title": "Binance files for Brazil crypto license ahead of Friday deadline",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 27 Oct 2026 08:04:21 +0000",
+    "sentiment": "市场",
+    "score": 19
+  },
+  {
+    "title": "比特币 ETF 在退出 7.74 亿美元后收回 1.1 亿美元",
+    "original_title": "Bitcoin ETFs claw back $110M after $774M exit",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 27 Oct 2026 07:35:37 +0000",
+    "sentiment": "市场",
+    "score": 20
   },
   {
     "title": "美国 OCC 呼吁社区银行成为支付稳定币发行机构",
@@ -159,7 +195,7 @@
     "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 26 Oct 2026 21:38:30 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 21
   },
   {
     "title": "Injective 推出追踪 Nvidia GPU 租赁成本的链上期货市场",
@@ -168,7 +204,7 @@
     "link": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 26 Oct 2026 21:23:32 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 22
   },
   {
     "title": "加拿大援引美国天才法案开启稳定币咨询",
@@ -177,7 +213,7 @@
     "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 26 Oct 2026 19:47:40 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 23
   },
   {
     "title": "NBA 指定 Kalshi、Polymarket 首选交易所并签署 CFTC 协议",
@@ -186,7 +222,7 @@
     "link": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 26 Oct 2026 17:46:09 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 24
   },
   {
     "title": "韩国立法者考虑将加密税实施推迟至 2029 年",
@@ -194,42 +230,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 26 Oct 2026 16:18:09 +0000",
-    "sentiment": "市场",
-    "score": 21
-  },
-  {
-    "title": "Strategy 跳过比特币购买，花费 2.05 亿美元回购 STRC",
-    "original_title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 26 Oct 2026 13:27:38 +0000",
-    "sentiment": "市场",
-    "score": 22
-  },
-  {
-    "title": "HOOD 预测市场收入将在 2028 年增加 1.7B 美元，超过加密货币：Bernstein",
-    "original_title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 26 Oct 2026 13:12:41 +0000",
-    "sentiment": "市场",
-    "score": 23
-  },
-  {
-    "title": "BTC 价格面临 FOMC 损失 8 万美元的风险，收益：本周比特币需要了解的三件事",
-    "original_title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 26 Oct 2026 10:49:55 +0000",
-    "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "比特币 ETF 反弹 3.01 亿美元，打破两周流出记录",
-    "original_title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 26 Oct 2026 08:20:49 +0000",
     "sentiment": "市场",
     "score": 25
   }
