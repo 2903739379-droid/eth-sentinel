@@ -1,12 +1,30 @@
 [
   {
+    "title": "巴西公司在选举日转向稳定币以避免货币崩溃",
+    "original_title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+    "published": "Tue, 27 Oct 2026 16:59:07 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "尽管支持竞争对手 USDG，Robinhood 还是利用了 Ripple 价值 25 亿美元的 RLUSD 稳定币",
+    "original_title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+    "published": "Tue, 27 Oct 2026 16:35:29 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
     "title": "比特币矿工进军人工智能领域正在创造一个新的计算能力交易市场",
     "original_title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
     "published": "Tue, 27 Oct 2026 13:13:50 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 2
   },
   {
     "title": "比特币显示疲软迹象，而 Ripple 的银行胜利未能提振 XRP",
@@ -15,16 +33,16 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
     "published": "Tue, 27 Oct 2026 12:00:39 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 3
   },
   {
-    "title": "实时更新：随着人工智能的建设吸引投资者的注意力和资本，比特币保持在 80,000 美元以下",
-    "original_title": "Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
+    "title": "实时更新：随着人工智能的建设吸引投资者的注意力和资本，比特币保持在 80,000 美元附近",
+    "original_title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
     "published": "Tue, 27 Oct 2026 11:40:50 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 4
   },
   {
     "title": "日本顶级日元稳定币在令人失望的第一年未能达到目标",
@@ -33,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
     "published": "Tue, 27 Oct 2026 11:37:52 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 5
   },
   {
     "title": "美联储会议开始，加密货币忽视亚洲科技股反弹，比特币跌破 80,000 美元",
@@ -42,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
     "published": "Tue, 27 Oct 2026 11:32:45 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 6
   },
   {
     "title": "加密钱包制造商 Keystone 在安全漏洞后销毁近 19,000 台设备",
@@ -51,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
     "published": "Tue, 27 Oct 2026 11:13:54 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 7
   },
   {
     "title": "呼吁 2023 年人工智能转向的投资者称比特币将达到 57,000 美元",
@@ -60,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
     "published": "Tue, 27 Oct 2026 10:57:51 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 8
   },
   {
     "title": "Galaxy 表示，现在是积累比特币的时候了",
@@ -69,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
     "published": "Tue, 27 Oct 2026 09:42:46 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 9
   },
   {
     "title": "由于人工智能充斥着垃圾邮件，Solana 错误报告现在需要 1 SOL",
@@ -78,7 +96,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
     "published": "Tue, 27 Oct 2026 07:44:04 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 10
   },
   {
     "title": "以太坊修复了 Glamsterdam 错误，该错误可能会向建筑商发送质押押金",
@@ -87,7 +105,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
     "published": "Tue, 27 Oct 2026 07:09:56 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 11
   },
   {
     "title": "随着加密货币的下跌，Tom Lee 的 Bitmine 倾向于股票回购而不是购买以太币",
@@ -96,41 +114,23 @@
     "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
     "published": "Mon, 26 Oct 2026 16:05:12 +0000",
     "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "NBA 跟随 CFTC 预测市场潮流加入职业体育联盟，而 NFL 却犹豫不决",
-    "original_title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-    "published": "Mon, 26 Oct 2026 15:59:55 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "OCC呼吁社区银行进入稳定币支付市场",
-    "original_title": "OCC calls on community banks to enter the stablecoin payments market",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-    "published": "Mon, 26 Oct 2026 15:45:51 +0000",
-    "sentiment": "市场",
     "score": 12
   },
   {
-    "title": "韩国考虑第四次推迟征收加密货币利得税，将其推迟到 2029 年",
-    "original_title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-    "published": "Mon, 26 Oct 2026 14:51:07 +0000",
+    "title": "CFTC 起诉犹他州阻止针对预测市场的行动",
+    "original_title": "CFTC sues Utah to block action against prediction markets",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 27 Oct 2026 19:21:59 +0000",
     "sentiment": "市场",
     "score": 13
   },
   {
-    "title": "加拿大就稳定币规则草案展开磋商，维持收益率禁令",
-    "original_title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-    "published": "Mon, 26 Oct 2026 14:23:41 +0000",
+    "title": "随着欧盟规则重塑市场，USDC 在欧元稳定币交易中取代 USDT：Kaiko",
+    "original_title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 27 Oct 2026 15:59:58 +0000",
     "sentiment": "市场",
     "score": 14
   },
@@ -214,23 +214,5 @@
     "published": "Mon, 26 Oct 2026 19:47:40 +0000",
     "sentiment": "市场",
     "score": 23
-  },
-  {
-    "title": "NBA 指定 Kalshi、Polymarket 首选交易所并签署 CFTC 协议",
-    "original_title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 26 Oct 2026 17:46:09 +0000",
-    "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "韩国立法者考虑将加密税实施推迟至 2029 年",
-    "original_title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 26 Oct 2026 16:18:09 +0000",
-    "sentiment": "市场",
-    "score": 25
   }
 ]
