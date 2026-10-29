@@ -1,12 +1,30 @@
 [
   {
+    "title": "币安遭受迄今为止最大规模的加密货币黑客攻击，损失 57 亿美元",
+    "original_title": "Binance loses $5.7 billion in largest crypto hack to date",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+    "published": "Thu, 29 Oct 2026 21:12:45 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "第三方违规导致用户损失后 Polymarket 暂停交易",
+    "original_title": "Polymarket suspends trading after third-party breach leads to user losses",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
+    "published": "Thu, 29 Oct 2026 18:55:35 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
     "title": "随着加密货币交易所退出西方认可的市场，库币退出俄罗斯和白俄罗斯",
     "original_title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
     "published": "Thu, 29 Oct 2026 16:51:18 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 2
   },
   {
     "title": "从竞争对手到合作伙伴：Polygon 和 Solana 联手为银行提供稳定币支付",
@@ -15,7 +33,7 @@
     "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
     "published": "Thu, 29 Oct 2026 16:35:43 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 3
   },
   {
     "title": "与 FCA 达成和解后，加密货币交易所 HTX 退出英国",
@@ -24,7 +42,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
     "published": "Thu, 29 Oct 2026 16:11:18 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 4
   },
   {
     "title": "Polymarket 将超短期加密货币预测市场引入美国平台",
@@ -33,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
     "published": "Thu, 29 Oct 2026 14:55:47 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 5
   },
   {
     "title": "顾问的加密货币：只有五分之一的美国人表示金融体系是安全的",
@@ -42,7 +60,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
     "published": "Thu, 29 Oct 2026 14:39:01 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 6
   },
   {
     "title": "为什么瑞士首个真正的现货比特币 ETF 很快就会吸引海外银行和经纪商",
@@ -51,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
     "published": "Thu, 29 Oct 2026 14:15:46 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 7
   },
   {
     "title": "新的量子模型将破解比特币密钥所需的硬件削减了 17 倍",
@@ -60,7 +78,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
     "published": "Thu, 29 Oct 2026 13:55:42 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 8
   },
   {
     "title": "美国制裁俄罗斯公民为朝鲜 IT 工人洗钱数百万美元",
@@ -69,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud",
     "published": "Thu, 29 Oct 2026 12:18:20 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 9
   },
   {
     "title": "价值 100 亿美元的比特币期权即将到期，价格是关键",
@@ -78,7 +96,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
     "published": "Thu, 29 Oct 2026 12:04:50 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 10
   },
   {
     "title": "由于美联储的异议、三星、Alphabet 的财报，比特币跌至 80,000 美元； AI代币暴跌",
@@ -87,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
     "published": "Thu, 29 Oct 2026 11:11:48 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 11
   },
   {
     "title": "Solana 钱包 Solflare 承诺在验证器离线后支付 1.6 亿美元质押中错过的奖励",
@@ -96,25 +114,25 @@
     "link": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
     "published": "Thu, 29 Oct 2026 10:44:48 +0000",
     "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "实时更新：随着纳斯达克和利率大幅下跌，比特币出现小幅买盘",
-    "original_title": "Live updates: Bitcoin catches small bid as Nasdaq and interest rates fall sharply",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
-    "published": "Thu, 29 Oct 2026 10:41:39 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "窃贼对定罪提出质疑后，泰国最高法院裁定比特币是财产",
-    "original_title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
-    "published": "Thu, 29 Oct 2026 10:04:36 +0000",
-    "sentiment": "市场",
     "score": 12
+  },
+  {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 29 Oct 2026 19:58:57 +0000",
+    "sentiment": "市场",
+    "score": 13
+  },
+  {
+    "title": "有报道称用户资金被耗尽，Polymarket 暂停交易",
+    "original_title": "Polymarket suspended trading amid reports of user funds being drained",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 29 Oct 2026 19:23:03 +0000",
+    "sentiment": "市场",
+    "score": 14
   },
   {
     "title": "美国 GDP 数据超出预期，比特币价格跃升至 8.15 万美元",
@@ -123,7 +141,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 15:39:54 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 15
   },
   {
     "title": "法国参议院通过自动共享加密货币税收数据的法案",
@@ -132,25 +150,16 @@
     "link": "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 15:00:02 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 16
   },
   {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 29 Oct 2026 13:51:06 +0000",
-    "sentiment": "市场",
-    "score": 15
-  },
-  {
-    "title": "巴西的万圣节前夜加密货币截止日期带来的技巧多于美食",
+    "title": "巴西的万圣节前夕加密货币截止日期带来的技巧多于美食",
     "original_title": "Brazil’s Halloween eve crypto deadline brings more tricks than treats",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "私密、快速的 USDT 即将登陆比特币。它能与以太坊和波场竞争吗？",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "Tron 推出后，Polygon 将 Open Money Stack 扩展到 Solana",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "Chainaanalysis 通过 Garantex 追踪朝鲜加密货币套现",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 12:38:03 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "HTX 同意在 FCA 案件后停止非法的英国加密货币促销活动",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 12:20:27 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "OKX 调查显示，欧盟投资者将加密货币置于退休计划之上以创造持久财富",
@@ -195,7 +204,7 @@
     "link": "https://cointelegraph.com/news/eu-investors-crypto-above-retirement-lasting-wealth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "Coinbase 寻求巴西加密货币许可证，预计服务不会中断",
@@ -204,24 +213,6 @@
     "link": "https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 12:00:00 +0000",
     "sentiment": "市场",
-    "score": 22
-  },
-  {
-    "title": "Rootstock 表示，比特币借贷和收益率可能会推动下一波机构需求",
-    "original_title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 29 Oct 2026 12:00:00 +0000",
-    "sentiment": "市场",
     "score": 23
-  },
-  {
-    "title": "分析认为抛售风险高于 8.5 万美元，比特币长期阻力位成为焦点",
-    "original_title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 29 Oct 2026 10:46:43 +0000",
-    "sentiment": "市场",
-    "score": 24
   }
 ]
