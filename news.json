@@ -9,7 +9,7 @@
     "score": 0
   },
   {
-    "title": "币安安排 63.4 亿美元来弥补创纪录的加密货币黑客攻击造成的损失",
+    "title": "币安安排 63.4 亿美元弥补创纪录的加密货币黑客攻击造成的损失",
     "original_title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
@@ -45,13 +45,22 @@
     "score": 4
   },
   {
+    "title": "实时更新：币安漏洞利用与技术困境相结合，比特币跌破 77,000 美元",
+    "original_title": "Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
+    "published": "Fri, 30 Oct 2026 08:36:52 +0000",
+    "sentiment": "市场",
+    "score": 5
+  },
+  {
     "title": "比特币、以太币和 XRP 的抛售抹去了 15 亿美元的杠杆加密货币押注",
     "original_title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
     "published": "Fri, 30 Oct 2026 06:22:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "印度最大的加密货币交易所因限制期货交易而遭受黑客攻击",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
     "published": "Fri, 30 Oct 2026 05:43:07 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "币安黑客将价值 14 亿美元的比特币分入 19 个无人能冻结的钱包",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
     "published": "Fri, 30 Oct 2026 04:50:42 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "币安遭受 60 亿美元黑客攻击导致比特币价格下跌后，渣打银行遭遇更多痛苦",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
     "published": "Fri, 30 Oct 2026 04:00:43 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "币安遭到黑客攻击后，机构加密货币投资者纷纷从交易所撤资",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
     "published": "Fri, 30 Oct 2026 03:56:40 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "加密货币的长期敌人朝鲜拉撒路集团可能是币安黑客事件的幕后黑手：区块链侦探",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
     "published": "Fri, 30 Oct 2026 03:36:11 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "币安在“历史上最大的加密货币黑客攻击”中损失超过 60 亿美元",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
     "published": "Thu, 29 Oct 2026 21:12:45 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "第三方违规导致用户损失后 Polymarket 暂停交易",
@@ -114,16 +123,52 @@
     "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
     "published": "Thu, 29 Oct 2026 18:55:35 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
-    "title": "随着加密货币交易所退出西方认可的市场，库币退出俄罗斯和白俄罗斯",
-    "original_title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
-    "published": "Thu, 29 Oct 2026 16:51:18 +0000",
+    "title": "随着第三季度利润达到 $1.5B，Tether 的超额准备金几乎翻倍至 $8B",
+    "original_title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 30 Oct 2026 19:01:58 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
+  },
+  {
+    "title": "Binance 黑客攻击 $6.3B 后，Coinbase 引领加密货币股票抛售",
+    "original_title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 30 Oct 2026 17:48:27 +0000",
+    "sentiment": "市场",
+    "score": 15
+  },
+  {
+    "title": "Crypto Biz：比特币的量子威胁正在成为一个经济问题",
+    "original_title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 30 Oct 2026 17:09:31 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
+    "title": "事情发生了：Binance 创纪录的 6.3B 美元加密货币黑客攻击",
+    "original_title": "As it happened: Binance’s record $6.3B crypto hack",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 30 Oct 2026 16:49:50 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
+    "title": "随着科技股抛售蔓延至黄金，比特币十月面临12年来最严重的风险",
+    "original_title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 30 Oct 2026 16:06:28 +0000",
+    "sentiment": "市场",
+    "score": 18
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -132,7 +177,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 30 Oct 2026 14:07:42 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 19
   },
   {
     "title": "黄金的“无限薄荷虫”会让比特币更有价值吗？",
@@ -141,7 +186,7 @@
     "link": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 30 Oct 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 20
   },
   {
     "title": "币安黑客攻击导致 $1.6B 清算，比特币价格指标暗示反弹",
@@ -150,7 +195,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 30 Oct 2026 11:29:23 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 21
   },
   {
     "title": "币安黑客的比特币交易量位居 Coinbase 企业金库榜首",
@@ -159,7 +204,7 @@
     "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 30 Oct 2026 10:54:30 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 22
   },
   {
     "title": "Trezor 警告 CryptoBilis 买家因涉嫌植入而转移资金",
@@ -168,42 +213,15 @@
     "link": "https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 30 Oct 2026 09:26:45 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 23
   },
   {
-    "title": "Saylor 吹捧 30B 美元信贷能力，战略着眼于购买更多比特币",
+    "title": "Saylor 吹捧 30B 美元信贷能力，策略关注更多比特币购买",
     "original_title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 30 Oct 2026 05:53:07 +0000",
     "sentiment": "市场",
-    "score": 19
-  },
-  {
-    "title": "Binance 黑客攻击扰乱市场，BNB 下跌 8%，比特币逼近 7.7 万美元",
-    "original_title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 29 Oct 2026 23:24:21 +0000",
-    "sentiment": "市场",
-    "score": 20
-  },
-  {
-    "title": "Binance 遭受 6.3B 美元的黑客攻击，这是加密货币历史上最大的一次黑客攻击",
-    "original_title": "Binance hit by $6.3B hack, the largest in cryptocurrency history",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 29 Oct 2026 21:24:36 +0000",
-    "sentiment": "市场",
-    "score": 21
-  },
-  {
-    "title": "有报道称用户资金被耗尽，Polymarket 暂停交易",
-    "original_title": "Polymarket suspended trading amid reports of user funds being drained",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 29 Oct 2026 19:23:03 +0000",
-    "sentiment": "市场",
-    "score": 22
+    "score": 24
   }
 ]
