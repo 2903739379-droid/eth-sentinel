@@ -1,7 +1,7 @@
 [
   {
-    "title": "币安遭受迄今为止最大规模的加密货币黑客攻击，损失 57 亿美元",
-    "original_title": "Binance loses $5.7 billion in largest crypto hack to date",
+    "title": "币安在“历史上最大的加密货币黑客攻击”中损失了 57 亿美元",
+    "original_title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
     "published": "Thu, 29 Oct 2026 21:12:45 +0000",
@@ -108,13 +108,22 @@
     "score": 11
   },
   {
-    "title": "Solana 钱包 Solflare 承诺在验证器离线后支付 1.6 亿美元质押中错过的奖励",
-    "original_title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
-    "published": "Thu, 29 Oct 2026 10:44:48 +0000",
+    "title": "Binance 黑客攻击扰乱市场，BNB 下跌 8%，比特币逼近 7.7 万美元",
+    "original_title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 29 Oct 2026 23:24:21 +0000",
     "sentiment": "市场",
     "score": 12
+  },
+  {
+    "title": "实时更新：币安表示因黑客攻击冻结了 30 亿美元的加密货币",
+    "original_title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 29 Oct 2026 21:24:36 +0000",
+    "sentiment": "市场",
+    "score": 13
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -123,7 +132,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 19:58:57 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "有报道称用户资金被耗尽，Polymarket 暂停交易",
@@ -132,7 +141,7 @@
     "link": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 19:23:03 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "美国 GDP 数据超出预期，比特币价格跃升至 8.15 万美元",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 15:39:54 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "法国参议院通过自动共享加密货币税收数据的法案",
@@ -150,16 +159,16 @@
     "link": "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 15:00:02 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
-    "title": "巴西的万圣节前夕加密货币截止日期带来的技巧多于美食",
+    "title": "巴西的万圣节前夜加密货币截止日期带来的技巧多于美食",
     "original_title": "Brazil’s Halloween eve crypto deadline brings more tricks than treats",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "私密、快速的 USDT 即将登陆比特币。它能与以太坊和波场竞争吗？",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "Tron 推出后，Polygon 将 Open Money Stack 扩展到 Solana",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 13:00:00 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "Chainaanalysis 通过 Garantex 追踪朝鲜加密货币套现",
@@ -186,33 +195,6 @@
     "link": "https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 29 Oct 2026 12:38:03 +0000",
     "sentiment": "市场",
-    "score": 20
-  },
-  {
-    "title": "HTX 同意在 FCA 案件后停止非法的英国加密货币促销活动",
-    "original_title": "HTX agrees to halt unlawful UK crypto promotions after FCA case",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 29 Oct 2026 12:20:27 +0000",
-    "sentiment": "市场",
     "score": 21
-  },
-  {
-    "title": "OKX 调查显示，欧盟投资者将加密货币置于退休计划之上以创造持久财富",
-    "original_title": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/eu-investors-crypto-above-retirement-lasting-wealth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 29 Oct 2026 12:00:00 +0000",
-    "sentiment": "市场",
-    "score": 22
-  },
-  {
-    "title": "Coinbase 寻求巴西加密货币许可证，预计服务不会中断",
-    "original_title": "Coinbase seeks Brazil crypto license, expects no service disruption",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 29 Oct 2026 12:00:00 +0000",
-    "sentiment": "市场",
-    "score": 23
   }
 ]
