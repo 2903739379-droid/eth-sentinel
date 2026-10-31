@@ -1,21 +1,30 @@
 [
   {
+    "title": "从币安被盗的比特币超过特斯拉的持有量，是萨尔瓦多储备的两倍多",
+    "original_title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+    "published": "Sat, 31 Oct 2026 05:01:32 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "币安遭受 63 亿美元黑客攻击后，华尔街分析师敦促投资者购买加密货币股票",
     "original_title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
     "published": "Fri, 30 Oct 2026 14:13:34 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
-    "title": "币安安排 63.4 亿美元来弥补创纪录的加密货币黑客攻击造成的损失",
+    "title": "币安安排 63.4 亿美元弥补创纪录的加密货币黑客攻击造成的损失",
     "original_title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
     "published": "Fri, 30 Oct 2026 12:13:02 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "以下是币安遭受黑客攻击后大型比特币交易者的反应",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
     "published": "Fri, 30 Oct 2026 11:51:26 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "以下是以太坊升级如何帮助币安弥补 60 亿美元损失的一部分",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
     "published": "Fri, 30 Oct 2026 11:35:16 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "随着币安黑客攻击导致比特币和以太币价格下跌，加密货币清算额跃升至 15.7 亿美元",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
     "published": "Fri, 30 Oct 2026 11:09:24 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "实时更新：币安漏洞利用与技术困境相结合，比特币跌破 77,000 美元",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
     "published": "Fri, 30 Oct 2026 08:36:52 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "比特币、以太币和 XRP 的抛售抹去了 15 亿美元的杠杆加密货币押注",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
     "published": "Fri, 30 Oct 2026 06:22:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "印度最大的加密货币交易所因限制期货交易而遭受黑客攻击",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
     "published": "Fri, 30 Oct 2026 05:43:07 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "币安黑客将价值 14 亿美元的比特币分入 19 个无人能冻结的钱包",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
     "published": "Fri, 30 Oct 2026 04:50:42 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "币安遭受 60 亿美元黑客攻击导致比特币价格下跌后，渣打银行遭遇更多痛苦",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
     "published": "Fri, 30 Oct 2026 04:00:43 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "币安遭到黑客攻击后，机构加密货币投资者纷纷从交易所撤资",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
     "published": "Fri, 30 Oct 2026 03:56:40 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "加密货币的长期敌人朝鲜拉撒路集团可能是币安黑客事件的幕后黑手：区块链侦探",
@@ -104,15 +113,6 @@
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
     "published": "Fri, 30 Oct 2026 03:36:11 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "币安在“历史上最大的加密货币黑客攻击”中损失超过 60 亿美元",
-    "original_title": "Binance loses over $6 billion in 'biggest crypto hack in history'",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
-    "published": "Thu, 29 Oct 2026 21:12:45 +0000",
     "sentiment": "市场",
     "score": 12
   },
