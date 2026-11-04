@@ -1,12 +1,30 @@
 [
   {
+    "title": "选民对加密货币的看法如何",
+    "original_title": "What voters said about their views on crypto",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+    "published": "Tue, 03 Nov 2026 23:19:44 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "在为加密货币版本扫清道路后，美国商品期货交易委员会 (CFTC) 因股票永久持有者陷入法律冲突",
+    "original_title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+    "published": "Tue, 03 Nov 2026 22:14:44 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
     "title": "OUSD 背后的稳定币治理团队规定管理费，提供股权收益池",
     "original_title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
     "published": "Tue, 03 Nov 2026 16:12:35 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 2
   },
   {
     "title": "CFTC 清算股票永续期货，将加密货币交易模式引入华尔街",
@@ -15,7 +33,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
     "published": "Tue, 03 Nov 2026 15:02:13 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 3
   },
   {
     "title": "韩国询问其最大的银行，重大加密黑客攻击将如何打击他们",
@@ -24,7 +42,7 @@
     "link": "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
     "published": "Tue, 03 Nov 2026 14:42:30 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 4
   },
   {
     "title": "LO:TECH 融资 1200 万美元，将加密货币交易扩展到美国和亚洲",
@@ -33,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia",
     "published": "Tue, 03 Nov 2026 14:00:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 5
   },
   {
     "title": "比特币正在打破自 2014 年以来的中期选举模式",
@@ -42,7 +60,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
     "published": "Tue, 03 Nov 2026 12:30:09 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 6
   },
   {
     "title": "ETHGas 希望通过机构控制将华尔街带入公共以太坊",
@@ -51,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
     "published": "Tue, 03 Nov 2026 12:01:05 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 7
   },
   {
     "title": "由于 ETF 流出和中期选举对加密货币造成压力，比特币跌至 76,300 美元后企稳",
@@ -60,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
     "published": "Tue, 03 Nov 2026 11:28:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 8
   },
   {
     "title": "Liquid 的比特币欠条在遭受 3.2 亿美元的攻击后再次获得全额支持",
@@ -69,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
     "published": "Tue, 03 Nov 2026 11:12:12 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 9
   },
   {
     "title": "Tether 首席执行官 Paolo Ardoino 表示，持有 15 万枚比特币，价值 115 亿美元",
@@ -78,7 +96,7 @@
     "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
     "published": "Tue, 03 Nov 2026 10:15:53 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 10
   },
   {
     "title": "实时更新：随着美国选民前往投票站，比特币和科技股小幅走高",
@@ -87,34 +105,25 @@
     "link": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
     "published": "Tue, 03 Nov 2026 09:50:16 +0000",
     "sentiment": "市场",
-    "score": 9
-  },
-  {
-    "title": "Mercado Bitcoin 承诺赔偿近 4000 万美元黑客攻击后的所有用户损失",
-    "original_title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
-    "published": "Tue, 03 Nov 2026 08:56:48 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "比特币的最新图表信号看起来很像大崩盘之前的信号",
-    "original_title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
-    "published": "Tue, 03 Nov 2026 08:50:56 +0000",
-    "sentiment": "市场",
     "score": 11
   },
   {
-    "title": "数据显示，币安已花掉一半 SAFU 比特币，价值约 5.8 亿美元",
-    "original_title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
-    "published": "Tue, 03 Nov 2026 05:36:56 +0000",
+    "title": "1inch 律师认为，随着中期选举的展开，各机构将推动美国加密货币监管",
+    "original_title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 04 Nov 2026 00:45:16 +0000",
     "sentiment": "市场",
     "score": 12
+  },
+  {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 03 Nov 2026 22:39:18 +0000",
+    "sentiment": "市场",
+    "score": 13
   },
   {
     "title": "美国中期选举：预测市场在关键的加密货币竞赛中支持民主党",
@@ -123,7 +132,7 @@
     "link": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 03 Nov 2026 19:38:19 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "华尔街扼杀了比特币的疯狂上涨：10x 的马库斯·蒂伦 (Markus Thielen)",
@@ -132,7 +141,7 @@
     "link": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 03 Nov 2026 16:47:01 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "分析师认为股票定价陷入“政治僵局”，比特币价格守住 7.6 万美元低点",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 03 Nov 2026 15:44:42 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "美国 2026 年中期选举投票对加密货币来说有何利害关系？",
@@ -149,15 +158,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 03 Nov 2026 13:53:07 +0000",
-    "sentiment": "市场",
-    "score": 16
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 03 Nov 2026 13:50:51 +0000",
     "sentiment": "市场",
     "score": 17
   },
@@ -214,14 +214,5 @@
     "published": "Tue, 03 Nov 2026 05:10:19 +0000",
     "sentiment": "市场",
     "score": 23
-  },
-  {
-    "title": "人工智能繁荣、能源成本加剧通胀，澳大利亚将利率升至 18 年来新高",
-    "original_title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 03 Nov 2026 04:14:32 +0000",
-    "sentiment": "市场",
-    "score": 24
   }
 ]
