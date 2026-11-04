@@ -1,12 +1,66 @@
 [
   {
-    "title": "中期选举不确定性消退，比特币V型反弹触及78,000美元",
-    "original_title": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
+    "title": "由于新的蓝色德克萨斯州威胁数据中心的繁荣，华尔街下调了比特币矿商的价格目标",
+    "original_title": "Wall Street cuts Bitcoin miner price targets as newly blue Texas threatens data center boom",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+    "published": "Wed, 04 Nov 2026 16:08:14 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "这次选举改变了华盛顿。加密货币工作仍在继续",
+    "original_title": "The election changes Washington. The work on crypto continues",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
+    "published": "Wed, 04 Nov 2026 14:25:12 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "实时更新：比特币和股票大幅上涨，扭转了蓝波崩盘后的隔夜暴跌",
+    "original_title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+    "published": "Wed, 04 Nov 2026 14:00:53 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
+    "title": "全球资产管理公司施罗德 (Schroders) 将新兴市场债券基金引入 Solana",
+    "original_title": "Global asset manager Schroders brings emerging market bond fund to Solana",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
+    "published": "Wed, 04 Nov 2026 13:00:00 +0000",
+    "sentiment": "市场",
+    "score": 3
+  },
+  {
+    "title": "DeFi 领涨，比特币从中期下跌中反弹",
+    "original_title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
+    "published": "Wed, 04 Nov 2026 10:38:58 +0000",
+    "sentiment": "市场",
+    "score": 4
+  },
+  {
+    "title": "ZachXBT 将法国银行 Crédit Mutuel Arkéa 列为 1.33 亿美元加密货币盗窃案的疑似受害者",
+    "original_title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
+    "published": "Wed, 04 Nov 2026 10:18:50 +0000",
+    "sentiment": "市场",
+    "score": 5
+  },
+  {
+    "title": "中期选举不确定性消退，比特币V型反弹升至78,300美元",
+    "original_title": "Bitcoin rises to $78,300 in V-shaped comeback as midterm election uncertainty fades",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
     "published": "Wed, 04 Nov 2026 06:16:40 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 6
   },
   {
     "title": "比特币利润暴跌 50%，Jack Dorsey 的 Block 面临司法部 7.64 亿美元和解",
@@ -15,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
     "published": "Wed, 04 Nov 2026 06:06:04 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 7
   },
   {
     "title": "美国批准的莫斯科交易所将于 12 月上市比特币和 Tether 的 USDT",
@@ -24,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
     "published": "Wed, 04 Nov 2026 05:14:12 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 8
   },
   {
     "title": "韩国执政党希望再次推迟征收加密货币税",
@@ -33,7 +87,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
     "published": "Wed, 04 Nov 2026 05:09:40 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 9
   },
   {
     "title": "民主党人在参议院和众议院取得多数席位，加密货币为新方向做好了准备",
@@ -42,7 +96,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
     "published": "Wed, 04 Nov 2026 04:55:11 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 10
   },
   {
     "title": "由于对民主党横扫市场的押注，比特币一度跌至 75,700 美元",
@@ -51,16 +105,16 @@
     "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
     "published": "Wed, 04 Nov 2026 04:48:16 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 11
   },
   {
-    "title": "实时更新：随着民主党的胜利迎来“蓝色浪潮”，加密货币的选举赌博动摇",
-    "original_title": "Live updates: Crypto's election gamble falters as Democratic victories usher in a 'blue wave'",
+    "title": "实时更新：比特币和股票扭转蓝波崩盘后的隔夜暴跌",
+    "original_title": "Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
     "published": "Wed, 04 Nov 2026 00:00:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 12
   },
   {
     "title": "选民对加密货币的看法如何",
@@ -69,70 +123,70 @@
     "link": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
     "published": "Tue, 03 Nov 2026 23:19:44 +0000",
     "sentiment": "市场",
-    "score": 7
-  },
-  {
-    "title": "在为加密货币版本扫清道路后，美国商品期货交易委员会 (CFTC) 因股票永久持有者陷入法律冲突",
-    "original_title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
-    "published": "Tue, 03 Nov 2026 22:14:44 +0000",
-    "sentiment": "市场",
-    "score": 8
-  },
-  {
-    "title": "OUSD 背后的稳定币治理团队规定管理费，提供股权收益池",
-    "original_title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
-    "published": "Tue, 03 Nov 2026 16:12:35 +0000",
-    "sentiment": "市场",
-    "score": 9
-  },
-  {
-    "title": "CFTC 清算股票永续期货，将加密货币交易模式引入华尔街",
-    "original_title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
-    "published": "Tue, 03 Nov 2026 15:02:13 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "韩国询问其最大的银行，重大加密黑客攻击将如何打击他们",
-    "original_title": "South Korea asks its biggest banks how a major crypto hack would hit them",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
-    "published": "Tue, 03 Nov 2026 14:42:30 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "LO:TECH 融资 1200 万美元，将加密货币交易扩展到美国和亚洲",
-    "original_title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia",
-    "published": "Tue, 03 Nov 2026 14:00:00 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "随着民主党横扫国会，比特币从 7 周低点 7.6 万美元反弹",
-    "original_title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 04 Nov 2026 07:25:47 +0000",
-    "sentiment": "市场",
     "score": 13
+  },
+  {
+    "title": "美国股市因中期选举结果而上涨，比特币触及 8.05 万美元",
+    "original_title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 04 Nov 2026 15:29:23 +0000",
+    "sentiment": "市场",
+    "score": 14
   },
   {
     "title": "这是今天加密货币领域发生的事情",
     "original_title": "Here’s what happened in crypto today",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 04 Nov 2026 06:03:33 +0000",
+    "published": "Wed, 04 Nov 2026 13:47:43 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
+  },
+  {
+    "title": "法国支持报告价值 10 万欧元或以上的自我托管加密货币",
+    "original_title": "France backs reporting for self-custodied crypto worth 100K euros or more",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 04 Nov 2026 13:44:52 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
+    "title": "Grayscale 的 Pandl 表示，币安黑客攻击可能是加密货币的“暂时挫折”",
+    "original_title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 04 Nov 2026 11:11:57 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
+    "title": "比特币 ETF 损失 $1.16B Bitwise 称抛售为“短期”",
+    "original_title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 04 Nov 2026 09:38:07 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "Binance 黑客转移了 81% 被盗的 Solana，并通过 THORChain 转移资金",
+    "original_title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 04 Nov 2026 09:15:55 +0000",
+    "sentiment": "市场",
+    "score": 19
+  },
+  {
+    "title": "随着民主党横扫国会，比特币从 7 周低点反弹至 7.6 万美元以下",
+    "original_title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 04 Nov 2026 07:25:47 +0000",
+    "sentiment": "市场",
+    "score": 20
   },
   {
     "title": "以太坊开发者的目标是在 2028 年实现量子抗性，提前一年",
@@ -141,7 +195,7 @@
     "link": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 04 Nov 2026 05:46:33 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 21
   },
   {
     "title": "ZachXBT 将法国银行认定为 1.33 亿美元加密货币盗窃案的受害者",
@@ -150,7 +204,7 @@
     "link": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 04 Nov 2026 03:35:30 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 22
   },
   {
     "title": "1inch 律师认为，随着中期选举的展开，各机构将推动美国加密货币监管",
@@ -159,7 +213,7 @@
     "link": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 04 Nov 2026 00:45:16 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 23
   },
   {
     "title": "美国中期选举：预测市场在关键的加密货币竞赛中支持民主党",
@@ -168,7 +222,7 @@
     "link": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 03 Nov 2026 19:38:19 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 24
   },
   {
     "title": "华尔街扼杀了比特币的疯狂上涨：10x 的马库斯·蒂伦 (Markus Thielen)",
@@ -177,51 +231,6 @@
     "link": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 03 Nov 2026 16:47:01 +0000",
     "sentiment": "市场",
-    "score": 19
-  },
-  {
-    "title": "分析师认为股票定价陷入“政治僵局”，比特币价格守住 7.6 万美元低点",
-    "original_title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 03 Nov 2026 15:44:42 +0000",
-    "sentiment": "市场",
-    "score": 20
-  },
-  {
-    "title": "美国 2026 年中期选举投票对加密货币来说有何利害关系？",
-    "original_title": "What’s at stake for crypto as the US votes in the 2026 midterms?",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 03 Nov 2026 13:53:07 +0000",
-    "sentiment": "市场",
-    "score": 21
-  },
-  {
-    "title": "莫斯科交易所将于 12 月推出比特币、以太币和 USDT 交易",
-    "original_title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 03 Nov 2026 13:15:47 +0000",
-    "sentiment": "市场",
-    "score": 22
-  },
-  {
-    "title": "法国推迟 2027 年预算投票，加密货币退出税提案被取消",
-    "original_title": "France postpones 2027 budget vote, crypto exit-tax proposals scrapped",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 03 Nov 2026 10:49:26 +0000",
-    "sentiment": "市场",
-    "score": 23
-  },
-  {
-    "title": "比特币价格面临 7.77 万美元的支撑损失，近期买家陷入困境",
-    "original_title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 03 Nov 2026 10:04:05 +0000",
-    "sentiment": "市场",
-    "score": 24
+    "score": 25
   }
 ]
