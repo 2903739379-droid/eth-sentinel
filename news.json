@@ -90,8 +90,8 @@
     "score": 9
   },
   {
-    "title": "实时更新：纳斯达克因恐慌性抛售而下跌 4%，比特币暴跌",
-    "original_title": "Live updates: Bitcoin plunges as Nasdaq falls 4% in panicky selloff",
+    "title": "实时更新：随着股市收盘自 2025 年 4 月以来最糟糕的一天，比特币下跌超过 5%",
+    "original_title": "Live updates: Bitcoin drops more than 5% as stocks close out worst day since April 2025",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
     "published": "Thu, 05 Nov 2026 10:57:11 +0000",
@@ -135,13 +135,40 @@
     "score": 14
   },
   {
-    "title": "Zcash 在选举后加密货币反弹中上涨 12％，比特币保持在 80,000 美元以上",
-    "original_title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
-    "published": "Thu, 05 Nov 2026 05:13:45 +0000",
+    "title": "加密货币盟友弗兰西希尔赢得连任，但将失去众议院主席",
+    "original_title": "Crypto ally French Hill wins reelection but set to lose House chair",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 05 Nov 2026 21:39:19 +0000",
     "sentiment": "市场",
     "score": 15
+  },
+  {
+    "title": "币安遭受黑客攻击后，美联储、货币监理署对美国银行进行检查，专家指出存在安全风险",
+    "original_title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 05 Nov 2026 18:32:45 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
+    "title": "欧洲最大的资产管理公司 Amundi 在以太坊上代币化股票指数基金",
+    "original_title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 05 Nov 2026 18:09:38 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
+    "title": "美国股市抹去选举涨幅，比特币暴跌 6% 至 7 周低点",
+    "original_title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 05 Nov 2026 16:48:41 +0000",
+    "sentiment": "市场",
+    "score": 18
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -150,7 +177,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 05 Nov 2026 13:46:01 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 19
   },
   {
     "title": "泰国将于 12 月因未经许可的加密货币交易而封杀 Bitget",
@@ -159,7 +186,7 @@
     "link": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 05 Nov 2026 11:33:20 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 20
   },
   {
     "title": "比特币相对于标准普尔 500 指数的胜率有所回升，中期历史有利于股市",
@@ -168,7 +195,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 05 Nov 2026 10:28:26 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 21
   },
   {
     "title": "韩国寻求第四次推迟加密货币税收，目标是 2029 年开始",
@@ -177,7 +204,7 @@
     "link": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 05 Nov 2026 09:35:29 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 22
   },
   {
     "title": "法国预算拒绝搁置稳定币税、钱包报告",
@@ -186,7 +213,7 @@
     "link": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 05 Nov 2026 09:04:42 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 23
   },
   {
     "title": "中期选举后加密货币反弹，比特币、以太坊 ETF 吸金 1.28 亿美元",
@@ -195,7 +222,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 05 Nov 2026 08:22:30 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 24
   },
   {
     "title": "Binance、Polymarket 寻求 Polygon 硬分叉以追回 680 万美元被盗加密货币",
@@ -204,7 +231,7 @@
     "link": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 05 Nov 2026 06:02:29 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 25
   },
   {
     "title": "印度警告人工智能黑客以“机器速度”瞄准加密货币交易所",
@@ -213,7 +240,7 @@
     "link": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 05 Nov 2026 01:51:21 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 26
   },
   {
     "title": "Mercado Bitcoin表示将于周一开始分阶段重新开放，将弥补损失",
@@ -222,42 +249,6 @@
     "link": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 04 Nov 2026 23:20:17 +0000",
     "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "BitMart创始人称新黑客攻击后安全团队“严重人手不足”",
-    "original_title": "BitMart founder says security team ‘severely understaffed’ after new hack",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 04 Nov 2026 22:31:58 +0000",
-    "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "随着民主党入主国会，加密货币 PAC 着眼于 2028 年“新地图”",
-    "original_title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 04 Nov 2026 22:17:33 +0000",
-    "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "澳大利亚比特币爱好者如何避免 2027 年资本利得税大幅上涨",
-    "original_title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 04 Nov 2026 21:30:00 +0000",
-    "sentiment": "市场",
     "score": 27
-  },
-  {
-    "title": "民主党在美国中期选举中大获全胜后，与特朗普相关的代币导致加密货币损失",
-    "original_title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 04 Nov 2026 19:15:39 +0000",
-    "sentiment": "市场",
-    "score": 28
   }
 ]
