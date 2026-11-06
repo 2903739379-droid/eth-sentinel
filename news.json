@@ -1,12 +1,57 @@
 [
   {
+    "title": "加密行业找到了新的增长方式。从他们身上赚钱是另一回事",
+    "original_title": "The crypto industry has found new ways to grow. Making money from them is another story",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+    "published": "Fri, 06 Nov 2026 15:26:38 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "由于加密货币交易所的本地收购面临不确定性，泰国采取行动阻止 Bitget",
+    "original_title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+    "published": "Fri, 06 Nov 2026 14:33:49 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "超过 10 亿美元的看涨押注被清算，而 ETF 流量表明现货市场没有任何帮助",
+    "original_title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+    "published": "Fri, 06 Nov 2026 12:30:00 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
+    "title": "实时更新：比特币窄幅波动，十月就业报告强劲后股市反弹",
+    "original_title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+    "published": "Fri, 06 Nov 2026 11:58:40 +0000",
+    "sentiment": "市场",
+    "score": 3
+  },
+  {
+    "title": "随着人们关注最新的美国就业数据，人工智能主导的抛售之后比特币趋于稳定",
+    "original_title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+    "published": "Fri, 06 Nov 2026 11:49:35 +0000",
+    "sentiment": "市场",
+    "score": 4
+  },
+  {
     "title": "科技股暴跌后 ETF 损失 4.3 亿美元，比特币恢复 76,000 美元水平",
     "original_title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
     "published": "Fri, 06 Nov 2026 09:53:27 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 5
   },
   {
     "title": "希腊批准对加密货币收益征收 10% 的税，对 DeFi 收入征收 15% 的税",
@@ -15,7 +60,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
     "published": "Fri, 06 Nov 2026 08:47:42 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 6
   },
   {
     "title": "比特币开发商提出“地雷”，让量子窃贼失去自己的比特币",
@@ -24,7 +69,7 @@
     "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
     "published": "Fri, 06 Nov 2026 01:30:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 7
   },
   {
     "title": "人工智能交易崩溃拖累股市大幅走低，比特币跌至 76,000 美元",
@@ -33,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
     "published": "Thu, 05 Nov 2026 18:48:40 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 8
   },
   {
     "title": "渣打银行和 SBI 支持加密保险公司 Soter，资金达到 2350 万美元",
@@ -42,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
     "published": "Thu, 05 Nov 2026 16:49:08 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 9
   },
   {
     "title": "顾问的加密货币：投资者在哪里抵押加密货币决定了他们保留多少回报",
@@ -51,7 +96,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
     "published": "Thu, 05 Nov 2026 16:13:32 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 10
   },
   {
     "title": "Gate 首席执行官表示，加密货币交易所必须证明它们能够在像币安这样的黑客攻击中幸存下来",
@@ -60,7 +105,7 @@
     "link": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
     "published": "Thu, 05 Nov 2026 14:21:50 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 11
   },
   {
     "title": "Kraken 母公司 Payward 及其客户在 DeFi 投资推动中购买 AAVE 代币",
@@ -69,7 +114,7 @@
     "link": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
     "published": "Thu, 05 Nov 2026 14:00:00 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 12
   },
   {
     "title": "如果 Anthropic 违约，谷歌可能入股比特币矿商 TeraWulf 价值 190 亿美元的人工智能项目",
@@ -78,59 +123,14 @@
     "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
     "published": "Thu, 05 Nov 2026 13:29:40 +0000",
     "sentiment": "市场",
-    "score": 8
-  },
-  {
-    "title": "乌克兰央行以货币主权担忧为由反对加密货币法案",
-    "original_title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
-    "published": "Thu, 05 Nov 2026 12:50:57 +0000",
-    "sentiment": "市场",
-    "score": 9
-  },
-  {
-    "title": "比特币具有弹性，但杠杆缺失且需求依然不温不火",
-    "original_title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
-    "published": "Thu, 05 Nov 2026 12:27:04 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "VanEck 表示，比特币矿商在 10 月份暴跌 35% 后已超卖",
-    "original_title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
-    "published": "Thu, 05 Nov 2026 11:49:23 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "与特朗普相关的美国比特币利润波动至 1.26 亿美元，但未达到收入预期",
-    "original_title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
-    "published": "Thu, 05 Nov 2026 11:45:54 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "周三比特币因质押 ETF 上市注入反弹而上涨，目前维持在 80,000 美元以上",
-    "original_title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
-    "published": "Thu, 05 Nov 2026 11:30:00 +0000",
-    "sentiment": "市场",
     "score": 13
   },
   {
-    "title": "随着选举收益蒸发，比特币、以太币 ETF 资金流出 5.3 亿美元",
-    "original_title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+    "title": "尼日利亚制定新的加密货币许可规则，禁止算法稳定币",
+    "original_title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
     "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 06 Nov 2026 08:19:18 +0000",
+    "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 06 Nov 2026 13:57:14 +0000",
     "sentiment": "市场",
     "score": 14
   },
@@ -139,9 +139,63 @@
     "original_title": "Here’s what happened in crypto today",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 06 Nov 2026 06:04:41 +0000",
+    "published": "Fri, 06 Nov 2026 13:33:00 +0000",
     "sentiment": "市场",
     "score": 15
+  },
+  {
+    "title": "在智能合约风险解决之前，以太坊开发者不会在 Hoodi 上分叉 Glamsterdam",
+    "original_title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 06 Nov 2026 13:23:08 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
+    "title": "Solana 的上海活动因未经授权的促销而被叫停：报告",
+    "original_title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 06 Nov 2026 12:15:28 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
+    "title": "由于人工智能监管担忧导致 KOSPI 在暴跌 8% 后暂停，比特币持有 7.5 万美元",
+    "original_title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 06 Nov 2026 11:16:53 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "希腊批准从 2027 年开始对加密货币收益征收 10% 的税",
+    "original_title": "Greece approves 10% tax on crypto gains starting in 2027",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 06 Nov 2026 11:05:36 +0000",
+    "sentiment": "市场",
+    "score": 19
+  },
+  {
+    "title": "GOPAX 停止加密货币交易和提款，将所有资产转移至冷库",
+    "original_title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 06 Nov 2026 10:47:33 +0000",
+    "sentiment": "市场",
+    "score": 20
+  },
+  {
+    "title": "随着选举收益蒸发，比特币、以太币 ETF 资金流出 5.3 亿美元",
+    "original_title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 06 Nov 2026 08:19:18 +0000",
+    "sentiment": "市场",
+    "score": 21
   },
   {
     "title": "币安遭受攻击后，加密货币交易所宣传冷存储比率",
@@ -150,7 +204,7 @@
     "link": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 05:07:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 22
   },
   {
     "title": "随着人工智能业务激增，Core Scientific 将在年底前退出比特币挖矿",
@@ -159,7 +213,7 @@
     "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 00:19:49 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 23
   },
   {
     "title": "随着竞争对手转向人工智能，美国比特币 1.26 亿美元的利润掩盖了挖矿压力",
@@ -168,7 +222,7 @@
     "link": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 05 Nov 2026 22:43:18 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 24
   },
   {
     "title": "随着黑客激增，亚洲加密货币交易所做好准备：亚洲快报",
@@ -177,7 +231,7 @@
     "link": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 05 Nov 2026 22:18:42 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 25
   },
   {
     "title": "加密货币盟友弗兰西希尔赢得连任，但将失去众议院主席",
@@ -186,51 +240,6 @@
     "link": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 05 Nov 2026 21:39:19 +0000",
     "sentiment": "市场",
-    "score": 20
-  },
-  {
-    "title": "币安遭受黑客攻击后，美联储、货币监理署对美国银行进行检查，专家指出存在安全风险",
-    "original_title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 05 Nov 2026 18:32:45 +0000",
-    "sentiment": "市场",
-    "score": 21
-  },
-  {
-    "title": "欧洲最大的资产管理公司 Amundi 在以太坊上代币化股票指数基金",
-    "original_title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 05 Nov 2026 18:09:38 +0000",
-    "sentiment": "市场",
-    "score": 22
-  },
-  {
-    "title": "美国股市抹去选举涨幅，比特币暴跌 6% 至 7 周低点",
-    "original_title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 05 Nov 2026 16:48:41 +0000",
-    "sentiment": "市场",
-    "score": 23
-  },
-  {
-    "title": "泰国将于 12 月因未经许可的加密货币交易而封杀 Bitget",
-    "original_title": "Thailand to block Bitget in December over unlicensed crypto trading",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 05 Nov 2026 11:33:20 +0000",
-    "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "比特币相对于标准普尔 500 指数的胜率有所回升，中期历史有利于股市",
-    "original_title": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 05 Nov 2026 10:28:26 +0000",
-    "sentiment": "市场",
-    "score": 25
+    "score": 26
   }
 ]
