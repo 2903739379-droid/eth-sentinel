@@ -130,9 +130,36 @@
     "original_title": "Here’s what happened in crypto today",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 06 Nov 2026 22:00:15 +0000",
+    "published": "Sat, 07 Nov 2026 14:22:00 +0000",
     "sentiment": "市场",
     "score": 14
+  },
+  {
+    "title": "前 FBI 反情报特工窃取了近 250 万美元的加密货币",
+    "original_title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 07 Nov 2026 14:16:00 +0000",
+    "sentiment": "市场",
+    "score": 15
+  },
+  {
+    "title": "比特币持有者已收到电子现金 — 您可以用它做什么？",
+    "original_title": "Bitcoin holders have received eCash — What can you do with it?",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 07 Nov 2026 13:30:00 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
+    "title": "选举民意调查发布前出现可疑的预测市场活动：纽约时报",
+    "original_title": "Suspicious prediction market activity seen before election poll release: NYT",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 07 Nov 2026 09:10:35 +0000",
+    "sentiment": "市场",
+    "score": 17
   },
   {
     "title": "Gnosis Pay 泄露导致银行卡详细信息、个人数据和加密钱包信息暴露",
@@ -141,7 +168,7 @@
     "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 20:51:23 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 18
   },
   {
     "title": "俄罗斯在 11 月 17 日推出之前敲定加密货币交易规则",
@@ -150,7 +177,7 @@
     "link": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 18:47:45 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 19
   },
   {
     "title": "Strive 10 月份购买了 15,124 枚比特币，接近顶级国债持有者",
@@ -159,7 +186,7 @@
     "link": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 18:22:42 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 20
   },
   {
     "title": "由于加密货币市场错过科技股反弹，比特币价格跌至 7.5 万美元以下",
@@ -168,7 +195,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 17:49:33 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 21
   },
   {
     "title": "尼日利亚制定新的加密货币许可规则，禁止算法稳定币",
@@ -177,7 +204,7 @@
     "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 13:57:14 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 22
   },
   {
     "title": "在智能合约风险解决之前，以太坊开发者不会在 Hoodi 上分叉 Glamsterdam",
@@ -186,7 +213,7 @@
     "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 13:23:08 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 23
   },
   {
     "title": "Solana 的上海活动因未经授权的促销而被叫停：报告",
@@ -195,7 +222,7 @@
     "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 12:15:28 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 24
   },
   {
     "title": "由于人工智能监管担忧导致 KOSPI 在暴跌 8% 后暂停，比特币持有 7.5 万美元",
@@ -204,7 +231,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 11:16:53 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 25
   },
   {
     "title": "希腊批准从 2027 年开始对加密货币收益征收 10% 的税",
@@ -213,15 +240,6 @@
     "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 11:05:36 +0000",
     "sentiment": "市场",
-    "score": 23
-  },
-  {
-    "title": "GOPAX 停止加密货币交易和提款，将所有资产转移至冷库",
-    "original_title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 06 Nov 2026 10:47:33 +0000",
-    "sentiment": "市场",
-    "score": 24
+    "score": 26
   }
 ]
