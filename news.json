@@ -1,12 +1,57 @@
 [
   {
+    "title": "一个比特币区块刚刚接近 2015 年的交易记录，但只支付了 180 美元的费用",
+    "original_title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+    "published": "Mon, 09 Nov 2026 16:19:45 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "Solana 将在 SEC 框架下设立首个代币化股票交易场所，Galaxy 上市",
+    "original_title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+    "published": "Mon, 09 Nov 2026 12:41:35 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "比特币多头不能依赖 ETF 流量",
+    "original_title": "Bitcoin bulls can't rely on ETF flows",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
+    "published": "Mon, 09 Nov 2026 12:30:00 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
+    "title": "英伟达主导的科技股抛售给加密货币巨头带来压力",
+    "original_title": "Nvidia-led tech selloff weighs on crypto majors",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
+    "published": "Mon, 09 Nov 2026 11:42:04 +0000",
+    "sentiment": "市场",
+    "score": 3
+  },
+  {
+    "title": "现场新闻：随着股市飙升、原油暴跌，比特币仍然走低",
+    "original_title": "Live news: Bitcoin remains lower as stocks surge, crude oil tumbles",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
+    "published": "Mon, 09 Nov 2026 10:51:48 +0000",
+    "sentiment": "市场",
+    "score": 4
+  },
+  {
     "title": "Coinbase 获得联邦银行监管机构的完整美国信托执照",
     "original_title": "Coinbase gets full U.S. trust charter from federal banking regulator",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
     "published": "Mon, 09 Nov 2026 10:00:00 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 5
   },
   {
     "title": "美国通胀、企业盈利：加密货币周展望",
@@ -15,16 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
     "published": "Mon, 09 Nov 2026 09:33:27 +0000",
     "sentiment": "市场",
-    "score": 1
-  },
-  {
-    "title": "SpaceX 提议在德克萨斯州建造价值 240 亿美元的超级计算机，其价值是其比特币储备的 17 倍",
-    "original_title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
-    "published": "Mon, 09 Nov 2026 06:54:41 +0000",
-    "sentiment": "市场",
-    "score": 2
+    "score": 6
   },
   {
     "title": "Solana 采取行动废除价值 2.7 亿美元的 Drift 黑客攻击中使用的交易功能",
@@ -33,7 +69,7 @@
     "link": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
     "published": "Mon, 09 Nov 2026 06:36:45 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 7
   },
   {
     "title": "两项相互竞争的以太坊提案旨在阻止 Glamsterdam 违反旧合约",
@@ -42,7 +78,7 @@
     "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
     "published": "Mon, 09 Nov 2026 05:16:54 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 8
   },
   {
     "title": "随着关闭临近，币安比特币矿池一周内仅发现一个区块",
@@ -51,16 +87,16 @@
     "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
     "published": "Mon, 09 Nov 2026 04:54:39 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 9
   },
   {
-    "title": "由于英伟达作弊丑闻和伊朗谈判失败引发波动，比特币先跌后涨",
-    "original_title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+    "title": "英伟达作弊丑闻和伊朗谈判失败引发波动，比特币下跌",
+    "original_title": "Bitcoin drops as Nvidia cheating scandal and failed Iran talks trigger volatility",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
     "published": "Mon, 09 Nov 2026 03:21:49 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 10
   },
   {
     "title": "选举结果对加密货币意味着什么：加密货币现状",
@@ -69,7 +105,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
     "published": "Sun, 08 Nov 2026 19:30:00 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 11
   },
   {
     "title": "稳定币的增长已经停滞。支付热潮尚未到来",
@@ -78,97 +114,70 @@
     "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
     "published": "Sun, 08 Nov 2026 19:16:42 +0000",
     "sentiment": "市场",
-    "score": 8
-  },
-  {
-    "title": "这些芬兰家庭从比特币矿工那里获得免费供暖（只要比特币保持在 70,000 美元以上）",
-    "original_title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
-    "published": "Sun, 08 Nov 2026 12:55:59 +0000",
-    "sentiment": "市场",
-    "score": 9
-  },
-  {
-    "title": "一些欧洲国家的币安用户被告知在收费开始前提取加密货币，账户将在年底前关闭",
-    "original_title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-    "published": "Sat, 07 Nov 2026 19:13:16 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "美国财政部采取行动切断加密货币交易所 MEXC 涉嫌非法资金流动的超过 160 亿美元",
-    "original_title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-    "published": "Sat, 07 Nov 2026 17:36:46 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "Gnosis Pay 漏洞暴露了卡号、家庭住址和链接的加密钱包",
-    "original_title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-    "published": "Sat, 07 Nov 2026 16:51:00 +0000",
-    "sentiment": "市场",
     "score": 12
   },
   {
-    "title": "苹果、Meta 拒绝 OKX-ICE 代币化股票计划，让加密货币公司成为值得​​关注的对象",
-    "original_title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
-    "published": "Fri, 06 Nov 2026 20:09:18 +0000",
+    "title": "Formation Securities 计划获得 SEC 豁免的 Solana 股票交易场所",
+    "original_title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 09 Nov 2026 19:52:34 +0000",
     "sentiment": "市场",
     "score": 13
   },
   {
-    "title": "美国预测市场监管机构提出与法院直接冲突的要求",
-    "original_title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
-    "published": "Fri, 06 Nov 2026 17:42:28 +0000",
+    "title": "Mercado Bitcoin 开始在黑客攻击后重新开放，但没有提款时间表",
+    "original_title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 09 Nov 2026 18:25:29 +0000",
     "sentiment": "市场",
     "score": 14
   },
   {
-    "title": "加密行业找到了新的增长方式。从他们身上赚钱是另一回事",
-    "original_title": "The crypto industry has found new ways to grow. Making money from them is another story",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
-    "published": "Fri, 06 Nov 2026 15:26:38 +0000",
+    "title": "在纽约证券交易所代币化交易之后，Avalanche 的 AVAX 引领加密货币涨幅",
+    "original_title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 09 Nov 2026 17:41:02 +0000",
     "sentiment": "市场",
     "score": 15
   },
   {
-    "title": "由于加密货币交易所的本地收购面临不确定性，泰国采取行动阻止 Bitget",
-    "original_title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
-    "published": "Fri, 06 Nov 2026 14:33:49 +0000",
+    "title": "分析师考虑 6.8 万美元目标，比特币和科技股消除了 Nvidia 的紧张情绪",
+    "original_title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 09 Nov 2026 17:13:25 +0000",
     "sentiment": "市场",
     "score": 16
   },
   {
-    "title": "超过 10 亿美元的看涨押注被清算，而 ETF 流量表明现货市场没有任何帮助",
-    "original_title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
-    "published": "Fri, 06 Nov 2026 12:30:00 +0000",
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 09 Nov 2026 13:36:56 +0000",
     "sentiment": "市场",
     "score": 17
   },
   {
-    "title": "实时更新：随着股市反弹在收盘时失去动力，比特币持平于 76,000 美元以下",
-    "original_title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-    "published": "Fri, 06 Nov 2026 11:58:40 +0000",
+    "title": "币安黑客损失的 $2.85B 表明为什么英国需要稳定币冻结规则",
+    "original_title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 09 Nov 2026 13:30:00 +0000",
     "sentiment": "市场",
     "score": 18
+  },
+  {
+    "title": "随着 BTC 持有量攀升至 850,364，策略买入 1,036 比特币",
+    "original_title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 09 Nov 2026 13:29:47 +0000",
+    "sentiment": "市场",
+    "score": 19
   },
   {
     "title": "Nvidia 波动期间 BTC 价格达到 7.3 万美元：本周比特币需要了解的三件事",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 09 Nov 2026 10:03:40 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "币安、Tether 和特朗普加密货币公司面临参议院记录截止日期",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 09 Nov 2026 09:00:17 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "比特币 ETF 下跌 $1.3B，创 6 月底以来最大单周流出量",
@@ -194,15 +203,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 09 Nov 2026 08:17:35 +0000",
-    "sentiment": "市场",
-    "score": 21
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 09 Nov 2026 05:44:53 +0000",
     "sentiment": "市场",
     "score": 22
   },
@@ -214,50 +214,5 @@
     "published": "Sun, 08 Nov 2026 22:59:06 +0000",
     "sentiment": "市场",
     "score": 23
-  },
-  {
-    "title": "前 FBI 反情报特工窃取了近 250 万美元的加密货币",
-    "original_title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sat, 07 Nov 2026 14:16:00 +0000",
-    "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "比特币持有者已收到电子现金 — 您可以用它做什么？",
-    "original_title": "Bitcoin holders have received eCash — What can you do with it?",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sat, 07 Nov 2026 13:30:00 +0000",
-    "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "选举民意调查发布前出现可疑的预测市场活动：纽约时报",
-    "original_title": "Suspicious prediction market activity seen before election poll release: NYT",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sat, 07 Nov 2026 09:10:35 +0000",
-    "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "Gnosis Pay 违规暴露了卡详细信息、个人数据和加密钱包信息",
-    "original_title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 06 Nov 2026 20:51:23 +0000",
-    "sentiment": "市场",
-    "score": 27
-  },
-  {
-    "title": "俄罗斯在 11 月 17 日推出之前敲定加密货币交易规则",
-    "original_title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 06 Nov 2026 18:47:45 +0000",
-    "sentiment": "市场",
-    "score": 28
   }
 ]
