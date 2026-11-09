@@ -27,7 +27,7 @@
     "score": 2
   },
   {
-    "title": "一些欧洲国家的币安用户被告知在收费开始前提取加密货币，账户将在年底前关闭",
+    "title": "一些欧洲国家的币安用户被告知在收费开始之前提取加密货币，账户将在年底前关闭",
     "original_title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
@@ -36,7 +36,7 @@
     "score": 3
   },
   {
-    "title": "美国财政部采取行动切断涉嫌非法流动的超过 160 亿美元的加密货币交易所 MEXC",
+    "title": "美国财政部采取行动切断加密货币交易所 MEXC 涉嫌非法资金流动的超过 160 亿美元",
     "original_title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
@@ -144,22 +144,31 @@
     "score": 15
   },
   {
+    "title": "Vitalik 将 ETH 转向价值存储，美国中期选举后加密货币遭受重创：Hodler 文摘",
+    "original_title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 08 Nov 2026 22:59:06 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
     "title": "这是今天加密货币领域发生的事情",
     "original_title": "Here’s what happened in crypto today",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sun, 08 Nov 2026 13:33:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
-    "title": "前 FBI 反情报特工窃取了近 250 万美元的加密货币",
+    "title": "前 FBI 反情报特工偷走了近 250 万美元的加密货币",
     "original_title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 07 Nov 2026 14:16:00 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "比特币持有者已收到电子现金 — 您可以用它做什么？",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 07 Nov 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "选举民意调查发布前出现可疑的预测市场活动：纽约时报",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 07 Nov 2026 09:10:35 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "Gnosis Pay 违规暴露了卡详细信息、个人数据和加密钱包信息",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 20:51:23 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "俄罗斯在 11 月 17 日推出之前敲定加密货币交易规则",
@@ -195,7 +204,7 @@
     "link": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 18:47:45 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "Strive 10 月份购买了 15,124 枚比特币，接近顶级国债持有者",
@@ -204,7 +213,7 @@
     "link": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 18:22:42 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
     "title": "由于加密货币市场错过科技股反弹，比特币价格跌至 7.5 万美元以下",
@@ -213,7 +222,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 17:49:33 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 24
   },
   {
     "title": "尼日利亚制定新的加密货币许可规则，禁止算法稳定币",
@@ -222,7 +231,7 @@
     "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 13:57:14 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 25
   },
   {
     "title": "在智能合约风险解决之前，以太坊开发者不会在 Hoodi 上分叉 Glamsterdam",
@@ -230,15 +239,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 13:23:08 +0000",
-    "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "Solana 的上海活动因未经授权的促销而被叫停：报告",
-    "original_title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 06 Nov 2026 12:15:28 +0000",
     "sentiment": "市场",
     "score": 26
   }
