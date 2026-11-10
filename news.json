@@ -81,7 +81,7 @@
     "score": 8
   },
   {
-    "title": "比特币矿商 MARA 在六周内以 11 亿美元的价格出售了 13,597 个比特币，并计划出售更多",
+    "title": "比特币矿商 MARA 在六周内以 11 亿美元的价格出售了 13,597 枚比特币，并计划出售更多",
     "original_title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
@@ -108,13 +108,31 @@
     "score": 11
   },
   {
-    "title": "一个比特币区块刚刚接近 2015 年的交易记录，但只支付了 180 美元的费用",
-    "original_title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
-    "published": "Mon, 09 Nov 2026 16:19:45 +0000",
+    "title": "全球银行向稳定币企业投资 2.7 亿美元，目标是 2027 年推出",
+    "original_title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 10 Nov 2026 23:08:28 +0000",
     "sentiment": "市场",
     "score": 12
+  },
+  {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 10 Nov 2026 22:04:47 +0000",
+    "sentiment": "市场",
+    "score": 13
+  },
+  {
+    "title": "加密货币信托公司能否在美国衍生品结算中与银行竞争？",
+    "original_title": "Can crypto trust firms compete with banks in US derivatives settlements?",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 10 Nov 2026 21:34:40 +0000",
+    "sentiment": "市场",
+    "score": 14
   },
   {
     "title": "Mercado 比特币在 4900 万美元黑客攻击后恢复现金提取",
@@ -123,7 +141,7 @@
     "link": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 18:12:07 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 15
   },
   {
     "title": "美国通胀加剧增加美联储12月加息半个百分点的可能性",
@@ -132,7 +150,7 @@
     "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 17:31:09 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 16
   },
   {
     "title": "尽管面临监管斗争，Polymarket 美国交易量仍猛增 266%",
@@ -141,7 +159,7 @@
     "link": "https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 17:07:48 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 17
   },
   {
     "title": "美国CPI通胀“令人沮丧”后，比特币接近11周低点",
@@ -150,7 +168,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 16:25:03 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 18
   },
   {
     "title": "波兰下议院支持涵盖加密货币冻结的制裁法案",
@@ -159,16 +177,7 @@
     "link": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 13:40:39 +0000",
     "sentiment": "市场",
-    "score": 17
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 10 Nov 2026 13:34:37 +0000",
-    "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "马克·莫斯：比特币“有史以来最好的买入机会”已经到来",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "币安研究院表示，随着全球紧缩政策放缓，比特币可能受益",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 13:15:59 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "币安警告 iOS 缺陷可能会暴露加密钱包密钥",
@@ -195,7 +204,7 @@
     "link": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 11:25:57 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "前雇员起诉以太坊基金会和 Vitalik Buterin 解雇",
@@ -204,16 +213,16 @@
     "link": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 10:56:51 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
-    "title": "沃勒讲话后，美联储加息押注达到 96%，比特币价格有望达到 7.4 万美元",
+    "title": "沃勒讲话后美联储加息押注达到 96%，比特币价格有望达到 7.4 万美元",
     "original_title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 10:08:22 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 24
   },
   {
     "title": "BitGo 第三季度利润因加密货币收益而增长近一倍，收入下降 51%",
@@ -222,7 +231,7 @@
     "link": "https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 09:05:16 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 25
   },
   {
     "title": "贝莱德比特币 ETF 七个交易日流出额达到 $1.66B",
@@ -231,33 +240,6 @@
     "link": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 08:02:05 +0000",
     "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "CertiK 表示，加密货币交易所需要对热钱包实行严格的美元上限",
-    "original_title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 10 Nov 2026 05:05:58 +0000",
-    "sentiment": "市场",
     "score": 26
-  },
-  {
-    "title": "HIVE、MARA 开采更多比特币，但随着加密货币价格下跌，收入减少",
-    "original_title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 10 Nov 2026 00:42:39 +0000",
-    "sentiment": "市场",
-    "score": 27
-  },
-  {
-    "title": "您是否应该离开澳大利亚以避免缴纳 47% 的加密货币收益税？",
-    "original_title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 09 Nov 2026 21:00:00 +0000",
-    "sentiment": "市场",
-    "score": 28
   }
 ]
