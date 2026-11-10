@@ -1,21 +1,66 @@
 [
   {
+    "title": "高盛、花旗等银行据称将向稳定币风险投资 2.7 亿美元",
+    "original_title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+    "published": "Tue, 10 Nov 2026 17:32:22 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "加密货币现在与美国政府合作，针对犯罪分子展开两场法律诉讼",
+    "original_title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
+    "published": "Tue, 10 Nov 2026 17:07:22 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "一旦银行迎头赶上，稳定币还能生存吗？",
+    "original_title": "Will stablecoins survive once the banks catch up?",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+    "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
+    "title": "比特币与股市突破，随着 ETF 流出增加而下跌，MARA 减持",
+    "original_title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
+    "published": "Tue, 10 Nov 2026 12:15:00 +0000",
+    "sentiment": "市场",
+    "score": 3
+  },
+  {
+    "title": "在美国通胀报告发布之前，比特币落后于股市反弹",
+    "original_title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
+    "published": "Tue, 10 Nov 2026 11:24:10 +0000",
+    "sentiment": "市场",
+    "score": 4
+  },
+  {
     "title": "由于交易员对美联储加息的定价，比特币在美国通胀报告发布前下跌",
     "original_title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
     "published": "Tue, 10 Nov 2026 10:48:37 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 5
   },
   {
-    "title": "现场新闻：随着比特币和黄金回落，交易员预计美联储 12 月加息",
-    "original_title": "Live news: Traders price in fed rate hike for December as bitcoin and gold retreat",
+    "title": "直播新闻：通胀数据令人失望后，比特币跌至近三个月低点",
+    "original_title": "Live news: Bitcoin falls to nearly three-month low after disappointing inflation data",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
     "published": "Tue, 10 Nov 2026 10:41:45 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 6
   },
   {
     "title": "Telegram 内部成长起来的加密钱包正在独立发展",
@@ -24,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
     "published": "Tue, 10 Nov 2026 09:59:17 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 7
   },
   {
     "title": "一个已有 11 年历史的以太坊钱包转移了 460 万美元，并在几分钟内躲过了一场骗局",
@@ -33,16 +78,16 @@
     "link": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
     "published": "Tue, 10 Nov 2026 07:01:06 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 8
   },
   {
-    "title": "比特币矿商 MARA 在六周内以 11 亿美元的价格出售了 13,597 枚比特币，并计划出售更多",
+    "title": "比特币矿商 MARA 在六周内以 11 亿美元的价格出售了 13,597 个比特币，并计划出售更多",
     "original_title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
     "published": "Tue, 10 Nov 2026 05:18:31 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 9
   },
   {
     "title": "比特币面临美国CPI测试，分析师警告通胀缓解可能还不够",
@@ -51,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
     "published": "Tue, 10 Nov 2026 03:22:26 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 10
   },
   {
     "title": "Securitize 通过收购 River One 进军 6 万亿美元的资产支持金融市场",
@@ -60,7 +105,7 @@
     "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
     "published": "Mon, 09 Nov 2026 22:56:27 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 11
   },
   {
     "title": "一个比特币区块刚刚接近 2015 年的交易记录，但只支付了 180 美元的费用",
@@ -69,52 +114,106 @@
     "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
     "published": "Mon, 09 Nov 2026 16:19:45 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 12
   },
   {
-    "title": "Solana 将在 SEC 框架下设立首个代币化股票交易场所，Galaxy 上市",
-    "original_title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-    "published": "Mon, 09 Nov 2026 12:41:35 +0000",
+    "title": "Mercado 比特币在 4900 万美元黑客攻击后恢复现金提取",
+    "original_title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 10 Nov 2026 18:12:07 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 13
   },
   {
-    "title": "比特币多头不能依赖 ETF 流量",
-    "original_title": "Bitcoin bulls can't rely on ETF flows",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
-    "published": "Mon, 09 Nov 2026 12:30:00 +0000",
+    "title": "美国通胀加剧增加美联储12月加息半个百分点的可能性",
+    "original_title": "Hot US inflation raises odds of half-point Fed hike in December",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 10 Nov 2026 17:31:09 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 14
   },
   {
-    "title": "英伟达主导的科技股抛售给加密货币巨头带来压力",
-    "original_title": "Nvidia-led tech selloff weighs on crypto majors",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
-    "published": "Mon, 09 Nov 2026 11:42:04 +0000",
+    "title": "尽管面临监管斗争，Polymarket 美国交易量仍猛增 266%",
+    "original_title": "Polymarket US trading volume jumps 266% despite regulatory battles",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 10 Nov 2026 17:07:48 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 15
   },
   {
-    "title": "实时新闻：尽管股市和黄金飙升，石油暴跌，加密货币价格仍下跌",
-    "original_title": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-    "published": "Mon, 09 Nov 2026 10:51:48 +0000",
+    "title": "美国CPI通胀“令人沮丧”后，比特币接近11周低点",
+    "original_title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 10 Nov 2026 16:25:03 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 16
   },
   {
-    "title": "沃勒讲话后美联储加息押注达到 96%，比特币价格有望达到 7.4 万美元",
+    "title": "波兰下议院支持涵盖加密货币冻结的制裁法案",
+    "original_title": "Poland’s lower house backs sanctions bill covering crypto freezes",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 10 Nov 2026 13:40:39 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 10 Nov 2026 13:34:37 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "马克·莫斯：比特币“有史以来最好的买入机会”已经到来",
+    "original_title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 10 Nov 2026 13:30:00 +0000",
+    "sentiment": "市场",
+    "score": 19
+  },
+  {
+    "title": "币安研究院表示，随着全球紧缩政策放缓，比特币可能受益",
+    "original_title": "Bitcoin may benefit as global tightening slows, Binance Research says",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 10 Nov 2026 13:15:59 +0000",
+    "sentiment": "市场",
+    "score": 20
+  },
+  {
+    "title": "币安警告 iOS 缺陷可能会暴露加密钱包密钥",
+    "original_title": "Binance warns iOS flaw could expose crypto wallet keys",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 10 Nov 2026 11:25:57 +0000",
+    "sentiment": "市场",
+    "score": 21
+  },
+  {
+    "title": "前雇员起诉以太坊基金会和 Vitalik Buterin 解雇",
+    "original_title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 10 Nov 2026 10:56:51 +0000",
+    "sentiment": "市场",
+    "score": 22
+  },
+  {
+    "title": "沃勒讲话后，美联储加息押注达到 96%，比特币价格有望达到 7.4 万美元",
     "original_title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 10:08:22 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 23
   },
   {
     "title": "BitGo 第三季度利润因加密货币收益而增长近一倍，收入下降 51%",
@@ -123,7 +222,7 @@
     "link": "https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 09:05:16 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 24
   },
   {
     "title": "贝莱德比特币 ETF 七个交易日流出额达到 $1.66B",
@@ -132,16 +231,7 @@
     "link": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 08:02:05 +0000",
     "sentiment": "市场",
-    "score": 14
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 10 Nov 2026 06:00:00 +0000",
-    "sentiment": "市场",
-    "score": 15
+    "score": 25
   },
   {
     "title": "CertiK 表示，加密货币交易所需要对热钱包实行严格的美元上限",
@@ -150,7 +240,7 @@
     "link": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 05:05:58 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 26
   },
   {
     "title": "HIVE、MARA 开采更多比特币，但随着加密货币价格下跌，收入减少",
@@ -159,69 +249,15 @@
     "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 10 Nov 2026 00:42:39 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 27
   },
   {
-    "title": "您是否应该离开澳大利亚以避免缴纳 47% 的加密收益税？",
+    "title": "您是否应该离开澳大利亚以避免缴纳 47% 的加密货币收益税？",
     "original_title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 09 Nov 2026 21:00:00 +0000",
     "sentiment": "市场",
-    "score": 18
-  },
-  {
-    "title": "Formation Securities 计划获得 SEC 豁免的 Solana 股票交易场所",
-    "original_title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 09 Nov 2026 19:52:34 +0000",
-    "sentiment": "市场",
-    "score": 19
-  },
-  {
-    "title": "Mercado Bitcoin 开始在黑客攻击后重新开放，但没有提款时间表",
-    "original_title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 09 Nov 2026 18:25:29 +0000",
-    "sentiment": "市场",
-    "score": 20
-  },
-  {
-    "title": "在纽约证券交易所代币化交易之后，Avalanche 的 AVAX 引领加密货币涨幅",
-    "original_title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 09 Nov 2026 17:41:02 +0000",
-    "sentiment": "市场",
-    "score": 21
-  },
-  {
-    "title": "分析师考虑 6.8 万美元目标，比特币和科技股消除了 Nvidia 的紧张情绪",
-    "original_title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 09 Nov 2026 17:13:25 +0000",
-    "sentiment": "市场",
-    "score": 22
-  },
-  {
-    "title": "币安黑客损失的 $2.85B 表明为什么英国需要稳定币冻结规则",
-    "original_title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 09 Nov 2026 13:30:00 +0000",
-    "sentiment": "市场",
-    "score": 23
-  },
-  {
-    "title": "随着 BTC 持有量攀升至 850,364，策略买入 1,036 比特币",
-    "original_title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 09 Nov 2026 13:29:47 +0000",
-    "sentiment": "市场",
-    "score": 24
+    "score": 28
   }
 ]
