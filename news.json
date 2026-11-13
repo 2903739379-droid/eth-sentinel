@@ -1,12 +1,48 @@
 [
   {
-    "title": "现场新闻：美元走强给风险资产带来压力，比特币跌破200周移动均线",
-    "original_title": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
+    "title": "随着 Anthropic 的重磅 IPO 临近，比特币将连续第六周下跌",
+    "original_title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+    "published": "Fri, 13 Nov 2026 16:01:27 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "Kraken 母公司 Payward 表示，加密货币交易之外的扩张有助于缓解收入下降",
+    "original_title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
+    "published": "Fri, 13 Nov 2026 14:02:00 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "比特币的动量指标正在变红，可能会使价格回到 60,000 美元以下",
+    "original_title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
+    "published": "Fri, 13 Nov 2026 12:14:22 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
+    "title": "美元因利率前景而上涨，比特币触及 12 周低点，清算额突破 16 亿美元",
+    "original_title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+    "published": "Fri, 13 Nov 2026 11:52:25 +0000",
+    "sentiment": "市场",
+    "score": 3
+  },
+  {
+    "title": "实时更新：比特币跌回熊市低点，抹去了夏末的反弹",
+    "original_title": "Live updates: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
     "published": "Fri, 13 Nov 2026 09:16:58 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 4
   },
   {
     "title": "以太坊财务公司 BTCS 亏本出售以太币，以保持 6400 万美元的 Aave 贷款健康",
@@ -15,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
     "published": "Fri, 13 Nov 2026 07:05:29 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 5
   },
   {
     "title": "比特币公司 Nakamoto 欠 Kraken 1.65 亿美元，超过其整个市值",
@@ -24,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
     "published": "Fri, 13 Nov 2026 06:03:41 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 6
   },
   {
     "title": "比特币 ETF 今年净流出已减少超过 15 亿美元",
@@ -33,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
     "published": "Fri, 13 Nov 2026 05:45:26 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 7
   },
   {
     "title": "SpaceX-特斯拉合并谈判让 30,000 比特币重新成为焦点",
@@ -42,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
     "published": "Fri, 13 Nov 2026 05:08:59 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 8
   },
   {
     "title": "美元指数创 19 个月新高，比特币跌破 70,000 美元",
@@ -51,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
     "published": "Fri, 13 Nov 2026 03:37:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 9
   },
   {
     "title": "朝鲜币安网黑客攻击事件面临美国打击，司法部目标追缴价值 12 亿美元的被盗加密货币",
@@ -60,7 +96,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
     "published": "Thu, 12 Nov 2026 22:55:52 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 10
   },
   {
     "title": "Kalshi 终止了小唐纳德·特朗普 (Donald Trump Jr.) 就 1789 Capital 的 Polymarket 投资提供的咨询合同",
@@ -69,7 +105,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
     "published": "Thu, 12 Nov 2026 21:07:49 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 11
   },
   {
     "title": "加密行业告诉法庭，伊利诺伊州的加密税不可能按照书面规定执行",
@@ -78,7 +114,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
     "published": "Thu, 12 Nov 2026 16:45:52 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 12
   },
   {
     "title": "DTCC 将 Solana 添加到华尔街代币化计划中，目标是 2027 年推出",
@@ -87,7 +123,7 @@
     "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
     "published": "Thu, 12 Nov 2026 15:45:48 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 13
   },
   {
     "title": "顾问加密货币：为运行金融市场而构建的区块链",
@@ -96,7 +132,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
     "published": "Thu, 12 Nov 2026 15:34:29 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 14
   },
   {
     "title": "Jupiter 将 Anchorage 支持的 USDGO 添加到其价值 10 亿美元的 Solana 借贷平台中",
@@ -105,52 +141,43 @@
     "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
     "published": "Thu, 12 Nov 2026 14:45:00 +0000",
     "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "比特币疲软抹去了 9 月份的看涨信号",
-    "original_title": "Bitcoin weakness erases September's bullish signal",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
-    "published": "Thu, 12 Nov 2026 12:15:00 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "英国 Griffin 银行融资 2000 万美元，进军稳定币支付领域",
-    "original_title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
-    "published": "Thu, 12 Nov 2026 12:04:42 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "以太坊研究人员放弃更快的区块，力争在 2027 年实现量子防御",
-    "original_title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
-    "published": "Thu, 12 Nov 2026 11:43:41 +0000",
-    "sentiment": "市场",
-    "score": 14
-  },
-  {
-    "title": "随着 ETF 流出进入第五天，比特币与 Nvidia 一起下跌",
-    "original_title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
-    "published": "Thu, 12 Nov 2026 11:30:00 +0000",
-    "sentiment": "市场",
     "score": 15
   },
   {
-    "title": "随着 Kalshi 的蓬勃发展，Polymarket 在投资者压力下裁员",
-    "original_title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
-    "published": "Thu, 12 Nov 2026 10:42:06 +0000",
+    "title": "尽管美国 PPI 数据降温，但随着股市下滑，比特币仍保持在 7 万美元以下",
+    "original_title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 13 Nov 2026 16:39:11 +0000",
     "sentiment": "市场",
     "score": 16
+  },
+  {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 13 Nov 2026 13:49:44 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
+    "title": "第三季度营收转负后中本聪股价盘前下跌 6%",
+    "original_title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 13 Nov 2026 13:04:19 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "以色列警方在价值 500 万美元的 WhatsApp 加密货币交易调查中逮捕了五人",
+    "original_title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 13 Nov 2026 12:19:01 +0000",
+    "sentiment": "市场",
+    "score": 19
   },
   {
     "title": "分析师预计比特币下一步风险将达到 5.77 万美元，重返 200 周趋势线",
@@ -159,7 +186,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 09:39:05 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 20
   },
   {
     "title": "Jane Street 将富达比特币 ETF 持仓量增加近 8 倍，并削减 IBIT",
@@ -168,16 +195,7 @@
     "link": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 09:05:10 +0000",
     "sentiment": "市场",
-    "score": 18
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 13 Nov 2026 06:16:46 +0000",
-    "sentiment": "市场",
-    "score": 19
+    "score": 21
   },
   {
     "title": "由于流动性稀薄、ETF 流出，比特币跌破 7 万美元",
@@ -186,7 +204,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 06:00:15 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 22
   },
   {
     "title": "卡尔希终止了小唐纳德·特朗普在 Polymarket 投资方面的顾问角色：路透社",
@@ -195,16 +213,16 @@
     "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 12 Nov 2026 22:05:01 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 23
   },
   {
-    "title": "由于 MSCI 指数被剔除、比特币遭到抛售，Strategy 股票下跌 5%",
+    "title": "由于 MSCI 指数被移除、比特币遭到抛售，策略股下跌 5%",
     "original_title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 12 Nov 2026 21:52:04 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 24
   },
   {
     "title": "美国司法部、商业团体和 DeFi 公司挑战伊利诺伊州加密税",
@@ -213,7 +231,7 @@
     "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 12 Nov 2026 20:58:06 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 25
   },
   {
     "title": "由于钱包规则限制访问，DTCC 计划 Solana 扩展",
@@ -222,51 +240,6 @@
     "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 12 Nov 2026 20:07:41 +0000",
     "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "黄仁勋下台后，英伟达股价暴跌，比特币跌至 7.1 万美元",
-    "original_title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 15:46:06 +0000",
-    "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "第三季度收入低于预期后，Bit Digital 股价盘前下跌 5%",
-    "original_title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 13:52:39 +0000",
-    "sentiment": "市场",
     "score": 26
-  },
-  {
-    "title": "泰国提议稳定币存款和取款每日上限为 14.8 万美元",
-    "original_title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 13:44:03 +0000",
-    "sentiment": "市场",
-    "score": 27
-  },
-  {
-    "title": "加密货币黑客损失相当于每赚 1 美元就损失 57 美分：Ark’s Valente",
-    "original_title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 13:31:59 +0000",
-    "sentiment": "市场",
-    "score": 28
-  },
-  {
-    "title": "Alt-L1 结束了吗？安全性和成本推动较小的链转向以太坊",
-    "original_title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 13:30:00 +0000",
-    "sentiment": "市场",
-    "score": 29
   }
 ]
