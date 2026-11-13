@@ -1,12 +1,39 @@
 [
   {
+    "title": "朝鲜币安网黑客攻击事件面临美国打击，司法部目标追缴价值 12 亿美元的被盗加密货币",
+    "original_title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+    "published": "Thu, 12 Nov 2026 22:55:52 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "Kalshi 终止了小唐纳德·特朗普 (Donald Trump Jr.) 就 1789 Capital 的 Polymarket 投资提供的咨询合同",
+    "original_title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+    "published": "Thu, 12 Nov 2026 21:07:49 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "加密行业告诉法庭，伊利诺伊州的加密税不可能按照书面规定执行",
+    "original_title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
+    "published": "Thu, 12 Nov 2026 16:45:52 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
     "title": "DTCC 将 Solana 添加到华尔街代币化计划中，目标是 2027 年推出",
     "original_title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
     "published": "Thu, 12 Nov 2026 15:45:48 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 3
   },
   {
     "title": "顾问加密货币：为运行金融市场而构建的区块链",
@@ -15,7 +42,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
     "published": "Thu, 12 Nov 2026 15:34:29 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 4
   },
   {
     "title": "Jupiter 将 Anchorage 支持的 USDGO 添加到其价值 10 亿美元的 Solana 借贷平台中",
@@ -24,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
     "published": "Thu, 12 Nov 2026 14:45:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 5
   },
   {
     "title": "比特币疲软抹去了 9 月份的看涨信号",
@@ -33,7 +60,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
     "published": "Thu, 12 Nov 2026 12:15:00 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 6
   },
   {
     "title": "英国 Griffin 银行融资 2000 万美元，进军稳定币支付领域",
@@ -42,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
     "published": "Thu, 12 Nov 2026 12:04:42 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 7
   },
   {
     "title": "以太坊研究人员放弃更快的区块，力争在 2027 年实现量子防御",
@@ -51,7 +78,7 @@
     "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
     "published": "Thu, 12 Nov 2026 11:43:41 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 8
   },
   {
     "title": "随着 ETF 流出进入第五天，比特币与 Nvidia 一起下跌",
@@ -60,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
     "published": "Thu, 12 Nov 2026 11:30:00 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 9
   },
   {
     "title": "随着 Kalshi 的蓬勃发展，Polymarket 在投资者压力下裁员",
@@ -69,7 +96,7 @@
     "link": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
     "published": "Thu, 12 Nov 2026 10:42:06 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 10
   },
   {
     "title": "印度金融犯罪监管机构因涉嫌非法跨境交易而突击搜查加密货币交易所 CoinDCX 和 Delta",
@@ -78,7 +105,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
     "published": "Thu, 12 Nov 2026 10:10:48 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 11
   },
   {
     "title": "实时更新：随着英伟达黄仁勋辞职、利率飙升，比特币跌破 72,000 美元",
@@ -87,7 +114,7 @@
     "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
     "published": "Thu, 12 Nov 2026 09:15:04 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 12
   },
   {
     "title": "Gemini 以不到 1000 万美元的价格将英国和欧洲业务出售给稳定币支付公司 KAST",
@@ -96,7 +123,7 @@
     "link": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
     "published": "Thu, 12 Nov 2026 09:07:00 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 13
   },
   {
     "title": "由于矿机收入下降 96%，嘉楠耘智可能会出售更多比特币用于股票回购",
@@ -105,7 +132,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
     "published": "Thu, 12 Nov 2026 07:41:18 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 14
   },
   {
     "title": "MSCI 正在将 Strategy 从其指数中剔除，这一排除可能会打击其比特币购买机器",
@@ -114,16 +141,52 @@
     "link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
     "published": "Thu, 12 Nov 2026 07:00:37 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 15
   },
   {
-    "title": "Bitcoin Core 揭示了导致数千个节点信任 Tor 上任何陌生人的错误",
-    "original_title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-    "published": "Thu, 12 Nov 2026 05:22:31 +0000",
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 12 Nov 2026 22:11:41 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 16
+  },
+  {
+    "title": "卡尔希终止了小唐纳德·特朗普在 Polymarket 投资方面的顾问角色：路透社",
+    "original_title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 12 Nov 2026 22:05:01 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
+    "title": "由于 MSCI 指数被移除、比特币遭到抛售，策略股下跌 5%",
+    "original_title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 12 Nov 2026 21:52:04 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "美国司法部、商业团体和 DeFi 公司挑战伊利诺伊州加密税",
+    "original_title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 12 Nov 2026 20:58:06 +0000",
+    "sentiment": "市场",
+    "score": 19
+  },
+  {
+    "title": "由于钱包规则限制访问，DTCC 计划 Solana 扩展",
+    "original_title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 12 Nov 2026 20:07:41 +0000",
+    "sentiment": "市场",
+    "score": 20
   },
   {
     "title": "黄仁勋下台后，英伟达股价暴跌，比特币跌至 7.1 万美元",
@@ -132,7 +195,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 12 Nov 2026 15:46:06 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 21
   },
   {
     "title": "第三季度收入低于预期后，Bit Digital 股价盘前下跌 5%",
@@ -141,16 +204,16 @@
     "link": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 12 Nov 2026 13:52:39 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 22
   },
   {
-    "title": "泰国提议稳定币存取款每日上限为 14.8 万美元",
+    "title": "泰国提议稳定币存款和取款每日上限为 14.8 万美元",
     "original_title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 12 Nov 2026 13:44:03 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 23
   },
   {
     "title": "加密货币黑客损失相当于每赚 1 美元就损失 57 美分：Ark’s Valente",
@@ -159,7 +222,7 @@
     "link": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 12 Nov 2026 13:31:59 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 24
   },
   {
     "title": "Alt-L1 结束了吗？安全性和成本推动较小的链转向以太坊",
@@ -168,7 +231,7 @@
     "link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 12 Nov 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 25
   },
   {
     "title": "Uber 英国银行合作伙伴 Griffin 为稳定币服务融资 2000 万美元",
@@ -177,7 +240,7 @@
     "link": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 12 Nov 2026 13:21:56 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 26
   },
   {
     "title": "Coinbase 高管表示，欧盟 DeFi 提案可能会将用户推向风险更高的平台",
@@ -186,7 +249,7 @@
     "link": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 12 Nov 2026 12:21:43 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 27
   },
   {
     "title": "稳定币供应量下降 $14.2B，创 2022 年 6 月以来最大 30 天跌幅",
@@ -195,7 +258,7 @@
     "link": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 12 Nov 2026 11:38:50 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 28
   },
   {
     "title": "Tron 和 Tether 在 T3 犯罪部门解散后引入 Chainaanalysis",
@@ -204,60 +267,6 @@
     "link": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 12 Nov 2026 11:00:00 +0000",
     "sentiment": "市场",
-    "score": 22
-  },
-  {
-    "title": "Ethlabs 放弃 Hegotá 插槽提案以推动 2027 年量子准备就绪",
-    "original_title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 10:30:29 +0000",
-    "sentiment": "市场",
-    "score": 23
-  },
-  {
-    "title": "贝莱德比特币 ETF 九个交易日流出额达到 20 亿美元",
-    "original_title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 08:06:48 +0000",
-    "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 06:00:00 +0000",
-    "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "韩国允许在黑客威胁期间冻结加密提款",
-    "original_title": "South Korea to permit crypto withdrawal freezes during hacking threats",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 05:54:48 +0000",
-    "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "未召集的美国众议院竞选可能会向国会派遣更多的加密货币盟友",
-    "original_title": "Uncalled US House races could send more crypto allies to Congress",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 11 Nov 2026 22:05:17 +0000",
-    "sentiment": "市场",
-    "score": 27
-  },
-  {
-    "title": "野村证券探讨出售加密货币部门 Laser Digital：彭博社",
-    "original_title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 11 Nov 2026 21:36:01 +0000",
-    "sentiment": "市场",
-    "score": 28
+    "score": 29
   }
 ]
