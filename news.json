@@ -108,7 +108,7 @@
     "score": 11
   },
   {
-    "title": "朝鲜币安网黑客攻击事件面临美国打击，司法部目标追缴价值 12 亿美元的被盗加密货币",
+    "title": "朝鲜币安黑客攻击事件面临美国打击，司法部目标追缴价值 12 亿美元的被盗加密货币",
     "original_title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
@@ -153,13 +153,22 @@
     "score": 16
   },
   {
-    "title": "Jupiter 将 Anchorage 支持的 USDGO 添加到其价值 10 亿美元的 Solana 借贷平台中",
-    "original_title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
-    "published": "Thu, 12 Nov 2026 14:45:00 +0000",
+    "title": "MegaETH母公司在重组和人工智能推动下裁员20%",
+    "original_title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 14 Nov 2026 08:12:30 +0000",
     "sentiment": "市场",
     "score": 17
+  },
+  {
+    "title": "比特币ETF两周内下跌$2.35B 贝莱德连跌触及11",
+    "original_title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 14 Nov 2026 06:33:13 +0000",
+    "sentiment": "市场",
+    "score": 18
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 22:08:37 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "随着 Blockstream 推出比特币托管系统，Adam Back 提出了更简单的安全性",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 21:49:27 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "由于交易放缓影响盈利，Kraken 母公司 Payward 扩大市场份额",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 21:01:39 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "随着参议院审查力度加大，美国监管机构在加密货币信托章程上取得进展",
@@ -195,7 +204,7 @@
     "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 20:53:20 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "比特币销售影响盈利，Metaplanet 亏损 1.7 亿美元",
@@ -204,7 +213,7 @@
     "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 18:28:29 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
     "title": "尽管美国 PPI 数据降温，但随着股市下滑，比特币仍保持在 7 万美元以下",
@@ -213,7 +222,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 16:39:11 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 24
   },
   {
     "title": "第三季度营收转负后中本聪股价盘前下跌 6%",
@@ -222,7 +231,7 @@
     "link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 13:04:19 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 25
   },
   {
     "title": "以色列警方在价值 500 万美元的 WhatsApp 加密货币交易调查中逮捕了五人",
@@ -231,7 +240,7 @@
     "link": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 12:19:01 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 26
   },
   {
     "title": "分析师预计比特币下一步风险将达到 5.77 万美元，重返 200 周趋势线",
@@ -240,7 +249,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 09:39:05 +0000",
     "sentiment": "市场",
-    "score": 26
+    "score": 27
   },
   {
     "title": "Jane Street 将富达比特币 ETF 持仓量增加近 8 倍，并削减 IBIT",
@@ -249,7 +258,7 @@
     "link": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 09:05:10 +0000",
     "sentiment": "市场",
-    "score": 27
+    "score": 28
   },
   {
     "title": "由于流动性稀薄、ETF 流出，比特币跌破 7 万美元",
@@ -258,6 +267,6 @@
     "link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 06:00:15 +0000",
     "sentiment": "市场",
-    "score": 28
+    "score": 29
   }
 ]
