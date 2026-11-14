@@ -1,12 +1,21 @@
 [
   {
+    "title": "比特币矿工每年向巴拉圭支付 3.5 亿美元，但人工智能正在将他们赶走",
+    "original_title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+    "published": "Fri, 13 Nov 2026 23:30:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "Anthropic IPO 狂潮加剧市场不安，比特币暴跌至 68,000 美元",
     "original_title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
     "published": "Fri, 13 Nov 2026 18:39:58 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "随着 Anthropic 的重磅 IPO 临近，比特币将连续第六周下跌",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
     "published": "Fri, 13 Nov 2026 16:01:27 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Kraken 母公司 Payward 表示，加密货币交易之外的扩张有助于缓解收入下降",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
     "published": "Fri, 13 Nov 2026 14:02:00 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "比特币的动量指标正在变红，可能会使价格回到 60,000 美元以下",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
     "published": "Fri, 13 Nov 2026 12:14:22 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "美元因利率前景而上涨，比特币触及 12 周低点，清算额突破 16 亿美元",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
     "published": "Fri, 13 Nov 2026 11:52:25 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "实时更新：随着夏末的反弹大部分被消灭，比特币面临熊市低点",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
     "published": "Fri, 13 Nov 2026 09:16:58 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "以太坊财务公司 BTCS 亏本出售以太币，以保持 6400 万美元的 Aave 贷款健康",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
     "published": "Fri, 13 Nov 2026 07:05:29 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "比特币公司 Nakamoto 欠 Kraken 1.65 亿美元，超过其整个市值",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
     "published": "Fri, 13 Nov 2026 06:03:41 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "比特币 ETF 今年净流出已减少超过 15 亿美元",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
     "published": "Fri, 13 Nov 2026 05:45:26 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "SpaceX-特斯拉合并谈判让 30,000 比特币重新成为焦点",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
     "published": "Fri, 13 Nov 2026 05:08:59 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "美元指数创 19 个月新高，比特币跌破 70,000 美元",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
     "published": "Fri, 13 Nov 2026 03:37:00 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "朝鲜币安网黑客攻击事件面临美国打击，司法部目标追缴价值 12 亿美元的被盗加密货币",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
     "published": "Thu, 12 Nov 2026 22:55:52 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "Kalshi 终止了小唐纳德·特朗普 (Donald Trump Jr.) 就 1789 Capital 的 Polymarket 投资提供的咨询合同",
@@ -114,7 +123,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
     "published": "Thu, 12 Nov 2026 21:07:49 +0000",
     "sentiment": "市场",
-    "score": 12
+    "score": 13
   },
   {
     "title": "加密行业告诉法庭，伊利诺伊州的加密税不可能按照书面规定执行",
@@ -123,7 +132,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
     "published": "Thu, 12 Nov 2026 16:45:52 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 14
   },
   {
     "title": "DTCC 将 Solana 添加到华尔街代币化计划中，目标是 2027 年推出",
@@ -132,7 +141,7 @@
     "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
     "published": "Thu, 12 Nov 2026 15:45:48 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 15
   },
   {
     "title": "顾问加密货币：为运行金融市场而构建的区块链",
@@ -141,7 +150,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
     "published": "Thu, 12 Nov 2026 15:34:29 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "Jupiter 将 Anchorage 支持的 USDGO 添加到其价值 10 亿美元的 Solana 借贷平台中",
@@ -150,7 +159,7 @@
     "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
     "published": "Thu, 12 Nov 2026 14:45:00 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "这是今天加密货币领域发生的事情",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 22:08:37 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "随着 Blockstream 推出比特币托管系统，Adam Back 提出了更简单的安全性",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 21:49:27 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "由于交易放缓影响盈利，Kraken 母公司 Payward 扩大市场份额",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 21:01:39 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "随着参议院审查力度加大，美国监管机构在加密货币信托章程上取得进展",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 20:53:20 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "比特币销售影响盈利，Metaplanet 亏损 1.7 亿美元",
@@ -195,7 +204,7 @@
     "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 18:28:29 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "尽管美国 PPI 数据降温，但随着股市下滑，比特币仍保持在 7 万美元以下",
@@ -204,7 +213,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 16:39:11 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
     "title": "第三季度营收转负后中本聪股价盘前下跌 6%",
@@ -213,7 +222,7 @@
     "link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 13:04:19 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 24
   },
   {
     "title": "以色列警方在价值 500 万美元的 WhatsApp 加密货币交易调查中逮捕了五人",
@@ -222,7 +231,7 @@
     "link": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 12:19:01 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 25
   },
   {
     "title": "分析师预计比特币下一步风险将达到 5.77 万美元，重返 200 周趋势线",
@@ -231,7 +240,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 09:39:05 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 26
   },
   {
     "title": "Jane Street 将富达比特币 ETF 持仓量增加近 8 倍，并削减 IBIT",
@@ -240,7 +249,7 @@
     "link": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 09:05:10 +0000",
     "sentiment": "市场",
-    "score": 26
+    "score": 27
   },
   {
     "title": "由于流动性稀薄、ETF 流出，比特币跌破 7 万美元",
@@ -249,6 +258,6 @@
     "link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 06:00:15 +0000",
     "sentiment": "市场",
-    "score": 27
+    "score": 28
   }
 ]
