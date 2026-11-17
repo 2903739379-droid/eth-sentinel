@@ -1,263 +1,254 @@
 [
   {
-    "title": "前 OpenAI 研究基金在投资组合暴跌后抛售比特币矿工，将 IREN 削减 94%",
+    "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+    "original_title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
+    "published": "Tue, 17 Nov 2026 17:00:05 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+    "original_title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+    "published": "Tue, 17 Nov 2026 15:11:00 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+    "original_title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+    "published": "Tue, 17 Nov 2026 13:02:56 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
+    "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+    "original_title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
+    "published": "Tue, 17 Nov 2026 12:16:53 +0000",
+    "sentiment": "市场",
+    "score": 3
+  },
+  {
+    "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
     "original_title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
     "published": "Tue, 17 Nov 2026 12:00:55 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 4
   },
   {
-    "title": "即使 ETF 连续流出结束，比特币仍保持在 64,000 美元附近",
+    "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
     "original_title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
     "published": "Tue, 17 Nov 2026 11:36:07 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 5
   },
   {
-    "title": "Solana 基金会获得加密数据提供商 CoinGecko 的多数股权",
+    "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
     "original_title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
     "published": "Tue, 17 Nov 2026 11:29:51 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 6
   },
   {
-    "title": "新的 DeFi 收益一代瞄准了“类似诈骗”的银行账户，这些账户保留了所有利息",
+    "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
     "original_title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
     "published": "Tue, 17 Nov 2026 11:25:58 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 7
   },
   {
-    "title": "美联储理事迈克尔·巴尔警告人工智能代理可能在几分钟内引发银行挤兑",
+    "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
     "original_title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
     "published": "Tue, 17 Nov 2026 10:48:12 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 8
   },
   {
-    "title": "实时更新：随着科技股在英伟达财报公布之前下滑，比特币保持在 64,000 美元附近",
-    "original_title": "Live updates: Bitcoin holds near $64,000 as tech slides ahead of Nvidia earnings",
+    "title": "Live updates: Bitcoin and stocks continue slump as Huang signals interest in returning to Nvidia",
+    "original_title": "Live updates: Bitcoin and stocks continue slump as Huang signals interest in returning to Nvidia",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
     "published": "Tue, 17 Nov 2026 10:33:26 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 9
   },
   {
-    "title": "黑客在汇丰银行和 Ledger 等 178 个主要网站上植入加密窃取代码",
+    "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
     "original_title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
     "published": "Tue, 17 Nov 2026 10:22:18 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 10
   },
   {
-    "title": "币安黑客在沉默两周后转移了价值 6300 万美元的被盗以太币",
+    "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
     "original_title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
     "published": "Tue, 17 Nov 2026 09:21:19 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 11
   },
   {
-    "title": "Wintermute表示，随着美联储加息押注的增加，比特币可能会跌至5万美元以上",
+    "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
     "original_title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
     "published": "Tue, 17 Nov 2026 07:38:07 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 12
   },
   {
-    "title": "卡尔达诺基金会使用比市场高出 33% 的 ADA 价格从财政部筹集 500 万美元",
+    "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
     "original_title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
     "published": "Tue, 17 Nov 2026 06:54:49 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 13
   },
   {
-    "title": "据报道，富国银行的贝莱德比特币 ETF 持有量翻了一番，达到 23.5 亿美元",
+    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
     "original_title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
     "published": "Tue, 17 Nov 2026 05:37:23 +0000",
     "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "由于英伟达的盈利可能会加剧加密货币抛售，比特币有跌破 60,000 美元的风险",
-    "original_title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto selloff",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
-    "published": "Mon, 16 Nov 2026 20:35:21 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "美国参议院民主党人要求商品期货交易委员会放弃其需求预测市场无视禁令",
-    "original_title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
-    "published": "Mon, 16 Nov 2026 18:54:19 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "Lighter 在 1040 万美元的加密货币漏洞后暂停所有提款",
-    "original_title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
-    "published": "Mon, 16 Nov 2026 16:41:42 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "巴西央行因稳定币洗钱言论而面临强烈反对",
-    "original_title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
-    "published": "Mon, 16 Nov 2026 15:54:11 +0000",
-    "sentiment": "市场",
     "score": 14
   },
   {
-    "title": "德国议会提议在不提出刑事指控的情况下扣押加密货币",
-    "original_title": "German parliament proposes crypto seizures without criminal charges",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
-    "published": "Mon, 16 Nov 2026 15:44:59 +0000",
+    "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+    "original_title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 17 Nov 2026 20:05:04 +0000",
     "sentiment": "市场",
     "score": 15
   },
   {
-    "title": "六年多后，Solana 放弃了“测试版”标签",
-    "original_title": "Solana drops ‘beta’ label after more than six years",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
-    "published": "Mon, 16 Nov 2026 13:03:16 +0000",
+    "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+    "original_title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 17 Nov 2026 17:39:41 +0000",
     "sentiment": "市场",
     "score": 16
   },
   {
-    "title": "贝莱德的比特币 ETF 在极度恐惧中结束了 $2.35B 的连续流出",
+    "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
+    "original_title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 17 Nov 2026 16:39:43 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 17 Nov 2026 14:54:40 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+    "original_title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 17 Nov 2026 14:45:49 +0000",
+    "sentiment": "市场",
+    "score": 19
+  },
+  {
+    "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
+    "original_title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 17 Nov 2026 13:30:00 +0000",
+    "sentiment": "市场",
+    "score": 20
+  },
+  {
+    "title": "Revolut plans four blockchain-based funds for private markets, chair says",
+    "original_title": "Revolut plans four blockchain-based funds for private markets, chair says",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 17 Nov 2026 12:24:20 +0000",
+    "sentiment": "市场",
+    "score": 21
+  },
+  {
+    "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
     "original_title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 17 Nov 2026 11:18:18 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 22
   },
   {
-    "title": "比特币已实现损失指标超过 6 月高点，未平仓合约跌至两年低点",
+    "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
     "original_title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 17 Nov 2026 11:14:05 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 23
   },
   {
-    "title": "美国法官在误审后为价值 2500 万美元的以太坊 MEV 案件中的兄弟无罪",
+    "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
     "original_title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 17 Nov 2026 09:30:05 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 24
   },
   {
-    "title": "高盛报告称，随着 ETHA 股票数量激增，以太 ETF 的价值为 $1.22B",
+    "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
     "original_title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 17 Nov 2026 09:08:32 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 25
   },
   {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 17 Nov 2026 06:00:00 +0000",
-    "sentiment": "市场",
-    "score": 21
-  },
-  {
-    "title": "黑客将信用卡、加密窃取恶意软件注入 178 个主要网站",
+    "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
     "original_title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 17 Nov 2026 01:02:05 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 26
   },
   {
-    "title": "托管银行在最高法院要求美联储直接付款的申请中失败",
+    "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
     "original_title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 16 Nov 2026 22:54:57 +0000",
     "sentiment": "市场",
-    "score": 23
-  },
-  {
-    "title": "德国立法者支持在刑事案件之外冻结加密货币",
-    "original_title": "German lawmakers back crypto freezes outside criminal cases",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 16 Nov 2026 22:46:44 +0000",
-    "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "财政部报告称市场低迷期间比特币购买量接近 ETH 供应量的 5%",
-    "original_title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 16 Nov 2026 20:45:47 +0000",
-    "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "鲍里斯·约翰逊表示，尽管对加密货币存在疑虑，英国仍必须领导区块链发展",
-    "original_title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 16 Nov 2026 20:18:02 +0000",
-    "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "英伟达的动荡考验比特币矿工的人工智能融资计划",
-    "original_title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 16 Nov 2026 18:07:49 +0000",
-    "sentiment": "市场",
     "score": 27
-  },
-  {
-    "title": "由于人工智能神经紧张，美国股市进一步下跌，比特币价格未能守住 6.5 万美元",
-    "original_title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 16 Nov 2026 16:26:52 +0000",
-    "sentiment": "市场",
-    "score": 28
   }
 ]
