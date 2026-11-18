@@ -1,12 +1,21 @@
 [
   {
+    "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+    "original_title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+    "published": "Wed, 18 Nov 2026 00:46:25 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
     "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
     "original_title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
     "published": "Tue, 17 Nov 2026 17:00:05 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 1
   },
   {
     "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
@@ -15,7 +24,7 @@
     "link": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
     "published": "Tue, 17 Nov 2026 15:11:00 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 2
   },
   {
     "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
@@ -24,7 +33,7 @@
     "link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
     "published": "Tue, 17 Nov 2026 13:02:56 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 3
   },
   {
     "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
@@ -33,7 +42,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
     "published": "Tue, 17 Nov 2026 12:16:53 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 4
   },
   {
     "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
@@ -42,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
     "published": "Tue, 17 Nov 2026 12:00:55 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 5
   },
   {
     "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
@@ -51,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
     "published": "Tue, 17 Nov 2026 11:36:07 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
@@ -60,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
     "published": "Tue, 17 Nov 2026 11:29:51 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 7
   },
   {
     "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
@@ -69,7 +78,7 @@
     "link": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
     "published": "Tue, 17 Nov 2026 11:25:58 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 8
   },
   {
     "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
@@ -78,7 +87,7 @@
     "link": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
     "published": "Tue, 17 Nov 2026 10:48:12 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 9
   },
   {
     "title": "Live updates: Bitcoin and stocks continue slump as Huang signals interest in returning to Nvidia",
@@ -87,7 +96,7 @@
     "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
     "published": "Tue, 17 Nov 2026 10:33:26 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 10
   },
   {
     "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
@@ -96,7 +105,7 @@
     "link": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
     "published": "Tue, 17 Nov 2026 10:22:18 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 11
   },
   {
     "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
@@ -105,7 +114,7 @@
     "link": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
     "published": "Tue, 17 Nov 2026 09:21:19 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 12
   },
   {
     "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
@@ -114,25 +123,25 @@
     "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
     "published": "Tue, 17 Nov 2026 07:38:07 +0000",
     "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
-    "original_title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
-    "published": "Tue, 17 Nov 2026 06:54:49 +0000",
-    "sentiment": "市场",
     "score": 13
   },
   {
-    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-    "original_title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
-    "published": "Tue, 17 Nov 2026 05:37:23 +0000",
+    "title": "Here’s what happened in crypto today",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 17 Nov 2026 22:37:51 +0000",
     "sentiment": "市场",
     "score": 14
+  },
+  {
+    "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
+    "original_title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 17 Nov 2026 22:20:04 +0000",
+    "sentiment": "市场",
+    "score": 15
   },
   {
     "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 17 Nov 2026 20:05:04 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 17 Nov 2026 17:39:41 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
@@ -158,15 +167,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 17 Nov 2026 16:39:43 +0000",
-    "sentiment": "市场",
-    "score": 17
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 17 Nov 2026 14:54:40 +0000",
     "sentiment": "市场",
     "score": 18
   },
@@ -232,23 +232,5 @@
     "published": "Tue, 17 Nov 2026 09:08:32 +0000",
     "sentiment": "市场",
     "score": 25
-  },
-  {
-    "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
-    "original_title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 17 Nov 2026 01:02:05 +0000",
-    "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-    "original_title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 16 Nov 2026 22:54:57 +0000",
-    "sentiment": "市场",
-    "score": 27
   }
 ]
