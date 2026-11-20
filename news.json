@@ -1,12 +1,39 @@
 [
   {
+    "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+    "original_title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+    "published": "Fri, 20 Nov 2026 04:58:08 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+    "original_title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+    "published": "Fri, 20 Nov 2026 04:28:52 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+    "original_title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+    "published": "Fri, 20 Nov 2026 03:32:30 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
     "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
     "original_title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
     "published": "Thu, 19 Nov 2026 19:53:42 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 3
   },
   {
     "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
@@ -15,7 +42,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
     "published": "Thu, 19 Nov 2026 16:09:28 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 4
   },
   {
     "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
@@ -24,7 +51,7 @@
     "link": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
     "published": "Thu, 19 Nov 2026 15:20:38 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 5
   },
   {
     "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
@@ -33,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
     "published": "Thu, 19 Nov 2026 13:11:31 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 6
   },
   {
     "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
@@ -42,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
     "published": "Thu, 19 Nov 2026 12:40:12 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 7
   },
   {
     "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
@@ -51,7 +78,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
     "published": "Thu, 19 Nov 2026 12:20:39 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 8
   },
   {
     "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
@@ -60,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
     "published": "Thu, 19 Nov 2026 12:08:06 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 9
   },
   {
     "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
@@ -69,7 +96,7 @@
     "link": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
     "published": "Thu, 19 Nov 2026 11:30:00 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 10
   },
   {
     "title": "Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble",
@@ -78,7 +105,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
     "published": "Thu, 19 Nov 2026 10:48:26 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 11
   },
   {
     "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
@@ -87,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
     "published": "Thu, 19 Nov 2026 10:22:12 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 12
   },
   {
     "title": "Fed's rate hike push may be a mistake. Here's why",
@@ -96,7 +123,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
     "published": "Thu, 19 Nov 2026 06:23:19 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 13
   },
   {
     "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
@@ -105,25 +132,16 @@
     "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
     "published": "Thu, 19 Nov 2026 05:39:06 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 14
   },
   {
-    "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
-    "original_title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
-    "published": "Thu, 19 Nov 2026 04:46:10 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "original_title": "Here’s what happened in crypto today",
+    "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+    "original_title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
     "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 19 Nov 2026 21:42:20 +0000",
+    "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 20 Nov 2026 03:33:22 +0000",
     "sentiment": "市场",
-    "score": 13
+    "score": 15
   },
   {
     "title": "MoonPay seeks US bank charter for stablecoin, custody services",
@@ -132,7 +150,7 @@
     "link": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 19 Nov 2026 21:01:42 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 16
   },
   {
     "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
@@ -141,7 +159,7 @@
     "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 19 Nov 2026 18:20:49 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 17
   },
   {
     "title": "Why higher rates could slow Bitcoin buying at treasury firms",
@@ -150,7 +168,7 @@
     "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 19 Nov 2026 18:09:32 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 18
   },
   {
     "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
@@ -159,7 +177,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 19 Nov 2026 18:06:50 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 19
   },
   {
     "title": "Ethereum’s new DeFi security tool raises questions over censorship",
@@ -168,7 +186,7 @@
     "link": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 19 Nov 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 20
   },
   {
     "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
@@ -177,7 +195,7 @@
     "link": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 19 Nov 2026 12:44:06 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 21
   },
   {
     "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
@@ -186,7 +204,7 @@
     "link": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 19 Nov 2026 11:19:58 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 22
   },
   {
     "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
@@ -195,7 +213,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 19 Nov 2026 08:26:19 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 23
   },
   {
     "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
@@ -204,7 +222,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 19 Nov 2026 07:55:56 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 24
   },
   {
     "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
@@ -213,6 +231,6 @@
     "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 19 Nov 2026 06:00:00 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 25
   }
 ]
