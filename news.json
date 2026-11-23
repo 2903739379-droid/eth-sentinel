@@ -36,7 +36,7 @@
     "score": 3
   },
   {
-    "title": "比特币节点可能会因重复一个 ID 50,000 次而陷入停滞。 AI发现了这个bug",
+    "title": "比特币节点可能会因为重复一个 ID 50,000 次而陷入停滞。 AI发现了这个bug",
     "original_title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
@@ -72,7 +72,7 @@
     "score": 7
   },
   {
-    "title": "比特币跌破 59,000 美元，现金热潮让熊市新低再次发挥作用",
+    "title": "比特币暴跌至 59,000 美元以下，因为人们纷纷涌入现金，熊市新低再次出现",
     "original_title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
@@ -144,13 +144,31 @@
     "score": 15
   },
   {
+    "title": "亿万富翁比尔·阿克曼警告美联储将在12月犯下利率“错误”",
+    "original_title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 23 Nov 2026 02:47:39 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
+    "title": "比特币的大幅反弹能否持续？发现更多被篡改的账本：霍德勒文摘",
+    "original_title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 22 Nov 2026 22:47:09 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
     "title": "这是今天加密货币领域发生的事情",
     "original_title": "Here’s what happened in crypto today",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sun, 22 Nov 2026 11:25:27 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 18
   },
   {
     "title": "Kraken 比特币短暂跌至 1.7 万美元，交易所维持交易",
@@ -159,7 +177,7 @@
     "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sun, 22 Nov 2026 09:33:06 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 19
   },
   {
     "title": "美国立法者提议对预测市场举报者给予高达30%的奖励",
@@ -168,7 +186,7 @@
     "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 21 Nov 2026 07:51:47 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 20
   },
   {
     "title": "香港推动将加密货币托管人和顾问纳入许可规则",
@@ -177,7 +195,7 @@
     "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 21 Nov 2026 05:40:35 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 21
   },
   {
     "title": "Sky Protocol 收到 20 亿美元的稳定币提款，对非法资金索赔提出异议",
@@ -186,7 +204,7 @@
     "link": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 20 Nov 2026 18:37:10 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 22
   },
   {
     "title": "由于大盘抛售，比特币自 7 月以来首次跌破 6 万美元",
@@ -195,7 +213,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 20 Nov 2026 16:55:51 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 23
   },
   {
     "title": "美国参议院通过《死亡赌注法案》推进预测市场限制",
@@ -204,7 +222,7 @@
     "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 20 Nov 2026 15:55:22 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 24
   },
   {
     "title": "由于科技股抛售，Anthropic 跌至 87 美元，比特币价格跌至 6 万美元",
@@ -213,7 +231,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 20 Nov 2026 15:52:06 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 25
   },
   {
     "title": "拉加德警告欧洲可能会错失统一代币化市场的机会",
@@ -222,7 +240,7 @@
     "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 20 Nov 2026 13:21:39 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 26
   },
   {
     "title": "币安黑客通过 THORChain、Chainflip 转移近 6 亿美元的 ETH",
@@ -231,7 +249,7 @@
     "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 20 Nov 2026 11:31:41 +0000",
     "sentiment": "市场",
-    "score": 25
+    "score": 27
   },
   {
     "title": "Coinbase 保留 VanEck 终止 Gemini ETF 托管交易",
@@ -240,33 +258,6 @@
     "link": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 20 Nov 2026 10:54:38 +0000",
     "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "比特币接近重演 2023 年 2.5 万美元重新测试之前的图表模式",
-    "original_title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 20 Nov 2026 10:29:10 +0000",
-    "sentiment": "市场",
-    "score": 27
-  },
-  {
-    "title": "贝莱德 (BlackRock) 的 IBIT 在 Anthropic 上市后损失创纪录的 5.41 亿美元",
-    "original_title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 20 Nov 2026 08:18:42 +0000",
-    "sentiment": "市场",
     "score": 28
-  },
-  {
-    "title": "SEC 指控 8 家公司涉嫌虚假加密货币平台，涉及 3700 万美元的欺诈",
-    "original_title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 20 Nov 2026 08:03:34 +0000",
-    "sentiment": "市场",
-    "score": 29
   }
 ]
