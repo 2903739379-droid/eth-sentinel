@@ -54,7 +54,7 @@
     "score": 5
   },
   {
-    "title": "比特币收回了周一英伟达驱动的涨幅，清算量增加了三倍",
+    "title": "比特币收回了周一由英伟达驱动的涨幅，清算量增加了三倍",
     "original_title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
@@ -81,7 +81,7 @@
     "score": 8
   },
   {
-    "title": "经过数月的争议后，韩国监管机构支持银行控制的稳定币",
+    "title": "经过数月的争议，韩国监管机构支持银行控制的稳定币",
     "original_title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
@@ -126,13 +126,40 @@
     "score": 13
   },
   {
+    "title": "CleanSpark 考虑出售比开采的比特币更多的比特币，以降低书籍风险",
+    "original_title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 25 Nov 2026 01:40:59 +0000",
+    "sentiment": "市场",
+    "score": 14
+  },
+  {
+    "title": "这是今天加密货币领域发生的事情",
+    "original_title": "Here’s what happened in crypto today",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 24 Nov 2026 22:12:10 +0000",
+    "sentiment": "市场",
+    "score": 15
+  },
+  {
+    "title": "欧洲刑警组织斥资 2850 万美元打击流媒体盗版加密货币",
+    "original_title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 24 Nov 2026 21:50:25 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
     "title": "需求疲软、被迫清算推动比特币抛售：21Shares",
     "original_title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 24 Nov 2026 19:44:23 +0000",
     "sentiment": "市场",
-    "score": 14
+    "score": 17
   },
   {
     "title": "Coldcard揭示了比特币钱包缺陷如何在五年多的时间里未被发现",
@@ -141,7 +168,7 @@
     "link": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 24 Nov 2026 19:04:26 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 18
   },
   {
     "title": "随着越来越多的公司寻求进入美国，CFTC 制定了新的预测市场规则",
@@ -150,7 +177,7 @@
     "link": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 24 Nov 2026 18:31:42 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 19
   },
   {
     "title": "贝莱德在香港推出接受稳定币的代币化货币市场基金",
@@ -159,7 +186,7 @@
     "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 24 Nov 2026 18:07:22 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 20
   },
   {
     "title": "Anthropic 跌破 IPO 价格，比特币因美国关税紧张而下滑",
@@ -168,7 +195,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 24 Nov 2026 17:09:11 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 21
   },
   {
     "title": "莫斯科交易所开放加密货币交易后，USDT 买家将面临 22% 的增值税",
@@ -177,7 +204,7 @@
     "link": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 24 Nov 2026 14:10:23 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 22
   },
   {
     "title": "Grayscale称比特币“超卖”至6.2万美元，但警告人工智能风险",
@@ -186,7 +213,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 24 Nov 2026 13:11:44 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 23
   },
   {
     "title": "韩国提议银行主导的稳定币，加密货币交易所股权上限为 20%",
@@ -195,7 +222,7 @@
     "link": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 24 Nov 2026 12:04:16 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 24
   },
   {
     "title": "黄仁勋退出 Nvidia 后比特币下跌，但他回归后比特币上涨 5%",
@@ -204,7 +231,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 24 Nov 2026 11:40:33 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 25
   },
   {
     "title": "黄金创下 20 世纪 80 年代以来最严重 60 天跌幅，比特币跌至 6 万美元以下",
@@ -213,7 +240,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 24 Nov 2026 09:25:45 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 26
   },
   {
     "title": "贝莱德 IBIT 股价上涨近 5%，比特币 ETF 持续下跌",
@@ -222,16 +249,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 24 Nov 2026 07:41:50 +0000",
     "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "这是今天加密货币领域发生的事情",
-    "original_title": "Here’s what happened in crypto today",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 24 Nov 2026 06:00:00 +0000",
-    "sentiment": "市场",
-    "score": 25
+    "score": 27
   },
   {
     "title": "为什么 42 Macro 表示正在等待比特币下跌",
@@ -240,33 +258,6 @@
     "link": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 24 Nov 2026 05:07:30 +0000",
     "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "以太坊基金会在大修之前将协议安全团队扩大一倍",
-    "original_title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 24 Nov 2026 00:36:26 +0000",
-    "sentiment": "市场",
-    "score": 27
-  },
-  {
-    "title": "CFTC 工作人员表示，交易所可以将比特币计入运营储备",
-    "original_title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 23 Nov 2026 23:43:34 +0000",
-    "sentiment": "市场",
     "score": 28
-  },
-  {
-    "title": "美国寻求追回因朝鲜相关币安黑客攻击而被盗的 1.1 亿美元加密货币",
-    "original_title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 23 Nov 2026 21:04:03 +0000",
-    "sentiment": "市场",
-    "score": 29
   }
 ]
