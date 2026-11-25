@@ -1,12 +1,66 @@
 [
   {
+    "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+    "original_title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+    "published": "Wed, 25 Nov 2026 18:24:47 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+    "original_title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+    "published": "Wed, 25 Nov 2026 17:38:33 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+    "original_title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+    "published": "Wed, 25 Nov 2026 16:02:31 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
+    "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+    "original_title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
+    "published": "Wed, 25 Nov 2026 16:02:07 +0000",
+    "sentiment": "市场",
+    "score": 3
+  },
+  {
+    "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
+    "original_title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+    "published": "Wed, 25 Nov 2026 15:59:44 +0000",
+    "sentiment": "市场",
+    "score": 4
+  },
+  {
+    "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+    "original_title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+    "published": "Wed, 25 Nov 2026 14:47:17 +0000",
+    "sentiment": "市场",
+    "score": 5
+  },
+  {
     "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
     "original_title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
     "published": "Wed, 25 Nov 2026 12:18:46 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 6
   },
   {
     "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
@@ -15,7 +69,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
     "published": "Wed, 25 Nov 2026 11:57:50 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 7
   },
   {
     "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
@@ -24,7 +78,7 @@
     "link": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
     "published": "Wed, 25 Nov 2026 11:51:54 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 8
   },
   {
     "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
@@ -33,16 +87,16 @@
     "link": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
     "published": "Wed, 25 Nov 2026 11:30:32 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 9
   },
   {
-    "title": "Live updates: Bitcoin slips back under $59,000, with tech rout continuing",
-    "original_title": "Live updates: Bitcoin slips back under $59,000, with tech rout continuing",
+    "title": "Live updates: Bitcoin climbs from lows as markets bounce from big early declines",
+    "original_title": "Live updates: Bitcoin climbs from lows as markets bounce from big early declines",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
     "published": "Wed, 25 Nov 2026 08:35:47 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 10
   },
   {
     "title": "Solana developers move to stop validators finishing work on blocks that already lost",
@@ -51,7 +105,7 @@
     "link": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
     "published": "Wed, 25 Nov 2026 06:33:10 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 11
   },
   {
     "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
@@ -60,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
     "published": "Wed, 25 Nov 2026 04:57:22 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 12
   },
   {
     "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
@@ -69,7 +123,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
     "published": "Wed, 25 Nov 2026 04:50:08 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 13
   },
   {
     "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
@@ -78,60 +132,6 @@
     "link": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
     "published": "Tue, 24 Nov 2026 16:00:25 +0000",
     "sentiment": "市场",
-    "score": 8
-  },
-  {
-    "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
-    "original_title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
-    "published": "Tue, 24 Nov 2026 14:40:53 +0000",
-    "sentiment": "市场",
-    "score": 9
-  },
-  {
-    "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
-    "original_title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
-    "published": "Tue, 24 Nov 2026 12:47:49 +0000",
-    "sentiment": "市场",
-    "score": 10
-  },
-  {
-    "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
-    "original_title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
-    "published": "Tue, 24 Nov 2026 12:47:40 +0000",
-    "sentiment": "市场",
-    "score": 11
-  },
-  {
-    "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
-    "original_title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
-    "published": "Tue, 24 Nov 2026 12:36:28 +0000",
-    "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
-    "original_title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
-    "published": "Tue, 24 Nov 2026 12:04:39 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
-    "original_title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
-    "published": "Tue, 24 Nov 2026 11:31:56 +0000",
-    "sentiment": "市场",
     "score": 14
   },
   {
@@ -139,9 +139,72 @@
     "original_title": "Here’s what happened in crypto today",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 25 Nov 2026 13:26:05 +0000",
+    "published": "Wed, 25 Nov 2026 22:33:13 +0000",
     "sentiment": "市场",
     "score": 15
+  },
+  {
+    "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+    "original_title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 25 Nov 2026 21:53:38 +0000",
+    "sentiment": "市场",
+    "score": 16
+  },
+  {
+    "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+    "original_title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 25 Nov 2026 21:22:19 +0000",
+    "sentiment": "市场",
+    "score": 17
+  },
+  {
+    "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+    "original_title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 25 Nov 2026 18:54:51 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+    "original_title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 25 Nov 2026 17:53:10 +0000",
+    "sentiment": "市场",
+    "score": 19
+  },
+  {
+    "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+    "original_title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 25 Nov 2026 17:33:22 +0000",
+    "sentiment": "市场",
+    "score": 20
+  },
+  {
+    "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
+    "original_title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 25 Nov 2026 17:19:33 +0000",
+    "sentiment": "市场",
+    "score": 21
+  },
+  {
+    "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
+    "original_title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 25 Nov 2026 14:21:36 +0000",
+    "sentiment": "市场",
+    "score": 22
   },
   {
     "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
@@ -150,7 +213,7 @@
     "link": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 25 Nov 2026 13:02:09 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 23
   },
   {
     "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
@@ -159,7 +222,7 @@
     "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 25 Nov 2026 11:49:54 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 24
   },
   {
     "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
@@ -168,7 +231,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 25 Nov 2026 11:12:26 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 25
   },
   {
     "title": "Bitcoin price may fall below $53K if bear-market history repeats",
@@ -177,7 +240,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 25 Nov 2026 11:09:38 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 26
   },
   {
     "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
@@ -186,7 +249,7 @@
     "link": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 25 Nov 2026 09:58:12 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 27
   },
   {
     "title": "Stablecoin redemptions hit $12B in 30 days, echoing 2022 bear market",
@@ -195,7 +258,7 @@
     "link": "https://cointelegraph.com/markets/stablecoin-cash-out-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 25 Nov 2026 09:52:22 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 28
   },
   {
     "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
@@ -204,60 +267,6 @@
     "link": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 25 Nov 2026 06:54:59 +0000",
     "sentiment": "市场",
-    "score": 22
-  },
-  {
-    "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
-    "original_title": "Solana DEX Velocity halts trading over bug just months after relaunch",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 25 Nov 2026 05:32:55 +0000",
-    "sentiment": "市场",
-    "score": 23
-  },
-  {
-    "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-    "original_title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 25 Nov 2026 01:40:59 +0000",
-    "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
-    "original_title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 24 Nov 2026 21:50:25 +0000",
-    "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
-    "original_title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 24 Nov 2026 19:44:23 +0000",
-    "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
-    "original_title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 24 Nov 2026 19:04:26 +0000",
-    "sentiment": "市场",
-    "score": 27
-  },
-  {
-    "title": "CFTC sets new prediction market rules as more firms seek US entry",
-    "original_title": "CFTC sets new prediction market rules as more firms seek US entry",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 24 Nov 2026 18:31:42 +0000",
-    "sentiment": "市场",
-    "score": 28
+    "score": 29
   }
 ]
