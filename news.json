@@ -1,12 +1,39 @@
 [
   {
+    "title": "开发者发现，一笔小额支付就能暴露比特币钱包背后的IP地址",
+    "original_title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+    "published": "Thu, 26 Nov 2026 17:30:00 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "比特币的休眠供应量增加，这是之前熊市触底阶段出现的行为",
+    "original_title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+    "published": "Thu, 26 Nov 2026 16:50:23 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
+    "title": "顾问的加密货币：在信任加密货币交易所之前要问的四个问题",
+    "original_title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
+    "published": "Thu, 26 Nov 2026 15:42:43 +0000",
+    "sentiment": "市场",
+    "score": 2
+  },
+  {
     "title": "西班牙赋予反洗钱部门在没有法官的情况下冻结加密货币账户的权力",
     "original_title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
     "published": "Thu, 26 Nov 2026 14:05:58 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 3
   },
   {
     "title": "比特币 ETF 正在流失现金，美联储不太可能提供帮助",
@@ -15,7 +42,7 @@
     "link": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
     "published": "Thu, 26 Nov 2026 12:14:46 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 4
   },
   {
     "title": "总部位于香港的加密货币交易公司 Auros 正在结束业务",
@@ -24,7 +51,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
     "published": "Thu, 26 Nov 2026 11:27:50 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 5
   },
   {
     "title": "比特币变化不大，美国感恩节 DeFi 代币领涨",
@@ -33,7 +60,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
     "published": "Thu, 26 Nov 2026 11:17:22 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 6
   },
   {
     "title": "纽约总检察长赢得针对加密货币交易公司 NovaTech 创始人的 14 亿美元裁决",
@@ -42,7 +69,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
     "published": "Thu, 26 Nov 2026 10:40:33 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 7
   },
   {
     "title": "70 亿美元的比特币期权周五到期，最大的赌注看起来与 10 月份截然不同",
@@ -51,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
     "published": "Thu, 26 Nov 2026 08:01:33 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 8
   },
   {
     "title": "超过 1,000 名比特币矿工被虚假互联网路线欺骗为小偷工作",
@@ -60,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
     "published": "Thu, 26 Nov 2026 06:19:09 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 9
   },
   {
     "title": "美国政府将比特币锁定20年的法案获得全院通过",
@@ -69,7 +96,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
     "published": "Thu, 26 Nov 2026 04:46:01 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 10
   },
   {
     "title": "法国参议院阻止新的加密税和钱包名单批评者称其为绑架风险",
@@ -78,7 +105,7 @@
     "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
     "published": "Wed, 25 Nov 2026 18:24:47 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 11
   },
   {
     "title": "“这一次实际上似乎有所不同”：随着比特币暴跌，加密货币资深人士准备迎接更多痛苦",
@@ -87,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
     "published": "Wed, 25 Nov 2026 17:38:33 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 12
   },
   {
     "title": "欧盟银行监管机构寻求欧盟委员会对提供 DeFi 贷款的加密货币公司制定规则",
@@ -96,7 +123,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
     "published": "Wed, 25 Nov 2026 16:02:31 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 13
   },
   {
     "title": "乌克兰立法者通过加密货币税收和监管法案，预计将带来 3.3 亿美元的收入",
@@ -105,7 +132,7 @@
     "link": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
     "published": "Wed, 25 Nov 2026 16:02:07 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 14
   },
   {
     "title": "加密货币多空：比特币投资者不能继续忽视日本",
@@ -114,43 +141,70 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
     "published": "Wed, 25 Nov 2026 15:59:44 +0000",
     "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "韩国加密货币交易所 Bithumb 在 10 月份进行更深入的违规调查后警告网络钓鱼",
-    "original_title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
-    "published": "Wed, 25 Nov 2026 14:47:17 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "美联储首选通胀指标落地，12 月加息已计入市场",
-    "original_title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
-    "published": "Wed, 25 Nov 2026 12:18:46 +0000",
-    "sentiment": "市场",
-    "score": 14
-  },
-  {
-    "title": "随着股票抛售的恢复，以太币、DeFi 的跌幅是比特币的两倍",
-    "original_title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
-    "published": "Wed, 25 Nov 2026 11:57:50 +0000",
-    "sentiment": "市场",
     "score": 15
+  },
+  {
+    "title": "“非常种族主义”的 Netflix SBF 系列，BitMart 缺口 3.19 亿美元：Asia Express",
+    "original_title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 26 Nov 2026 22:39:46 +0000",
+    "sentiment": "市场",
+    "score": 16
   },
   {
     "title": "这是今天加密货币领域发生的事情",
     "original_title": "Here’s what happened in crypto today",
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 26 Nov 2026 13:45:04 +0000",
+    "published": "Thu, 26 Nov 2026 22:12:06 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
+  },
+  {
+    "title": "Coinbase 表示，英国在 DeFi 监管方面“犯了错误”",
+    "original_title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 26 Nov 2026 21:13:53 +0000",
+    "sentiment": "市场",
+    "score": 18
+  },
+  {
+    "title": "日本考虑加强对 DeFi、自我托管钱包的监管",
+    "original_title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 26 Nov 2026 20:05:18 +0000",
+    "sentiment": "市场",
+    "score": 19
+  },
+  {
+    "title": "西班牙授予金融监管机构冻结加密账户的权力",
+    "original_title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 26 Nov 2026 18:26:31 +0000",
+    "sentiment": "市场",
+    "score": 20
+  },
+  {
+    "title": "鹰派美联储面临 12 月“崩溃”风险，加密货币受到关注",
+    "original_title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 26 Nov 2026 17:39:53 +0000",
+    "sentiment": "市场",
+    "score": 21
+  },
+  {
+    "title": "欧盟经纪商如何失去吉尔吉斯加密货币交易所的访问权限",
+    "original_title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 26 Nov 2026 15:45:07 +0000",
+    "sentiment": "市场",
+    "score": 22
   },
   {
     "title": "加密鲸鱼花了一大笔钱买的 7 件奇怪的事情",
@@ -159,7 +213,7 @@
     "link": "https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 26 Nov 2026 13:30:00 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 23
   },
   {
     "title": "Talos 警告感恩节流动性稀薄，比特币价格逼近 6.1 万美元",
@@ -168,7 +222,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 26 Nov 2026 11:22:59 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 24
   },
   {
     "title": "比特币 ETF 11 月资金流出量突破 5B 美元，摩根士丹利逆势上扬",
@@ -177,7 +231,7 @@
     "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 26 Nov 2026 09:42:34 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 25
   },
   {
     "title": "瑞士首只现货比特币ETF开盘上涨0.6%",
@@ -186,7 +240,7 @@
     "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 26 Nov 2026 09:18:15 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 26
   },
   {
     "title": "英国监管机构计划收紧 DeFi 规则，理由是币安 6.3B 美元遭到黑客攻击：报告",
@@ -195,69 +249,6 @@
     "link": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Thu, 26 Nov 2026 05:53:08 +0000",
     "sentiment": "市场",
-    "score": 21
-  },
-  {
-    "title": "参议院民主党人敦促美国证券交易委员会废除加密货币、代币化股票豁免",
-    "original_title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 26 Nov 2026 04:24:45 +0000",
-    "sentiment": "市场",
-    "score": 22
-  },
-  {
-    "title": "计算机科学家表示，人工智能实验室可能坐拥密码学“重磅炸弹”",
-    "original_title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 26 Nov 2026 01:33:20 +0000",
-    "sentiment": "市场",
-    "score": 23
-  },
-  {
-    "title": "瑞士批准 57 个司法管辖区允许加密货币税务数据共享",
-    "original_title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 25 Nov 2026 21:53:38 +0000",
-    "sentiment": "市场",
-    "score": 24
-  },
-  {
-    "title": "Braiins 警告比特币挖矿攻击影响超过 1,000 个站点",
-    "original_title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 25 Nov 2026 21:22:19 +0000",
-    "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "以太坊基金会支持 Keccak-256 应对量子、人工智能威胁",
-    "original_title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 25 Nov 2026 18:54:51 +0000",
-    "sentiment": "市场",
-    "score": 26
-  },
-  {
-    "title": "12 月美联储会议前美国通胀率升至 3.8%，加密货币前景蒙上阴影",
-    "original_title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 25 Nov 2026 17:53:10 +0000",
-    "sentiment": "市场",
     "score": 27
-  },
-  {
-    "title": "由于美国关税担忧和热门 PCE 数据，纳斯达克指数下跌 4%，比特币跌向 5.7 万美元",
-    "original_title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 25 Nov 2026 17:33:22 +0000",
-    "sentiment": "市场",
-    "score": 28
   }
 ]
