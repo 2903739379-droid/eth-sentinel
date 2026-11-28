@@ -1,12 +1,30 @@
 [
   {
+    "title": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value",
+    "original_title": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/11/28/bitcoin-not-delivering-the-bear-market-has-digital-asset-veteran-questioning-btc-s-value",
+    "published": "Sat, 28 Nov 2026 13:02:18 +0000",
+    "sentiment": "市场",
+    "score": 0
+  },
+  {
+    "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+    "original_title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+    "source": "CoinDesk",
+    "link": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+    "published": "Sat, 28 Nov 2026 09:32:51 +0000",
+    "sentiment": "市场",
+    "score": 1
+  },
+  {
     "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
     "original_title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
     "source": "CoinDesk",
     "link": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
     "published": "Fri, 27 Nov 2026 12:16:07 +0000",
     "sentiment": "市场",
-    "score": 0
+    "score": 2
   },
   {
     "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
@@ -15,7 +33,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
     "published": "Fri, 27 Nov 2026 11:45:47 +0000",
     "sentiment": "市场",
-    "score": 1
+    "score": 3
   },
   {
     "title": "Live updates: Bitcoin's Thanksgiving gains prove fleeting",
@@ -24,7 +42,7 @@
     "link": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
     "published": "Fri, 27 Nov 2026 11:34:37 +0000",
     "sentiment": "市场",
-    "score": 2
+    "score": 4
   },
   {
     "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
@@ -33,7 +51,7 @@
     "link": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
     "published": "Fri, 27 Nov 2026 11:22:42 +0000",
     "sentiment": "市场",
-    "score": 3
+    "score": 5
   },
   {
     "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
@@ -42,7 +60,7 @@
     "link": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
     "published": "Fri, 27 Nov 2026 10:51:27 +0000",
     "sentiment": "市场",
-    "score": 4
+    "score": 6
   },
   {
     "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
@@ -51,7 +69,7 @@
     "link": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
     "published": "Fri, 27 Nov 2026 10:00:00 +0000",
     "sentiment": "市场",
-    "score": 5
+    "score": 7
   },
   {
     "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
@@ -60,7 +78,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
     "published": "Fri, 27 Nov 2026 09:49:55 +0000",
     "sentiment": "市场",
-    "score": 6
+    "score": 8
   },
   {
     "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
@@ -69,7 +87,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
     "published": "Fri, 27 Nov 2026 05:06:32 +0000",
     "sentiment": "市场",
-    "score": 7
+    "score": 9
   },
   {
     "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
@@ -78,7 +96,7 @@
     "link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
     "published": "Fri, 27 Nov 2026 04:29:47 +0000",
     "sentiment": "市场",
-    "score": 8
+    "score": 10
   },
   {
     "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
@@ -87,7 +105,7 @@
     "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
     "published": "Thu, 26 Nov 2026 17:30:00 +0000",
     "sentiment": "市场",
-    "score": 9
+    "score": 11
   },
   {
     "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
@@ -96,7 +114,7 @@
     "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
     "published": "Thu, 26 Nov 2026 16:50:23 +0000",
     "sentiment": "市场",
-    "score": 10
+    "score": 12
   },
   {
     "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
@@ -105,7 +123,7 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
     "published": "Thu, 26 Nov 2026 15:42:43 +0000",
     "sentiment": "市场",
-    "score": 11
+    "score": 13
   },
   {
     "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
@@ -114,25 +132,16 @@
     "link": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
     "published": "Thu, 26 Nov 2026 14:05:58 +0000",
     "sentiment": "市场",
-    "score": 12
-  },
-  {
-    "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
-    "original_title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
-    "published": "Thu, 26 Nov 2026 12:14:46 +0000",
-    "sentiment": "市场",
-    "score": 13
-  },
-  {
-    "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
-    "original_title": "Hong Kong-based crypto trading firm Auros is winding down operations",
-    "source": "CoinDesk",
-    "link": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
-    "published": "Thu, 26 Nov 2026 11:27:50 +0000",
-    "sentiment": "市场",
     "score": 14
+  },
+  {
+    "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+    "original_title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+    "source": "Cointelegraph",
+    "link": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 28 Nov 2026 10:31:00 +0000",
+    "sentiment": "市场",
+    "score": 15
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -141,7 +150,7 @@
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 27 Nov 2026 22:12:51 +0000",
     "sentiment": "市场",
-    "score": 15
+    "score": 16
   },
   {
     "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
@@ -150,7 +159,7 @@
     "link": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 27 Nov 2026 21:15:29 +0000",
     "sentiment": "市场",
-    "score": 16
+    "score": 17
   },
   {
     "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
@@ -159,7 +168,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 27 Nov 2026 19:23:00 +0000",
     "sentiment": "市场",
-    "score": 17
+    "score": 18
   },
   {
     "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
@@ -168,7 +177,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 27 Nov 2026 16:48:51 +0000",
     "sentiment": "市场",
-    "score": 18
+    "score": 19
   },
   {
     "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
@@ -177,7 +186,7 @@
     "link": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 27 Nov 2026 12:39:54 +0000",
     "sentiment": "市场",
-    "score": 19
+    "score": 20
   },
   {
     "title": "Austria-supervised crypto firms report 20.4B euros in H1 trading volume",
@@ -186,7 +195,7 @@
     "link": "https://cointelegraph.com/news/austria-supervised-crypto-firms-report-204b-h1-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 27 Nov 2026 12:20:00 +0000",
     "sentiment": "市场",
-    "score": 20
+    "score": 21
   },
   {
     "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
@@ -195,7 +204,7 @@
     "link": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 27 Nov 2026 11:14:28 +0000",
     "sentiment": "市场",
-    "score": 21
+    "score": 22
   },
   {
     "title": "ESMA to overhaul EU’s MiCA crypto register in 2027",
@@ -204,7 +213,7 @@
     "link": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 27 Nov 2026 08:04:39 +0000",
     "sentiment": "市场",
-    "score": 22
+    "score": 23
   },
   {
     "title": "Japan’s crypto security group taps SEAL to speed up hack response",
@@ -213,7 +222,7 @@
     "link": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 27 Nov 2026 05:22:36 +0000",
     "sentiment": "市场",
-    "score": 23
+    "score": 24
   },
   {
     "title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
@@ -222,7 +231,7 @@
     "link": "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 27 Nov 2026 04:47:36 +0000",
     "sentiment": "市场",
-    "score": 24
+    "score": 25
   },
   {
     "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
@@ -230,15 +239,6 @@
     "source": "Cointelegraph",
     "link": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 27 Nov 2026 01:47:38 +0000",
-    "sentiment": "市场",
-    "score": 25
-  },
-  {
-    "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
-    "original_title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 26 Nov 2026 22:39:46 +0000",
     "sentiment": "市场",
     "score": 26
   }
